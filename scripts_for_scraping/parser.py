@@ -16,7 +16,11 @@ rubrics = {
 }
 
 
-def get_receptions_from_pages():
+def get_receptions_from_pages() -> None:
+    """
+    Function which collect recipies from different urls from site: https://1000.menu/ and load them to a json file
+    :return: None
+    """
     for names, pages_quantities in rubrics.items():
         result_search = dict()
         for index in range(1, pages_quantities):
