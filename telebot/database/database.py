@@ -79,7 +79,6 @@ class Recipies:
         """)
 
 
-
 class Favorites:
     """
     Model to add favorite recipies
@@ -142,11 +141,9 @@ def data_for_db() -> None:
                                        elements["cooking_time"], elements["link"])
                     breakfast_list.append(structured_info)
 
-
-print(data_for_db())
-cursor.executemany("INSERT INTO breakfast VALUES (?, ?, ?, ?, ?, ?);", breakfast_list)
-cursor.executemany("INSERT INTO lunch VALUES (?, ?, ?, ?, ?, ?);", lunch_list)
-cursor.executemany("INSERT INTO dinner VALUES (?, ?, ?, ?, ?, ?);", dinner_list)
-cursor.executemany("INSERT INTO desserts VALUES (?, ?, ?, ?, ?, ?);", desserts_list)
-con.commit()
-cursor.close()
+    cursor.executemany("INSERT INTO breakfast VALUES (?, ?, ?, ?, ?, ?);", breakfast_list)
+    cursor.executemany("INSERT INTO lunch VALUES (?, ?, ?, ?, ?, ?);", lunch_list)
+    cursor.executemany("INSERT INTO dinner VALUES (?, ?, ?, ?, ?, ?);", dinner_list)
+    cursor.executemany("INSERT INTO desserts VALUES (?, ?, ?, ?, ?, ?);", desserts_list)
+    con.commit()
+    cursor.close()
