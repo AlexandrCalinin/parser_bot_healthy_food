@@ -1,18 +1,13 @@
 import json
 import os
 from peewee import *
+import sqlite3
 
-db = SqliteDatabase(os.path.join('database', 'bot_data.db'))
-
-
-class BaseModel(Model):
-    """Base class model for ORM peewee"""
-
-    class Meta:
-        database: SqliteDatabase = db
+con = sqlite3.connect("bot_data.db")
+cursor = con.cursor()
 
 
-class User(BaseModel):
+class User:
     """
     Model User is done to keep info about users
 
@@ -21,12 +16,17 @@ class User(BaseModel):
         chat_id - chat id
         user _id - user id
     """
-    name = CharField()
-    chat_id = IntegerField()
-    user_id = IntegerField(unique=True)
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS user
+        (id INTEGER PRIMARY KEY UNIQUE,
+        name TEXT NOT NULL,
+        chat_id TEXT NOT NULL,
+        user_id TEXT NOT NULL
+        )
+    """)
 
 
-class Recipies(BaseModel):
+class Recipies:
     """
     Model Recipies is done to keep info about recipes, calories and time-wasting for cooking
 
@@ -36,52 +36,117 @@ class Recipies(BaseModel):
         calories - calories quantity
         time - time spending on cooking
         url - url to site with recipe
-        image - url to dish photo
     """
-    title = CharField(max_length=100)
-    type = CharField()
-    calories = IntegerField()
-    time = IntegerField()
-    url = CharField()
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS breakfast (
+        id INTEGER PRIMARY KEY UNIQUE,
+        title TEXT NOT NULL,
+        type TEXT NOT NULL,
+        calories TEXT NOT NULL,
+        time TEXT NOT NULL,
+        url TEXT NOT NULL
+        )
+    """)
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS lunch (
+        id INTEGER PRIMARY KEY UNIQUE,
+        title TEXT NOT NULL,
+        type TEXT NOT NULL,
+        calories TEXT NOT NULL,
+        time TEXT NOT NULL,
+        url TEXT NOT NULL
+        )
+    """)
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS dinner (
+        id INTEGER PRIMARY KEY UNIQUE,
+        title TEXT NOT NULL,
+        type TEXT NOT NULL,
+        calories TEXT NOT NULL,
+        time TEXT NOT NULL,
+        url TEXT NOT NULL
+        )
+    """)
+    cursor.execute("""
+            CREATE TABLE IF NOT EXISTS desserts (
+            id INTEGER PRIMARY KEY UNIQUE,
+            title TEXT NOT NULL,
+            type TEXT NOT NULL,
+            calories TEXT NOT NULL,
+            time TEXT NOT NULL,
+            url TEXT NOT NULL
+            )
+        """)
 
 
-class Favorites(BaseModel):
-    title = CharField()
-    type = CharField()
-    calories = IntegerField()
-    time = IntegerField()
-    image = CharField()
-    url = CharField()
-    user = ForeignKeyField(User)
+
+class Favorites:
+    """
+    Model to add favorite recipies
+
+    Attrs:
+        title - dish name
+        type - part of day meal (breakfast, lunch, dinner, desserts)
+        calories - calories quantity
+        time - time spending on cooking
+        url - url to site with recipe
+    """
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS favorites(
+        id INTEGER PRIMARY KEY UNIQUE,
+        title TEXT NOT NULL,
+        type TEXT NOT NULL,
+        calories INTEGER NOT NULL,
+        time INTEGER NOT NULL,
+        url TEXT,
+        user INTEGER,
+        FOREIGN KEY (user) REFERENCES user
+        )
+    """)
 
 
-def data_for_db() -> dict:
+breakfast_list = list()
+dinner_list = list()
+lunch_list = list()
+desserts_list = list()
+
+
+def data_for_db() -> None:
     """
     Function which open files and collect info about recipies and send it in a dict
-    :return - dict
+    :return - none
     """
     files_list = ["result_lyogkii-ujin.json", "result_pp-deserty.json", "result_pp-obed.json", "result_pp-zavtrak.json"]
-    directory = "/home/alexandr/PycharmProjects/parser_bot_healthy_food/telebot/database/results/"
     for file_name in files_list:
-        with open(f"{directory}{file_name}", 'r', encoding='utf-8') as file:
+        with open(f"results/{file_name}", 'r', encoding='windows-1251') as file:
             list_of_dicts = json.loads(file.read())
             for elements in list_of_dicts:
                 if file_name == "result_lyogkii-ujin.json":
                     dish_type = "Ужин"
+                    structured_info = (elements["id"], elements["name"], dish_type, elements["calories"],
+                                       elements["cooking_time"], elements["link"])
+                    dinner_list.append(structured_info)
                 elif file_name == "result_pp-deserty.json":
                     dish_type = "Десерты"
+                    structured_info = (elements["id"], elements["name"], dish_type, elements["calories"],
+                                       elements["cooking_time"], elements["link"])
+                    desserts_list.append(structured_info)
                 elif file_name == "result_pp-obed.json":
                     dish_type = "Обед"
+                    structured_info = (elements["id"], elements["name"], dish_type, elements["calories"],
+                                       elements["cooking_time"], elements["link"])
+                    lunch_list.append(structured_info)
                 else:
                     dish_type = "Завтрак"
-                with db.atomic():
-                    Recipies.get_or_create(
-                        title=elements["name"],
-                        url=elements["link"],
-                        type=dish_type,
-                        calories=elements["calories"],
-                        time=elements["cooking_time"]
-                    )
+                    structured_info = (elements["id"], elements["name"], dish_type, elements["calories"],
+                                       elements["cooking_time"], elements["link"])
+                    breakfast_list.append(structured_info)
 
 
 print(data_for_db())
+cursor.executemany("INSERT INTO breakfast VALUES (?, ?, ?, ?, ?, ?);", breakfast_list)
+cursor.executemany("INSERT INTO lunch VALUES (?, ?, ?, ?, ?, ?);", lunch_list)
+cursor.executemany("INSERT INTO dinner VALUES (?, ?, ?, ?, ?, ?);", dinner_list)
+cursor.executemany("INSERT INTO desserts VALUES (?, ?, ?, ?, ?, ?);", desserts_list)
+con.commit()
+cursor.close()

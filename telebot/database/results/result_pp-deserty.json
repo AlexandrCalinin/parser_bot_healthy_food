@@ -1,1682 +1,1969 @@
 [
     {
-        "name": "РЎР»Р°РґРєР°СЏ С‚С‹РєРІР° РІ РґСѓС…РѕРІРєРµ РєСѓСЃРѕС‡РєР°РјРё СЃ РјРµРґРѕРј РџРџ РґРµСЃРµСЂС‚",
+        "id": 1,
+        "name": "Сладкая тыква в духовке кусочками с медом ПП десерт",
         "link": "https://1000.menu//cooking/4672-sladkaya-tykva-v-duxovke",
-        "calories": "43 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "43 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р–РµР»Рµ РёР· СЃРѕРєР° СЃ Р¶РµР»Р°С‚РёРЅРѕРј РџРџ РґРµСЃРµСЂС‚",
+        "id": 2,
+        "name": "Желе из сока с желатином ПП десерт",
         "link": "https://1000.menu//cooking/34916-jele-iz-soka-s-jelatinom",
-        "calories": "41 РєРєР°Р»",
-        "cooking_time": "3 С‡ "
+        "calories": "41 ккал",
+        "cooking_time": "3 ч "
     },
     {
-        "name": "РЇР±Р»РѕС‡РЅС‹Р№ РјР°СЂРјРµР»Р°Рґ РёР· СЏР±Р»РѕРє СЃ Р°РіР°СЂ-Р°РіР°СЂРѕРј РџРџ РґРµСЃРµСЂС‚",
+        "id": 3,
+        "name": "Яблочный мармелад из яблок с агар-агаром ПП десерт",
         "link": "https://1000.menu//cooking/39222-yablochnyi-marmelad-v-domashnix-usloviyax",
-        "calories": "46 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "46 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "Р“СЂСѓС€Рё СЃ СЃС‹СЂРѕРј РґРѕСЂ Р±Р»СЋ РёР»Рё Р±СЂРё РџРџ РґРµСЃРµСЂС‚",
+        "id": 4,
+        "name": "Груши с сыром дор блю или бри ПП десерт",
         "link": "https://1000.menu//cooking/34783-grushi-s-syrom-dor-blu-ili-bri-zapechennye",
-        "calories": "232 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "232 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р—Р°РїРµС‡РµРЅРЅР°СЏ РіСЂСѓС€Р° РІ РґСѓС…РѕРІРєРµ СЃ РјРµРґРѕРј Рё РѕСЂРµС…Р°РјРё РџРџ РґРµСЃРµСЂС‚",
+        "id": 5,
+        "name": "Запеченная груша в духовке с медом и орехами ПП десерт",
         "link": "https://1000.menu//cooking/14838-zapechennye-grushi-s-orexami-i-medom",
-        "calories": "244 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "244 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "Р›РµРґРµРЅС†С‹ Р±РµР· СЃР°С…Р°СЂР° РџРџ РґРµСЃРµСЂС‚",
+        "id": 6,
+        "name": "Леденцы без сахара ПП десерт",
         "link": "https://1000.menu//cooking/27281-ledency-bez-saxara",
-        "calories": "269 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "269 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "Р§РёР° РїСѓРґРёРЅРі РЅР° РєРѕРєРѕСЃРѕРІРѕРј РјРѕР»РѕРєРµ РџРџ РґРµСЃРµСЂС‚",
+        "id": 7,
+        "name": "Чиа пудинг на кокосовом молоке ПП десерт",
         "link": "https://1000.menu//cooking/40890-chia-puding-na-kokosovom-moloke",
-        "calories": "196 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "196 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "РњР°СЂРјРµР»Р°Рґ РёР· С‚С‹РєРІС‹ СЃ Р¶РµР»Р°С‚РёРЅРѕРј РџРџ РґРµСЃРµСЂС‚",
+        "id": 8,
+        "name": "Мармелад из тыквы с желатином ПП десерт",
         "link": "https://1000.menu//cooking/51997-marmelad-iz-tykvy-s-jelatinom-v-domashnix-usloviyax",
-        "calories": "101 РєРєР°Р»",
-        "cooking_time": "4 С‡ "
+        "calories": "101 ккал",
+        "cooking_time": "4 ч "
     },
     {
-        "name": "Р—РµС„РёСЂ Р±РµР· СЃР°С…Р°СЂР° РЅР° Р°РіР°СЂ Р°РіР°СЂРµ РџРџ РґРѕРјР°С€РЅРёР№",
+        "id": 9,
+        "name": "Зефир без сахара на агар агаре ПП домашний",
         "link": "https://1000.menu//cooking/41016-zefir-bez-saxara",
-        "calories": "177 РєРєР°Р»",
-        "cooking_time": "21 С‡ "
+        "calories": "177 ккал",
+        "cooking_time": "21 ч "
     },
     {
-        "name": "РљРѕРЅС„РµС‚С‹ РёР· СЃСѓС…РѕС„СЂСѓРєС‚РѕРІ Рё РѕСЂРµС…РѕРІ РџРџ РґРµСЃРµСЂС‚",
+        "id": 10,
+        "name": "Конфеты из сухофруктов и орехов ПП десерт",
         "link": "https://1000.menu//cooking/15031-konfety-iz-suxofruktov-kuragi-i-chernosliva-i-orexov",
-        "calories": "374 РєРєР°Р»",
-        "cooking_time": "35 РјРёРЅ "
+        "calories": "374 ккал",
+        "cooking_time": "35 мин "
     },
     {
-        "name": "РЇР±Р»РѕРєРё Р·Р°РїРµС‡РµРЅРЅС‹Рµ РІ СЃР»РѕРµРЅРѕРј С‚РµСЃС‚Рµ РІ РґСѓС…РѕРІРєРµ РџРџ РґРµСЃРµСЂС‚",
+        "id": 11,
+        "name": "Яблоки запеченные в слоеном тесте в духовке ПП десерт",
         "link": "https://1000.menu//cooking/16800-yabloki-zapechennye-v-sloenom-teste-v-duxovke",
-        "calories": "231 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "231 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РџРџ Р±СЂР°СѓРЅРё СЃ Р±Р°РЅР°РЅРѕРј Рё РєР°РєР°Рѕ РІ РґСѓС…РѕРІРєРµ",
+        "id": 12,
+        "name": "ПП брауни с бананом и какао в духовке",
         "link": "https://1000.menu//cooking/62245-pp-brauni-s-bananom-i-kakao-v-duxovke",
-        "calories": "168 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "168 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р‘Р°С‚РѕРЅС‡РёРєРё РёР· СЃСѓС…РѕС„СЂСѓРєС‚РѕРІ Рё РѕСЂРµС…РѕРІ РџРџ РґРµСЃРµСЂС‚",
+        "id": 13,
+        "name": "Батончики из сухофруктов и орехов ПП десерт",
         "link": "https://1000.menu//cooking/33912-batonchiki-iz-suxofruktov-i-orexov-svoimi-rukami",
-        "calories": "280 РєРєР°Р»",
-        "cooking_time": "5 С‡ "
+        "calories": "280 ккал",
+        "cooking_time": "5 ч "
     },
     {
-        "name": "РџСЂРѕСЃС‚РѕР№ РџРџ СЃР°Р»Р°С‚ РёР· РґР°Р№РєРѕРЅР° СЃ РјРѕСЂРєРѕРІСЊСЋ Рё СЏР±Р»РѕРєРѕРј",
+        "id": 14,
+        "name": "Простой ПП салат из дайкона с морковью и яблоком",
         "link": "https://1000.menu//cooking/7063-salat-s-daikonom",
-        "calories": "36 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "36 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РџРџ РґРµСЃРµСЂС‚ РёР· С‚РІРѕСЂРѕРіР°",
+        "id": 15,
+        "name": "ПП десерт из творога",
         "link": "https://1000.menu//cooking/69714-pp-desert-iz-tvoroga",
-        "calories": "124 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "124 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р”РёРµС‚РёС‡РµСЃРєРѕРµ РџРџ РїРёСЂРѕР¶РЅРѕРµ РєР°СЂС‚РѕС€РєР° СЃ РјРёРЅРґР°Р»РµРј Рё Р±Р°РЅР°РЅР°РјРё",
+        "id": 16,
+        "name": "Диетическое ПП пирожное картошка с миндалем и бананами",
         "link": "https://1000.menu//cooking/21717-dieticheskoe-pirojnoe-kartoshka",
-        "calories": "240 РєРєР°Р»",
-        "cooking_time": "10 С‡ 20 РјРёРЅ "
+        "calories": "240 ккал",
+        "cooking_time": "10 ч 20 мин "
     },
     {
-        "name": "РџРџ РґРµСЃРµСЂС‚ Р±РµР· СЃР°С…Р°СЂР° РІС‹РїРµС‡РєРё Рё РјСѓРєРё",
+        "id": 17,
+        "name": "ПП десерт без сахара выпечки и муки",
         "link": "https://1000.menu//cooking/69445-pp-desert-bez-saxara-vypechki-i-muki",
-        "calories": "179 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "179 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РџСЂРѕСЃС‚РѕР№ СЃР°Р»Р°С‚ РёР· С„СЂСѓРєС‚РѕРІ Р±РµР· Р·Р°РїСЂР°РІРєРё РџРџ РґРµСЃРµСЂС‚",
+        "id": 18,
+        "name": "Простой салат из фруктов без заправки ПП десерт",
         "link": "https://1000.menu//cooking/30497-lyogkii-fruktovyi-salatik-k-novomu-godu",
-        "calories": "65 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "65 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РџРџ РґРµСЃРµСЂС‚ РёР· СЂСЏР¶РµРЅРєРё СЃ Р¶РµР»Р°С‚РёРЅРѕРј Рё С†РёРєРѕСЂРёРµРј",
+        "id": 19,
+        "name": "ПП десерт из ряженки с желатином и цикорием",
         "link": "https://1000.menu//cooking/37878-desert-iz-ryajenki-s-jelatinom",
-        "calories": "89 РєРєР°Р»",
-        "cooking_time": "2 С‡ 30 РјРёРЅ "
+        "calories": "89 ккал",
+        "cooking_time": "2 ч 30 мин "
     },
     {
-        "name": "Р”РµСЃРµСЂС‚ СЃ С…СѓСЂРјРѕР№ Рё С‚РІРѕСЂРѕРіРѕРј РџРџ",
+        "id": 20,
+        "name": "Десерт с хурмой и творогом ПП",
         "link": "https://1000.menu//cooking/62443-desert-s-xurmoi-i-tvorogom-pp",
-        "calories": "102 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "102 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "РџРџ РЎР°Р»Р°С‚ СЃ СЃРµР»СЊРґРµСЂРµРµРј, СЏР±Р»РѕРєРѕРј, РѕСЂРµС…Р°РјРё Рё Р»РёРјРѕРЅРЅС‹Рј СЃРѕРєРѕРј",
+        "id": 21,
+        "name": "ПП Салат с сельдереем, яблоком, орехами и лимонным соком",
         "link": "https://1000.menu//cooking/42248-salat-s-seldereem-i-yablokom",
-        "calories": "226 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "226 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "Р—Р°РїРµС‡РµРЅРЅС‹Рµ СЏР±Р»РѕРєРё СЃ РјРµРґРѕРј РІ РґСѓС…РѕРІРєРµ",
+        "id": 22,
+        "name": "Запеченные яблоки с медом в духовке",
         "link": "https://1000.menu//cooking/36771-zapechennye-yabloki-s-medom-v-duxovke",
-        "calories": "153 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "153 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЎР»Р°РґРєРёР№ СЃР°Р»Р°С‚ РёР· РїРѕРјРёРґРѕСЂРѕРІ",
+        "id": 23,
+        "name": "Сладкий салат из помидоров",
         "link": "https://1000.menu//cooking/33664-sladkii-salat-iz-pomidorov",
-        "calories": "164 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "164 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р’РѕР·РґСѓС€РЅС‹Р№ СЂРёСЃ РІ РґРѕРјР°С€РЅРёС… СѓСЃР»РѕРІРёСЏС…",
+        "id": 24,
+        "name": "Воздушный рис в домашних условиях",
         "link": "https://1000.menu//cooking/17470-vozdushnyi-ris-v-domashnix-usloviyax",
-        "calories": "198 РєРєР°Р»",
-        "cooking_time": "4 С‡ 30 РјРёРЅ "
+        "calories": "198 ккал",
+        "cooking_time": "4 ч 30 мин "
     },
     {
-        "name": "РўС‹РєРІР° Р·Р°РїРµС‡РµРЅРЅР°СЏ РІ РґСѓС…РѕРІРєРµ СЃ РјРµРґРѕРј",
+        "id": 25,
+        "name": "Тыква запеченная в духовке с медом",
         "link": "https://1000.menu//cooking/6167-zapechenaya-tjkva-s-modom",
-        "calories": "101 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "101 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РџРѕРїРєРѕСЂРЅ РІ РјРёРєСЂРѕРІРѕР»РЅРѕРІРєРµ",
+        "id": 26,
+        "name": "Попкорн в микроволновке",
         "link": "https://1000.menu//cooking/18366-popkorn-v-mikrovolnovke",
-        "calories": "245 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "245 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "Р‘РµР»РµРІСЃРєР°СЏ РїР°СЃС‚РёР»Р° Р±РµР· СЃР°С…Р°СЂР° РґРѕРјР°С€РЅСЏСЏ",
+        "id": 27,
+        "name": "Белевская пастила без сахара домашняя",
         "link": "https://1000.menu//cooking/73831-belevskaya-pastila-bez-saxara-domashnyaya",
-        "calories": "79 РєРєР°Р»",
-        "cooking_time": "9 С‡ "
+        "calories": "79 ккал",
+        "cooking_time": "9 ч "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· СЃС‹СЂРѕР№ СЃРІРµРєР»С‹ СЃ СЃС‹СЂРѕРј Рё РіСЂСѓС€РµР№",
+        "id": 28,
+        "name": "Салат из сырой свеклы с сыром и грушей",
         "link": "https://1000.menu//cooking/33931-salat-iz-syroi-svekly-s-syrom",
-        "calories": "118 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "118 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "Р§РёРїСЃС‹ РёР· СЏР±Р»РѕРє РІ РґСѓС…РѕРІРєРµ",
+        "id": 29,
+        "name": "Чипсы из яблок в духовке",
         "link": "https://1000.menu//cooking/34180-chipsy-iz-yablok",
-        "calories": "61 РєРєР°Р»",
-        "cooking_time": "2 С‡ 30 РјРёРЅ "
+        "calories": "61 ккал",
+        "cooking_time": "2 ч 30 мин "
     },
     {
-        "name": "Р—Р»Р°РєРѕРІС‹Р№ Р±Р°С‚РѕРЅС‡РёРє",
+        "id": 30,
+        "name": "Злаковый батончик",
         "link": "https://1000.menu//cooking/26341-zlakovyi-batonchik",
-        "calories": "203 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "203 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р—Р°РїРµС‡РµРЅРЅС‹Рµ СЏР±Р»РѕРєРё СЃ С‚РІРѕСЂРѕРіРѕРј РІ РґСѓС…РѕРІРєРµ",
+        "id": 31,
+        "name": "Запеченные яблоки с творогом в духовке",
         "link": "https://1000.menu//cooking/43971-zapechennye-yabloki-s-tvorogom-v-duxovke",
-        "calories": "100 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "100 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІРѕРµ Р¶РµР»Рµ РёР· Р¶РµР»Р°С‚РёРЅР° РґРѕРјР°С€РЅРµРµ",
+        "id": 32,
+        "name": "Фруктовое желе из желатина домашнее",
         "link": "https://1000.menu//cooking/4770-fruktovoe-jele-iz-jelatina-domashnee",
-        "calories": "46 РєРєР°Р»",
-        "cooking_time": "3 С‡ 20 РјРёРЅ "
+        "calories": "46 ккал",
+        "cooking_time": "3 ч 20 мин "
     },
     {
-        "name": "Р™РѕРіСѓСЂС‚ С„СЂСѓРєС‚РѕРІС‹Р№",
+        "id": 33,
+        "name": "Йогурт фруктовый",
         "link": "https://1000.menu//cooking/3726-zhivoi-iogurt-s-kusochkami-fruktov",
-        "calories": "66 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "66 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р”РѕРјР°С€РЅРµРµ РјРѕСЂРѕР¶РµРЅРѕРµ СЃРѕСЂР±РµС‚ РІ Р±Р»РµРЅРґРµСЂРµ",
-        "link": "https://1000.menu//cooking/17056-domashnee-morojenoe-sorbet",
-        "calories": "140 РєРєР°Р»",
-        "cooking_time": "12 С‡ "
-    },
-    {
-        "name": "Р”РѕРјР°С€РЅРµРµ Р№РѕРіСѓСЂС‚РѕРІРѕРµ РјРѕСЂРѕР¶РµРЅРѕРµ РёР· Р№РѕРіСѓСЂС‚Р°",
+        "id": 34,
+        "name": "Домашнее йогуртовое мороженое из йогурта",
         "link": "https://1000.menu//cooking/13546-iogurtovoe-morojenoe-s-orexovo-shokoladnoi-kroshkoi",
-        "calories": "187 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "187 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "Р›РµРЅРёРІР°СЏ РѕРІСЃСЏРЅРєР° РІ Р±Р°РЅРєРµ СЃ Р№РѕРіСѓСЂС‚РѕРј",
+        "id": 35,
+        "name": "Ленивая овсянка в банке с йогуртом",
         "link": "https://1000.menu//cooking/16217-lenivaya-ovsyanka-v-banke",
-        "calories": "144 РєРєР°Р»",
-        "cooking_time": "9 С‡ "
+        "calories": "144 ккал",
+        "cooking_time": "9 ч "
     },
     {
-        "name": "Р”РѕРјР°С€РЅРµРµ РјРѕСЂРѕР¶РµРЅРѕРµ РёР· Р±Р°РЅР°РЅР° Рё РјРѕР»РѕРєР°",
+        "id": 36,
+        "name": "Домашнее мороженое из банана и молока",
         "link": "https://1000.menu//cooking/24790-domashnee-morojenoe-iz-banana-i-moloka",
-        "calories": "82 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "82 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р“СЂРµС†РєРёРµ РѕСЂРµС…Рё СЃ РјРµРґРѕРј Рё Р»РёРјРѕРЅРѕРј",
+        "id": 37,
+        "name": "Грецкие орехи с медом и лимоном",
         "link": "https://1000.menu//cooking/71307-greckie-orexi-s-medom-i-limonom",
-        "calories": "443 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "443 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "Р‘Р°РЅР°РЅРѕРІС‹Рµ С‡РёРїСЃС‹ РІ РґРѕРјР°С€РЅРёС… СѓСЃР»РѕРІРёСЏС… РІ РґСѓС…РѕРІРєРµ",
+        "id": 38,
+        "name": "Банановые чипсы в домашних условиях в духовке",
         "link": "https://1000.menu//cooking/5104-bananovje-chipsj",
-        "calories": "81 РєРєР°Р»",
-        "cooking_time": "2 С‡ 30 РјРёРЅ "
+        "calories": "81 ккал",
+        "cooking_time": "2 ч 30 мин "
     },
     {
-        "name": "Р–Р°СЂРµРЅС‹Р№ Р°СЂР°С…РёСЃ РЅР° СЃРєРѕРІРѕСЂРѕРґРµ РІ С€РµР»СѓС…Рµ",
+        "id": 39,
+        "name": "Жареный арахис на сковороде в шелухе",
         "link": "https://1000.menu//cooking/40213-jarenyi-araxis-na-skovorode-v-sheluxe",
-        "calories": "568 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "568 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ РѕРіСѓСЂС†РѕРј СЏР±Р»РѕРєРѕРј Рё СЃРµР»СЊРґРµСЂРµРµРј",
+        "id": 40,
+        "name": "Салат с огурцом яблоком и сельдереем",
         "link": "https://1000.menu//cooking/42498-salat-s-ogurcom-yablokom-i-seldereem",
-        "calories": "43 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "43 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РљР»СЋРєРІР° СЃ РјРµРґРѕРј",
+        "id": 41,
+        "name": "Клюква с медом",
         "link": "https://1000.menu//cooking/70529-klukva-s-medom",
-        "calories": "213 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "213 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЇР±Р»РѕРєРё СЃ РјРµРґРѕРј Р·Р°РїРµС‡РµРЅРЅС‹Рµ РІ РјРёРєСЂРѕРІРѕР»РЅРѕРІРєРµ С†РµР»РёРєРѕРј РІ РєРѕР¶СѓСЂРµ",
+        "id": 42,
+        "name": "Яблоки с медом запеченные в микроволновке целиком в кожуре",
         "link": "https://1000.menu//cooking/18151-yabloki-s-medom-v-mikrovolnovke",
-        "calories": "71 РєРєР°Р»",
-        "cooking_time": "5 РјРёРЅ "
+        "calories": "71 ккал",
+        "cooking_time": "5 мин "
     },
     {
-        "name": "РЁРѕРєРѕР»Р°РґРЅРѕРµ С„РѕРЅРґСЋ РІ РґРѕРјР°С€РЅРёС… СѓСЃР»РѕРІРёСЏС…",
+        "id": 43,
+        "name": "Шоколадное фондю в домашних условиях",
         "link": "https://1000.menu//cooking/34837-shokoladnoe-fondu-v-domashnix-usloviyax",
-        "calories": "175 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "175 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ СЃРµР»СЊРґРµСЂРµРµРј Рё СЏР±Р»РѕРєРѕРј",
+        "id": 44,
+        "name": "Салат с сельдереем и яблоком",
         "link": "https://1000.menu//cooking/31407-salat-iz-seldereya-i-yabloka",
-        "calories": "28 РєРєР°Р»",
-        "cooking_time": "5 РјРёРЅ "
+        "calories": "28 ккал",
+        "cooking_time": "5 мин "
     },
     {
-        "name": "Р›РµС‚РЅРёР№ РґРµСЃРµСЂС‚ СЃ РјРѕСЂРѕР¶РµРЅС‹Рј Рё С„СЂСѓРєС‚Р°РјРё",
+        "id": 45,
+        "name": "Летний десерт с мороженым и фруктами",
         "link": "https://1000.menu//cooking/32034-fruktovyi-desert-s-morojenym",
-        "calories": "97 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "97 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р–РµР»Рµ РёР· РєРѕРјРїРѕС‚Р° СЃ Р¶РµР»Р°С‚РёРЅРѕРј",
+        "id": 46,
+        "name": "Желе из компота с желатином",
         "link": "https://1000.menu//cooking/25751-jele-iz-kompota",
-        "calories": "52 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "52 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р”РѕРјР°С€РЅРёР№ РјР°СЂРјРµР»Р°Рґ Р±РµР· СЃР°С…Р°СЂР°",
+        "id": 47,
+        "name": "Домашний мармелад без сахара",
         "link": "https://1000.menu//cooking/36062-domashnii-marmelad-bez-saxara",
-        "calories": "57 РєРєР°Р»",
-        "cooking_time": "6 С‡ "
+        "calories": "57 ккал",
+        "cooking_time": "6 ч "
     },
     {
-        "name": "РњР°СЂРјРµР»Р°Рґ РёР· РІР°СЂРµРЅСЊСЏ",
+        "id": 48,
+        "name": "Мармелад из варенья",
         "link": "https://1000.menu//cooking/26806-marmelad-iz-varenya",
-        "calories": "123 РєРєР°Р»",
-        "cooking_time": "4 С‡ "
+        "calories": "123 ккал",
+        "cooking_time": "4 ч "
     },
     {
-        "name": "РљР°РЅР°РїРµ РЅР° РґРµС‚СЃРєРёР№ РґРµРЅСЊ СЂРѕР¶РґРµРЅРёСЏ",
+        "id": 49,
+        "name": "Канапе на детский день рождения",
         "link": "https://1000.menu//cooking/37299-kanape-na-detskii-den-rojdeniya",
-        "calories": "42 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "42 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "Р—Р°РїРµС‡РµРЅРЅС‹Рµ СЏР±Р»РѕРєРё РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ РґРµСЃРµСЂС‚",
+        "id": 50,
+        "name": "Запеченные яблоки в мультиварке десерт",
         "link": "https://1000.menu//cooking/23846-zapechennye-yabloki-v-multivarke-desert",
-        "calories": "133 РєРєР°Р»",
-        "cooking_time": "35 РјРёРЅ "
+        "calories": "133 ккал",
+        "cooking_time": "35 мин "
     },
     {
-        "name": "РЁРѕРєРѕР»Р°Рґ РёР· РєСЌСЂРѕР±Р°",
+        "id": 51,
+        "name": "Шоколад из кэроба",
         "link": "https://1000.menu//cooking/20236-shokolad-iz-keroba-v-domashnix-usloviyax",
-        "calories": "510 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "510 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р—Р°РїРµС‡РµРЅРЅС‹Рµ Р±Р°РЅР°РЅС‹ РІ РґСѓС…РѕРІРєРµ",
+        "id": 52,
+        "name": "Запеченные бананы в духовке",
         "link": "https://1000.menu//cooking/26925-zapechennye-banany-v-duxovke",
-        "calories": "97 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "97 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "Р‘Р°С‚РѕРЅС‡РёРєРё РёР· РѕРІСЃСЏРЅС‹С… С…Р»РѕРїСЊРµРІ РґРѕРјР°С€РЅРёРµ",
+        "id": 53,
+        "name": "Батончики из овсяных хлопьев домашние",
         "link": "https://1000.menu//cooking/26347-batonchiki-iz-ovsyanyx-xlopev",
-        "calories": "294 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "294 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЇР±Р»РѕРєРё СЃ РіСЂРµС†РєРёРјРё РѕСЂРµС…Р°РјРё Р·Р°РїРµС‡РµРЅРЅС‹Рµ РІ РґСѓС…РѕРІРєРµ СЃ РјРµРґРѕРј",
+        "id": 54,
+        "name": "Яблоки с грецкими орехами запеченные в духовке с медом",
         "link": "https://1000.menu//cooking/11441-zapechennoe-yabloko-s-orexami-i-djemom",
-        "calories": "149 РєРєР°Р»",
-        "cooking_time": "35 РјРёРЅ "
+        "calories": "149 ккал",
+        "cooking_time": "35 мин "
     },
     {
-        "name": "РўРІРѕСЂРѕРі СЃ Р№РѕРіСѓСЂС‚РѕРј",
+        "id": 55,
+        "name": "Творог с йогуртом",
         "link": "https://1000.menu//cooking/16241-tvorog-s-iogurtom",
-        "calories": "155 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "155 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РљР»СѓР±РЅРёРєР° РІ С€РѕРєРѕР»Р°РґРµ",
+        "id": 56,
+        "name": "Клубника в шоколаде",
         "link": "https://1000.menu//cooking/64934-klubnika-v-shokolade",
-        "calories": "131 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "131 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· СЃРІРµР¶РµР№ С‚С‹РєРІС‹",
+        "id": 57,
+        "name": "Смузи с бананом и молоком",
+        "link": "https://1000.menu//cooking/21901-smuzi-s-bananom",
+        "calories": "84 ккал",
+        "cooking_time": "5 мин "
+    },
+    {
+        "id": 58,
+        "name": "Салат из свежей тыквы",
         "link": "https://1000.menu//cooking/44335-salat-iz-svejei-tykvy",
-        "calories": "132 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "132 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "Р–РµР»РµР№РЅС‹Р№ РґРµСЃРµСЂС‚ СЃ С„СЂСѓРєС‚Р°РјРё",
+        "id": 59,
+        "name": "Желейный десерт с фруктами",
         "link": "https://1000.menu//cooking/43435-jeleinyi-desert-s-fruktami",
-        "calories": "42 РєРєР°Р»",
-        "cooking_time": "5 С‡ "
+        "calories": "42 ккал",
+        "cooking_time": "5 ч "
     },
     {
-        "name": "РњРѕР»РѕС‡РЅС‹Р№ РїРµР»Р°РјСѓС€Рё СЃ С€РѕРєРѕР»Р°РґРѕРј РґРµСЃРµСЂС‚",
+        "id": 60,
+        "name": "Молочный пеламуши с шоколадом десерт",
         "link": "https://1000.menu//cooking/73541-molochnyi-pelamushi-s-shokoladom-desert",
-        "calories": "233 РєРєР°Р»",
-        "cooking_time": "4 С‡ "
+        "calories": "233 ккал",
+        "cooking_time": "4 ч "
     },
     {
-        "name": "РўРІРѕСЂРѕР¶РЅРѕРµ РјРѕСЂРѕР¶РµРЅРѕРµ РІ РґРѕРјР°С€РЅРёС… СѓСЃР»РѕРІРёСЏС…",
+        "id": 61,
+        "name": "Творожное мороженое в домашних условиях",
         "link": "https://1000.menu//cooking/35935-tvorojnoe-morojenoe-v-domashnix-usloviyax",
-        "calories": "118 РєРєР°Р»",
-        "cooking_time": "3 С‡ 30 РјРёРЅ "
+        "calories": "118 ккал",
+        "cooking_time": "3 ч 30 мин "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІС‹Р№ СЃР°Р»Р°С‚ РґРµСЃРµСЂС‚ СЃ РјР°РЅРіРѕ Рё РєР»СѓР±РЅРёРєРѕР№",
+        "id": 62,
+        "name": "Фруктовый салат десерт с манго и клубникой",
         "link": "https://1000.menu//cooking/54181-fruktovyi-salat-s-mango-i-klubnikoi",
-        "calories": "76 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "76 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РњРµРґРѕРІС‹Р№ Р”РµСЃРµСЂС‚ РёР· С‚С‹РєРІС‹ РєСѓСЃРѕС‡РєР°РјРё Р·Р°РїРµС‡РµРЅРЅРѕР№ РІ РґСѓС…РѕРІРєРµ",
+        "id": 63,
+        "name": "Медовый Десерт из тыквы кусочками запеченной в духовке",
         "link": "https://1000.menu//cooking/40365-desert-iz-tykvy-medovyi-v-duxovke",
-        "calories": "133 РєРєР°Р»",
-        "cooking_time": "55 РјРёРЅ "
+        "calories": "133 ккал",
+        "cooking_time": "55 мин "
     },
     {
-        "name": "Р¦РёРјРµСЃ РµРІСЂРµР№СЃРєРёР№",
+        "id": 64,
+        "name": "Цимес еврейский",
         "link": "https://1000.menu//cooking/31251-cimes-evreiskii",
-        "calories": "241 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "241 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІР°СЏ РєР°С€Р° РёР· С„СЂСѓРєС‚РѕРІ",
+        "id": 65,
+        "name": "Фруктовая каша из фруктов",
         "link": "https://1000.menu//cooking/34320-fruktovaya-kasha-iz-fruktov",
-        "calories": "78 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "78 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РњРЅРѕРіРѕСЃР»РѕР№РЅРѕРµ Р¶РµР»Рµ",
+        "id": 66,
+        "name": "Многослойное желе",
         "link": "https://1000.menu//cooking/27795-mnogosloinoe-jele",
-        "calories": "18 РєРєР°Р»",
-        "cooking_time": "4 С‡ "
+        "calories": "18 ккал",
+        "cooking_time": "4 ч "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІС‹Р№ СЃР°Р»Р°С‚ СЃ РїРѕРјРёРґРѕСЂР°РјРё Рё Р°РЅР°РЅР°СЃРѕРј РїРѕ-СЏРїРѕРЅСЃРєРё",
+        "id": 67,
+        "name": "Фруктовый салат с помидорами и ананасом по-японски",
         "link": "https://1000.menu//cooking/1181-salat-fruktovji-po-yaponski",
-        "calories": "55 РєРєР°Р»",
-        "cooking_time": "7 Рґ 8 С‡ 30 РјРёРЅ "
+        "calories": "55 ккал",
+        "cooking_time": "7 д 8 ч 30 мин "
     },
     {
-        "name": "РЇР±Р»РѕРєРё Р·Р°РїРµС‡РµРЅРЅС‹Рµ СЃ РјРµРґРѕРј, РєРѕСЂРёС†РµР№ Рё РѕСЂРµС…Р°РјРё РІ РјРёРєСЂРѕРІРѕР»РЅРѕРІРєРµ",
+        "id": 68,
+        "name": "Яблоки запеченные с медом, корицей и орехами в микроволновке",
         "link": "https://1000.menu//cooking/32051-yabloki-zapechennye-v-mikrovolnovke-s-koricei",
-        "calories": "104 РєРєР°Р»",
-        "cooking_time": "5 РјРёРЅ "
+        "calories": "104 ккал",
+        "cooking_time": "5 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ СЃРµР»СЊРґРµСЂРµРµРј Рё РѕРіСѓСЂС†РѕРј",
+        "id": 69,
+        "name": "Салат с сельдереем и огурцом",
         "link": "https://1000.menu//cooking/16656-salat-s-seldereem-i-ogurcom",
-        "calories": "26 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "26 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎРѕС‡РёРІРѕ РЅР° Р РѕР¶РґРµСЃС‚РІРѕ РёР· РїС€РµРЅРёС†С‹",
+        "id": 70,
+        "name": "Сочиво на Рождество из пшеницы",
         "link": "https://1000.menu//cooking/31750-sochivo-na-rojdestvo-iz-pshenicy",
-        "calories": "417 РєРєР°Р»",
-        "cooking_time": "2 С‡ 20 РјРёРЅ "
+        "calories": "417 ккал",
+        "cooking_time": "2 ч 20 мин "
     },
     {
-        "name": "РџСЂРѕС‚РµРёРЅРѕРІС‹Рµ Р±Р°С‚РѕРЅС‡РёРєРё",
+        "id": 71,
+        "name": "Протеиновые батончики",
         "link": "https://1000.menu//cooking/26211-proteinovye-batonchiki",
-        "calories": "506 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "506 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "РўРѕСЂС‚ Р”РѕР¶РґРµРІР°СЏ РєР°РїР»СЏ",
+        "id": 72,
+        "name": "Торт Дождевая капля",
         "link": "https://1000.menu//cooking/50159-tort-dojdevaya-kaplya",
-        "calories": "28 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "28 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РљСѓС‚СЊСЏ РёР· СЂРёСЃР° СЃ РёР·СЋРјРѕРј Рё РјРµРґРѕРј",
+        "id": 73,
+        "name": "Кутья из риса с изюмом и медом",
         "link": "https://1000.menu//cooking/33812-kutya-iz-risa-s-izumom-i-medom",
-        "calories": "73 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "73 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ С…СѓСЂРјРѕР№ СЃС‹СЂРѕРј Рё СЂСѓРєРєРѕР»РѕР№",
+        "id": 74,
+        "name": "Салат с хурмой сыром и рукколой",
         "link": "https://1000.menu//cooking/59618-salat-s-xurmoi-syrom-i-rukkoloi",
-        "calories": "160 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "160 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ СЃРµР»СЊРґРµСЂРµРµРј, Р°РЅР°РЅР°СЃРѕРј Рё СЏР±Р»РѕРєРѕ СЃ СЃС‹СЂРѕРј",
+        "id": 75,
+        "name": "Салат с сельдереем, ананасом и яблоко с сыром",
         "link": "https://1000.menu//cooking/37210-salat-s-seldereem-i-ananasom",
-        "calories": "54 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "54 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РљРѕРЅС„РµС‚С‹ РґРёРµС‚РёС‡РµСЃРєРёРµ РІ РґРѕРјР°С€РЅРёС… СѓСЃР»РѕРІРёСЏС…",
+        "id": 76,
+        "name": "Конфеты диетические в домашних условиях",
         "link": "https://1000.menu//cooking/37518-konfety-dieticheskie-v-domashnix-usloviyax",
-        "calories": "326 РєРєР°Р»",
-        "cooking_time": "12 С‡ 35 РјРёРЅ "
+        "calories": "326 ккал",
+        "cooking_time": "12 ч 35 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ РіСЂСѓС€РµР№ Рё СЃС‹СЂРѕРј РґРѕСЂ Р±Р»СЋ",
+        "id": 77,
+        "name": "Салат с грушей и сыром дор блю",
         "link": "https://1000.menu//cooking/33243-salat-s-grushei-i-syrom-dor-blu",
-        "calories": "212 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "212 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р‘Р°С‚РѕРЅС‡РёРє РіСЂР°РЅРѕР»Р°",
+        "id": 78,
+        "name": "Батончик гранола",
         "link": "https://1000.menu//cooking/12636-granola",
-        "calories": "409 РєРєР°Р»",
-        "cooking_time": "1 С‡ 10 РјРёРЅ "
+        "calories": "409 ккал",
+        "cooking_time": "1 ч 10 мин "
     },
     {
-        "name": "Р§РёР·РєРµР№Рє СЃ РєРёРІРё",
+        "id": 79,
+        "name": "Чизкейк с киви",
         "link": "https://1000.menu//cooking/27961-chizkeik-s-kivi",
-        "calories": "322 РєРєР°Р»",
-        "cooking_time": "15 С‡ "
+        "calories": "322 ккал",
+        "cooking_time": "15 ч "
     },
     {
-        "name": "РЎС‹СЂРѕРµРґС‡РµСЃРєРёРµ РєРѕРЅС„РµС‚С‹",
+        "id": 80,
+        "name": "Сыроедческие конфеты",
         "link": "https://1000.menu//cooking/36269-syroedcheskie-konfety",
-        "calories": "420 РєРєР°Р»",
-        "cooking_time": "1 С‡ 50 РјРёРЅ "
+        "calories": "420 ккал",
+        "cooking_time": "1 ч 50 мин "
     },
     {
-        "name": "РЇР±Р»РѕРєРё С„Р°СЂС€РёСЂРѕРІР°РЅРЅС‹Рµ С‡РµСЂРЅРѕСЃР»РёРІРѕРј",
+        "id": 81,
+        "name": "Яблоки фаршированные черносливом",
         "link": "https://1000.menu//cooking/31711-yabloki-farshirovannye-chernoslivom",
-        "calories": "138 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "138 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р¤СЂСѓРєС‚С‹ РІ С€РѕРєРѕР»Р°РґРµ РєРёРІРё, Р°РїРµР»СЊСЃРёРЅС‹ РїРµСЂСЃРёРєРё РґС‹РЅСЏ",
+        "id": 82,
+        "name": "Фрукты в шоколаде киви, апельсины персики дыня",
         "link": "https://1000.menu//cooking/17290-svejie-frukty-shokolade",
-        "calories": "155 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "155 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "Р РѕРіР°Р»РёРєРё СЂСѓР»РµС‚РёРєРё СЃ РјР°РєРѕРј РІ С€РѕРєРѕР»Р°РґРЅРѕР№ РіР»Р°Р·СѓСЂРё",
+        "id": 83,
+        "name": "Домашнее ягодное мороженое сорбет в блендере",
+        "link": "https://1000.menu//cooking/77070-domashnee-morojenoe-sorbet",
+        "calories": "201 ккал",
+        "cooking_time": "12 ч "
+    },
+    {
+        "id": 84,
+        "name": "Рогалики рулетики с маком в шоколадной глазури",
         "link": "https://1000.menu//cooking/76592-ruletiki-s-makom-v-shokoladnoi-glazuri",
-        "calories": "366 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "366 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІРѕ-СЏРіРѕРґРЅС‹Р№ РґРµСЃРµСЂС‚",
+        "id": 85,
+        "name": "Фруктово-ягодный десерт",
         "link": "https://1000.menu//cooking/68325-fruktovo-yagodnji-desert",
-        "calories": "32 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "32 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р—Р°РїРµС‡РµРЅРЅС‹Рµ СЏР±Р»РѕРєРё СЃ РґР¶РµРјРѕРј Рё РѕСЂРµС…Р°РјРё",
+        "id": 86,
+        "name": "Запеченные яблоки с джемом и орехами",
         "link": "https://1000.menu//cooking/63442-zapechennye-yabloki-s-djemom-i-orexami",
-        "calories": "66 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "66 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р“СЂСѓС€Рё РІ РґСѓС…РѕРІРєРµ СЃ СЃРёСЂРѕРїРѕРј Рё РѕСЂРµС…Р°РјРё",
+        "id": 87,
+        "name": "Груши в духовке с сиропом и орехами",
         "link": "https://1000.menu//cooking/59161-grushi-v-duxovke-s-siropom-i-orexami",
-        "calories": "173 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "173 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РґР°Р№РєРѕРЅ РјРѕСЂРєРѕРІСЊ РѕРіСѓСЂРµС† СЏР±Р»РѕРєРѕ",
+        "id": 88,
+        "name": "Салат дайкон морковь огурец яблоко",
         "link": "https://1000.menu//cooking/51215-salat-daikon-morkov-ogurec-yabloko",
-        "calories": "150 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "150 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РґРµСЃРµСЂС‚ СЃ РіСЂР°РЅР°С‚РѕРј Рё СЂСѓРєРєРѕР»РѕР№",
+        "id": 89,
+        "name": "Салат десерт с гранатом и рукколой",
         "link": "https://1000.menu//cooking/50390-yarkii-i-vkusnyi-salat-s-granatom-i-rukkoloi",
-        "calories": "181 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "181 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РљРѕРЅС„РµС‚С‹ С‡РµСЂРЅРѕСЃР»РёРІ РІ С€РѕРєРѕР»Р°РґРµ",
+        "id": 90,
+        "name": "Конфеты чернослив в шоколаде",
         "link": "https://1000.menu//cooking/49842-konfety-chernosliv-v-shokolade",
-        "calories": "468 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "468 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "Р‘Р°РЅР°РЅРѕРІРѕРµ РњРѕСЂРѕР¶РµРЅРѕРµ СЃ РљР»СѓР±РЅРёРєРѕР№, Р±РµР· СЃР°С…Р°СЂР° Рё СЃР»РёРІРѕРє.",
+        "id": 91,
+        "name": "Банановое Мороженое с Клубникой, без сахара и сливок.",
         "link": "https://1000.menu//cooking/49403-bananovoe-morojenoe-s-klubnikoi-bez-saxara-i-slivok",
-        "calories": "72 РєРєР°Р»",
-        "cooking_time": "5 С‡ "
+        "calories": "72 ккал",
+        "cooking_time": "5 ч "
     },
     {
-        "name": "РЎРјРµСЃСЊ РІРёС‚Р°РјРёРЅРѕРІ РёР· РѕСЂРµС…РѕРІ Рё СЃСѓС…РѕС„СЂСѓРєС‚РѕРІ СЃ РєРѕСЂРёС†РµР№",
+        "id": 92,
+        "name": "Смесь витаминов из орехов и сухофруктов с корицей",
         "link": "https://1000.menu//cooking/48781-smes-med-orexi-kuraga-izum-limon-chernosliv",
-        "calories": "358 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "358 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РџСЂРѕС‚РµРёРЅРѕРІРѕ-С‚РІРѕСЂРѕР¶РЅС‹Р№ РґРµСЃРµСЂС‚ СЃРѕ СЃР»РёРІРѕР№ Рё С†РµР»СЊРЅС‹Рј РѕРІСЃРѕРј",
+        "id": 93,
+        "name": "Протеиново-творожный десерт со сливой и цельным овсом",
         "link": "https://1000.menu//cooking/46553-proteinovo-tvorojnyi-desert-so-slivoi-i-celnym-ovsom",
-        "calories": "185 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "185 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р›РµРЅРёРІР°СЏ РѕРІСЃСЏРЅРєР° РІ Р±Р°РЅРєРµ РЅР° РјРѕР»РѕРєРµ СЃ Р№РѕРіСѓСЂС‚РѕРј РЅР° Р·Р°РІС‚СЂР°Рє",
+        "id": 94,
+        "name": "Ленивая овсянка в банке на молоке с йогуртом на завтрак",
         "link": "https://1000.menu//cooking/44428-lenivaya-ovsyanka-v-banke-na-moloke-s-iogurtom-na-zavtrak",
-        "calories": "178 РєРєР°Р»",
-        "cooking_time": "8 С‡ "
+        "calories": "178 ккал",
+        "cooking_time": "8 ч "
     },
     {
-        "name": "Р’РµРіР°РЅСЃРєРёРµ СЂР°С„Р°РµР»Рѕ",
+        "id": 95,
+        "name": "Веганские рафаело",
         "link": "https://1000.menu//cooking/43612-veganskie-rafaelo",
-        "calories": "431 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "431 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РљРѕРЅС„РµС‚С‹ РёР· СЃСѓС…РѕС„СЂСѓРєС‚РѕРІ, РєСѓСЂР°РіРё Рё С‡РµСЂРЅРѕСЃР»РёРІР° Рё РѕСЂРµС…РѕРІ",
+        "id": 96,
+        "name": "Конфеты из сухофруктов, кураги и чернослива и орехов",
         "link": "https://1000.menu//cooking/41291-konfety-iz-suxofruktov-kuragi-i-chernosliva-i-orexov",
-        "calories": "356 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "356 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· СЃРІРµР¶РµР№ РјРѕСЂРєРѕРІРё СЃ Р°Р№РІРѕР№ РјР°РЅРґР°СЂРёРЅР°РјРё РјРµРґРѕРј",
+        "id": 97,
+        "name": "Салат из свежей моркови с айвой мандаринами медом",
         "link": "https://1000.menu//cooking/40337-salat-iz-svejei-morkovi-s-aivoi-mandarinami-medom",
-        "calories": "103 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "103 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ РёРЅР¶РёСЂРѕРј, РјРѕС†Р°СЂРµР»Р»РѕР№ Рё СЂСѓРєРєРѕР»РѕР№",
+        "id": 98,
+        "name": "Салат с инжиром, моцареллой и рукколой",
         "link": "https://1000.menu//cooking/38544-salat-s-injirom-mocarelloi-i-rukkoloi",
-        "calories": "217 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "217 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ СЂСѓРєРєРѕР»РѕР№, РєР»СѓР±РЅРёРєРѕР№ Рё СЃС‹СЂРѕРј С„РµС‚Р°",
+        "id": 99,
+        "name": "Салат с рукколой, клубникой и сыром фета",
         "link": "https://1000.menu//cooking/37051-salat-s-rukkoloi-klubnikoi-i-syrom-feta",
-        "calories": "250 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "250 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "РџРёСЂРѕР¶РЅРѕРµ СЃРѕ СЃР»РёРІРѕС‡РЅС‹Рј РєСЂРµРјРѕРј Рё СЏРіРѕРґРЅС‹Рј РјР°СЂРјРµР»Р°РґРѕРј",
+        "id": 100,
+        "name": "Пирожное со сливочным кремом и ягодным мармеладом",
         "link": "https://1000.menu//cooking/35672-pirojnoe-so-slivochnym-kremom-i-yagodnym-marmeladom",
-        "calories": "311 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "311 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЎРѕС‡РёРІРѕ РёР· СЂРёСЃР°",
+        "id": 101,
+        "name": "Сочиво из риса",
         "link": "https://1000.menu//cooking/31527-sochivo-iz-risa",
-        "calories": "331 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "331 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р‘Р°РЅР°РЅС‹ С„Р°СЂС€РёСЂРѕРІР°РЅРЅС‹Рµ РѕСЂРµС…Р°РјРё РІ С€РѕРєРѕР»Р°РґРµ",
+        "id": 102,
+        "name": "Бананы фаршированные орехами в шоколаде",
         "link": "https://1000.menu//cooking/31092-banany-farshirovannye-orexami-v-shokolade",
-        "calories": "270 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "270 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "Р—Р°РїРµРєР°РЅРєР° РёР· С‚С‹РєРІС‹ СЃ С‚РІРѕСЂРѕРіРѕРј Рё СЏР±Р»РѕРєР°РјРё Р±РµР· РјСѓРєРё",
+        "id": 103,
+        "name": "Запеканка из тыквы с творогом и яблоками без муки",
         "link": "https://1000.menu//cooking/28776-zapekanka-iz-tykvy-s-tvorogom-i-yablokami-bez-muki",
-        "calories": "178 РєРєР°Р»",
-        "cooking_time": "1 С‡ 25 РјРёРЅ "
+        "calories": "178 ккал",
+        "cooking_time": "1 ч 25 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· РєР»СѓР±РЅРёРєРё Рё РєРёРІРё",
+        "id": 104,
+        "name": "Салат из клубники и киви",
         "link": "https://1000.menu//cooking/27930-salat-iz-klubniki-i-kivi",
-        "calories": "138 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "138 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р”РµСЃРµСЂС‚ Р±РµР· СЃР°С…Р°СЂР° СЃ Р±Р°РЅР°РЅРѕРј Рё СЏРіРѕРґР°РјРё",
+        "id": 105,
+        "name": "Десерт без сахара с бананом и ягодами",
         "link": "https://1000.menu//cooking/27803-desert-bez-saxara-s-bananom-i-yagodami-jimolosti",
-        "calories": "72 РєРєР°Р»",
-        "cooking_time": "3 С‡ "
+        "calories": "72 ккал",
+        "cooking_time": "3 ч "
     },
     {
-        "name": "РЁРѕРєРѕР»Р°РґРЅРѕ-Р±Р°РЅР°РЅРѕРІРѕРµ РјРѕСЂРѕР¶РµРЅРѕРµ",
+        "id": 106,
+        "name": "Шоколадно-банановое мороженое",
         "link": "https://1000.menu//cooking/27790-shokoladno-bananovoe-morojenoe",
-        "calories": "221 РєРєР°Р»",
-        "cooking_time": "6 С‡ 20 РјРёРЅ "
+        "calories": "221 ккал",
+        "cooking_time": "6 ч 20 мин "
     },
     {
-        "name": "РџСЂРѕС‚РµРёРЅ СЃ Р±Р°РЅР°РЅРѕРј",
+        "id": 107,
+        "name": "Протеин с бананом",
         "link": "https://1000.menu//cooking/27743-protein-s-bananom",
-        "calories": "113 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "113 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІС‹Р№ СЃР°Р»Р°С‚ СЃ РјР°Р№РѕРЅРµР·РѕРј Рё С‡РµСЃРЅРѕРєРѕРј",
+        "id": 108,
+        "name": "Фруктовый салат с майонезом и чесноком",
         "link": "https://1000.menu//cooking/27702-fruktovyi-salat-s-maionezom-i-chesnokom",
-        "calories": "123 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "123 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІС‹Р№ СЃР°Р»Р°С‚ СЃ РјСЏРіРєРёРј СЃС‹СЂРѕРј",
+        "id": 109,
+        "name": "Фруктовый салат с мягким сыром",
         "link": "https://1000.menu//cooking/27593-fruktovyi-salat-s-myagkim-syrom",
-        "calories": "89 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "89 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р“РѕСЂСЏС‡РёР№ Р±РµР»С‹Р№ С€РѕРєРѕР»Р°Рґ СЃ РјРёРЅРґР°Р»РµРј Рё РєРѕРєРѕСЃРѕРј",
+        "id": 110,
+        "name": "Горячий белый шоколад с миндалем и кокосом",
         "link": "https://1000.menu//cooking/27585-goryachii-belyi-shokolad-s-mindalem-i-kokosom",
-        "calories": "257 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "257 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЂРѕРєС„РѕСЂ",
+        "id": 111,
+        "name": "Салат рокфор",
         "link": "https://1000.menu//cooking/27425-salat-rokfor",
-        "calories": "163 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "163 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РўР°РїРёРѕРєР° РґРµСЃРµСЂС‚",
+        "id": 112,
+        "name": "Тапиока десерт",
         "link": "https://1000.menu//cooking/27420-tapioka-desert",
-        "calories": "147 РєРєР°Р»",
-        "cooking_time": "3 С‡ 45 РјРёРЅ "
+        "calories": "147 ккал",
+        "cooking_time": "3 ч 45 мин "
     },
     {
-        "name": "РЎРѕСЂР±РµС‚ РІ РјРѕСЂРѕР¶РµРЅРёС†Рµ",
+        "id": 113,
+        "name": "Сорбет в мороженице",
         "link": "https://1000.menu//cooking/27329-sorbet-v-morojenice",
-        "calories": "52 РєРєР°Р»",
-        "cooking_time": "18 С‡ 15 РјРёРЅ "
+        "calories": "52 ккал",
+        "cooking_time": "18 ч 15 мин "
     },
     {
-        "name": "РњРѕСЂРѕР¶РµРЅРѕРµ Р±РµР· СЃР»РёРІРѕРє РІ РјРѕСЂРѕР¶РµРЅРёС†Рµ",
+        "id": 114,
+        "name": "Мороженое без сливок в мороженице",
         "link": "https://1000.menu//cooking/27328-morojenoe-bez-slivok-v-morojenice",
-        "calories": "77 РєРєР°Р»",
-        "cooking_time": "19 С‡ "
+        "calories": "77 ккал",
+        "cooking_time": "19 ч "
     },
     {
-        "name": "РљР»СѓР±РЅРёРєР° РІ Р±РµР»СЊРіРёР№СЃРєРѕРј С€РѕРєРѕР»Р°РґРµ",
+        "id": 115,
+        "name": "Клубника в бельгийском шоколаде",
         "link": "https://1000.menu//cooking/27309-klubnika-v-belgiiskom-shokolade",
-        "calories": "221 РєРєР°Р»",
-        "cooking_time": "1 С‡ 25 РјРёРЅ "
+        "calories": "221 ккал",
+        "cooking_time": "1 ч 25 мин "
     },
     {
-        "name": "РњРѕСЂРѕР¶РµРЅРѕРµ СЃ РІРёРЅРЅС‹Рј РєР°РјРЅРµРј",
+        "id": 116,
+        "name": "Мороженое с винным камнем",
         "link": "https://1000.menu//cooking/26874-morojenoe-s-vinnym-kamnem",
-        "calories": "164 РєРєР°Р»",
-        "cooking_time": "5 С‡ "
+        "calories": "164 ккал",
+        "cooking_time": "5 ч "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІС‹Р№ СЃР°Р»Р°С‚ СЃ РєР»СѓР±РЅРёРєРѕР№ Рё РІРёРЅРѕРіСЂР°РґРѕРј",
+        "id": 117,
+        "name": "Фруктовый салат с клубникой и виноградом",
         "link": "https://1000.menu//cooking/26656-fruktovyi-salat-s-klubnikoi-i-vinogradom",
-        "calories": "206 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "206 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р­РЅРµСЂРіРµС‚РёС‡РµСЃРєРёРµ Р±Р°С‚РѕРЅС‡РёРєРё СЃ РєРѕРЅРѕРїР»СЏРЅС‹Рј Р·РµСЂРЅРѕРј Р±РµР· РІС‹РїРµС‡РєРё",
+        "id": 118,
+        "name": "Энергетические батончики с конопляным зерном без выпечки",
         "link": "https://1000.menu//cooking/26594-energeticheskie-batonchiki-s-konoplyanym-zernom-bez-vypechki",
-        "calories": "554 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "554 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РџСЂРѕС‚РµРёРЅРѕРІС‹Рµ С€Р°СЂРёРєРё СЃ РєРѕРЅРѕРїР»СЏРЅС‹Рј Р·РµСЂРЅРѕРј",
+        "id": 119,
+        "name": "Протеиновые шарики с конопляным зерном",
         "link": "https://1000.menu//cooking/26593-proteinovye-shariki-s-konoplyanym-zernom",
-        "calories": "393 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "393 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РЎСѓС…РѕР№ Р·Р°РІС‚СЂР°Рє СЃ РјРѕР»РѕРєРѕРј",
+        "id": 120,
+        "name": "Сухой завтрак с молоком",
         "link": "https://1000.menu//cooking/26510-suxoi-zavtrak-s-molokom",
-        "calories": "147 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "147 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РћСЂРµС…Рё РјРµРґ Рё РєРѕСЂРёС†Р°",
+        "id": 121,
+        "name": "Орехи мед и корица",
         "link": "https://1000.menu//cooking/26496-orexi-med-i-korica",
-        "calories": "563 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "563 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ РєР»СѓР±РЅРёРєРѕР№ Рё СЂСѓРєРєРѕР»РѕР№",
+        "id": 122,
+        "name": "Салат с клубникой и рукколой",
         "link": "https://1000.menu//cooking/26365-salat-s-klubnikoi-i-rukkoloi",
-        "calories": "224 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "224 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РЁРѕРєРѕР»Р°Рґ СЃ СЏРіРѕРґР°РјРё РіРѕРґР¶Рё",
+        "id": 123,
+        "name": "Шоколад с ягодами годжи",
         "link": "https://1000.menu//cooking/26176-shokolad-s-yagodami-godji",
-        "calories": "571 РєРєР°Р»",
-        "cooking_time": "3 С‡ "
+        "calories": "571 ккал",
+        "cooking_time": "3 ч "
     },
     {
-        "name": "Р‘Р°С‚РѕРЅС‡РёРєРё РјСЋСЃР»Рё СЃ СЃРµРјРµС‡РєР°РјРё",
+        "id": 124,
+        "name": "Батончики мюсли с семечками",
         "link": "https://1000.menu//cooking/25998-batonchiki-s-semechkami",
-        "calories": "345 РєРєР°Р»",
-        "cooking_time": "4 С‡ 30 РјРёРЅ "
+        "calories": "345 ккал",
+        "cooking_time": "4 ч 30 мин "
     },
     {
-        "name": "Р–РµР»Рµ РёР· РґС‹РЅРё",
+        "id": 125,
+        "name": "Желе из дыни",
         "link": "https://1000.menu//cooking/25943-jele-iz-dyni",
-        "calories": "43 РєРєР°Р»",
-        "cooking_time": "2 С‡ 30 РјРёРЅ "
+        "calories": "43 ккал",
+        "cooking_time": "2 ч 30 мин "
     },
     {
-        "name": "Р”РёРµС‚РёС‡РµСЃРєРёР№ РІР°РЅРёР»СЊРЅС‹Р№ Р·РµС„РёСЂ",
+        "id": 126,
+        "name": "Диетический ванильный зефир",
         "link": "https://1000.menu//cooking/25625-dieticheskii-vanilnyi-zefir",
-        "calories": "119 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "119 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "РљРѕРЅС„РµС‚С‹ РёР· СЃСѓС…РѕС„СЂСѓРєС‚РѕРІ РІ Р±Р»РµРЅРґРµСЂРµ",
+        "id": 127,
+        "name": "Конфеты из сухофруктов в блендере",
         "link": "https://1000.menu//cooking/24942-konfety-iz-suxofruktov-v-blendere",
-        "calories": "343 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "343 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЇР±Р»РѕС‡РЅС‹Рµ С‡РёРїСЃС‹ РІ РјРёРєСЂРѕРІРѕР»РЅРѕРІРєРµ Р±С‹СЃС‚СЂРѕ Рё РІРєСѓСЃРЅРѕ",
+        "id": 128,
+        "name": "Яблочные чипсы в микроволновке быстро и вкусно",
         "link": "https://1000.menu//cooking/22519-yablochnye-chipsy-v-mikrovolnovke",
-        "calories": "50 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "50 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "РЎС‹СЂРєРё РіР»Р°Р·РёСЂРѕРІР°РЅРЅС‹Рµ РґРёРµС‚РёС‡РµСЃРєРёРµ",
+        "id": 129,
+        "name": "Сырки глазированные диетические",
         "link": "https://1000.menu//cooking/22426-syrki-glazirovannye-dieticheskie",
-        "calories": "135 РєРєР°Р»",
-        "cooking_time": "2 С‡ 30 РјРёРЅ "
+        "calories": "135 ккал",
+        "cooking_time": "2 ч 30 мин "
     },
     {
-        "name": "Р–РµР»Рµ СЃ РєСЂС‹Р¶РѕРІРЅРёРєРѕРј РР·СѓРјСЂСѓРґ",
+        "id": 130,
+        "name": "Желе с крыжовником Изумруд",
         "link": "https://1000.menu//cooking/21977-jele-s-kryjovnikom-izumrud",
-        "calories": "22 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "22 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІРѕРµ РїР°СЂС„Рµ",
+        "id": 131,
+        "name": "Фруктовое парфе",
         "link": "https://1000.menu//cooking/21709-fruktovoe-parfe",
-        "calories": "125 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "125 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІС‹Р№ СЃР°Р»Р°С‚ СЏР±Р»РѕРєРё РіСЂСѓС€Рё РєРёРІРё",
+        "id": 132,
+        "name": "Фруктовый салат яблоки груши киви",
         "link": "https://1000.menu//cooking/21638-fruktovyi-salat-yabloki-grushi-kivi",
-        "calories": "61 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "61 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РђРїРµР»СЊСЃРёРЅРѕРІС‹Р№ СЃРѕСЂР±РµС‚",
+        "id": 133,
+        "name": "Апельсиновый сорбет",
         "link": "https://1000.menu//cooking/20515-apelsinovyi-sorbet",
-        "calories": "57 РєРєР°Р»",
-        "cooking_time": "4 С‡ "
+        "calories": "57 ккал",
+        "cooking_time": "4 ч "
     },
     {
-        "name": "Р‘Р°РЅР°РЅС‹ РІ С€РѕРєРѕР»Р°РґРµ РѕР±СЃС‹РїР°РЅРЅС‹Рµ РѕСЂРµС€РєР°РјРё Рё РєРѕРєРѕСЃРѕРІРѕР№ СЃС‚СЂСѓР¶РєРѕР№",
+        "id": 134,
+        "name": "Бананы в шоколаде обсыпанные орешками и кокосовой стружкой",
         "link": "https://1000.menu//cooking/19817-banany-v-shokolade-obsypannye-oreshkami-i-kokosovoi-strujkoi",
-        "calories": "288 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "288 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР»Р°РґРєРёР№ СЂРёСЃ СЃ РєСѓСЂР°РіРѕР№",
+        "id": 135,
+        "name": "Сладкий рис с курагой",
         "link": "https://1000.menu//cooking/19487-sladkii-ris-s-kuragoi",
-        "calories": "144 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "144 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "РЎР»Р°РґРєРёР№ РІРѕР·РґСѓС€РЅС‹Р№ СЂРёСЃ",
+        "id": 136,
+        "name": "Сладкий воздушный рис",
         "link": "https://1000.menu//cooking/19486-sladkii-vozdushnyi-ris",
-        "calories": "616 РєРєР°Р»",
-        "cooking_time": "1 С‡ 35 РјРёРЅ "
+        "calories": "616 ккал",
+        "cooking_time": "1 ч 35 мин "
     },
     {
-        "name": "РљРѕРЅС„РµС‚С‹ РёР· РєСЌСЂРѕР±Р°",
+        "id": 137,
+        "name": "Конфеты из кэроба",
         "link": "https://1000.menu//cooking/19435-konfety-iz-keroba",
-        "calories": "282 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "282 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "РЁРѕРєРѕР»Р°Рґ РёР· РєСЌСЂРѕР±Р°",
+        "id": 138,
+        "name": "Шоколад из кэроба",
         "link": "https://1000.menu//cooking/19434-shokolad-iz-keroba",
-        "calories": "884 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "884 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "Р–РµР»Рµ РЅР° РєСЃРёР»РёС‚Рµ",
+        "id": 139,
+        "name": "Желе на ксилите",
         "link": "https://1000.menu//cooking/19430-jele-na-ksilite",
-        "calories": "341 РєРєР°Р»",
-        "cooking_time": "2 С‡ 20 РјРёРЅ "
+        "calories": "341 ккал",
+        "cooking_time": "2 ч 20 мин "
     },
     {
-        "name": "РљРѕРЅС„РµС‚С‹ РЅР° РєСЃРёР»РёС‚Рµ",
+        "id": 140,
+        "name": "Конфеты на ксилите",
         "link": "https://1000.menu//cooking/19428-konfety-na-ksilite",
-        "calories": "569 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "569 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "РњРѕСЂРѕР¶РµРЅРѕРµ РёР· СЃСѓС…РёС… СЃР»РёРІРѕРє",
+        "id": 141,
+        "name": "Мороженое из сухих сливок",
         "link": "https://1000.menu//cooking/19376-morojenoe-iz-suxix-slivok",
-        "calories": "193 РєРєР°Р»",
-        "cooking_time": "5 С‡ 15 РјРёРЅ "
+        "calories": "193 ккал",
+        "cooking_time": "5 ч 15 мин "
     },
     {
-        "name": "РќРµС€Р»РёС„РѕРІР°РЅРЅС‹Р№ СЂРёСЃ СЃ СЏР±Р»РѕРєР°РјРё Рё РёР·СЋРјРѕРј",
+        "id": 142,
+        "name": "Нешлифованный рис с яблоками и изюмом",
         "link": "https://1000.menu//cooking/19252-neshlifovannyi-ris-s-yablokami-i-izumom",
-        "calories": "190 РєРєР°Р»",
-        "cooking_time": "2 С‡ 50 РјРёРЅ "
+        "calories": "190 ккал",
+        "cooking_time": "2 ч 50 мин "
     },
     {
-        "name": "РЁРѕРєРѕР»Р°РґРЅС‹Рµ РєРѕРЅС„РµС‚С‹ СЃ РєР°РєР°Рѕ РјР°СЃР»РѕРј",
+        "id": 143,
+        "name": "Шоколадные конфеты с какао маслом",
         "link": "https://1000.menu//cooking/18961-shokoladnye-konfety-s-kakao-maslom",
-        "calories": "449 РєРєР°Р»",
-        "cooking_time": "1 С‡ 25 РјРёРЅ "
+        "calories": "449 ккал",
+        "cooking_time": "1 ч 25 мин "
     },
     {
-        "name": "Р™РѕРіСѓСЂС‚ СЃ РєР»СѓР±РЅРёРєРѕР№ РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ",
+        "id": 144,
+        "name": "Йогурт с клубникой в мультиварке",
         "link": "https://1000.menu//cooking/18943-iogurt-s-klubnikoi-v-multivarke",
-        "calories": "61 РєРєР°Р»",
-        "cooking_time": "8 С‡ 20 РјРёРЅ "
+        "calories": "61 ккал",
+        "cooking_time": "8 ч 20 мин "
     },
     {
-        "name": "Р­РЅРµСЂРіРµС‚РёС‡РµСЃРєРёРµ Р±Р°С‚РѕРЅС‡РёРєРё РјСЋСЃР»Рё СЃ РїСЂРѕСЂРѕС‰РµРЅРЅРѕР№ РіСЂРµС‡РєРѕР№",
+        "id": 145,
+        "name": "Энергетические батончики мюсли с пророщенной гречкой",
         "link": "https://1000.menu//cooking/18873--proroshchennaya-grechka-energeticheskie-batonchiki-s-proroshchennoi-grechkoi",
-        "calories": "258 РєРєР°Р»",
-        "cooking_time": "2 Рґ 3 С‡ 15 РјРёРЅ "
+        "calories": "258 ккал",
+        "cooking_time": "2 д 3 ч 15 мин "
     },
     {
-        "name": "Р”РµСЃРµСЂС‚ РёР· РїСЂРѕСЂРѕС‰РµРЅРЅРѕР№ РіСЂРµС‡РєРё Рё РіСЂР°РЅР°С‚Р°",
+        "id": 146,
+        "name": "Десерт из пророщенной гречки и граната",
         "link": "https://1000.menu//cooking/18870-desert-iz-proroshchennoi-grechki-i-granata",
-        "calories": "62 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "62 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РџСЂРѕСЂРѕС‰РµРЅРЅС‹Р№ РѕРІРµСЃ РІ РіРѕСЂС€РѕС‡РєРµ РёР· СЏР±Р»РѕРєР°",
+        "id": 147,
+        "name": "Пророщенный овес в горшочке из яблока",
         "link": "https://1000.menu//cooking/18822-proroshchennyi-oves-v-gorshochke-iz-yabloka",
-        "calories": "135 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "135 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РљСѓС‚СЊСЏ СЃ СЂРёСЃРѕРј Рё РёРЅР¶РёСЂРѕРј",
+        "id": 148,
+        "name": "Кутья с рисом и инжиром",
         "link": "https://1000.menu//cooking/18749-kutya-s-risom-i-injirom",
-        "calories": "186 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "186 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РљРѕР·РёРЅР°РєРё РёР· РєСѓРЅР¶СѓС‚Р° Рё Р»СЊРЅР°",
+        "id": 149,
+        "name": "Козинаки из кунжута и льна",
         "link": "https://1000.menu//cooking/18681-kozinaki-iz-kunjuta-i-lna",
-        "calories": "412 РєРєР°Р»",
-        "cooking_time": "12 С‡ "
+        "calories": "412 ккал",
+        "cooking_time": "12 ч "
     },
     {
-        "name": "Р”РµСЃРµСЂС‚РЅС‹Р№ СЃР°Р»Р°С‚ РёР· СЂРµРїС‹ СЃ Р±РµР»РѕР№ СЃРјРѕСЂРѕРґРёРЅРѕР№",
+        "id": 150,
+        "name": "Десертный салат из репы с белой смородиной",
         "link": "https://1000.menu//cooking/18486--belaya-smorodina-desertnyi-salat-iz-repy-s-beloi-smorodinoi",
-        "calories": "64 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "64 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р–РµР»Рµ РёР· С€Р°РјРїР°РЅСЃРєРѕРіРѕ СЃ С„СЂСѓРєС‚Р°РјРё Рё СЏРіРѕРґР°РјРё",
+        "id": 151,
+        "name": "Желе из шампанского с фруктами и ягодами",
         "link": "https://1000.menu//cooking/18310-jele-iz-shampanskogo-s-fruktami-i-yagodami",
-        "calories": "61 РєРєР°Р»",
-        "cooking_time": "11 С‡ 15 РјРёРЅ "
+        "calories": "61 ккал",
+        "cooking_time": "11 ч 15 мин "
     },
     {
-        "name": "Р‘Р°РЅР°РЅ РІ РјРёРєСЂРѕРІРѕР»РЅРѕРІРєРµ СЃ С€РѕРєРѕР»Р°РґРѕРј Р·Р°РїРµС‡РµРЅРЅС‹Р№",
+        "id": 152,
+        "name": "Банан в микроволновке с шоколадом запеченный",
         "link": "https://1000.menu//cooking/17995-banan-v-mikrovolnovke-s-shokoladom-zapechennyi",
-        "calories": "213 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "213 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р–РµР»Рµ РёР· РєРѕРєР° РєРѕР»С‹ РІ Р±СѓС‚С‹Р»РєРµ",
+        "id": 153,
+        "name": "Желе из кока колы в бутылке",
         "link": "https://1000.menu//cooking/16638-jele-iz-koka-koly-v-butylke",
-        "calories": "48 РєРєР°Р»",
-        "cooking_time": "12 С‡ "
+        "calories": "48 ккал",
+        "cooking_time": "12 ч "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІС‹Р№ СЃР°Р»Р°С‚ Рє Р·Р°РІС‚СЂР°РєСѓ",
+        "id": 154,
+        "name": "Фруктовый салат к завтраку",
         "link": "https://1000.menu//cooking/16572-fruktovyi-salat-k-zavtraku",
-        "calories": "67 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "67 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІС‹Р№ СЃРѕСЂР±РµС‚",
+        "id": 155,
+        "name": "Фруктовый сорбет",
         "link": "https://1000.menu//cooking/16464-fruktovij-sorbet",
-        "calories": "75 РєРєР°Р»",
-        "cooking_time": "1 С‡ 40 РјРёРЅ "
+        "calories": "75 ккал",
+        "cooking_time": "1 ч 40 мин "
     },
     {
-        "name": "Р”РµСЃРµСЂС‚ С‚РІРѕСЂРѕРі РєРµС„РёСЂ Р±Р°РЅР°РЅ Р±С‹СЃС‚СЂРѕ Рё РІРєСѓСЃРЅРѕ",
+        "id": 156,
+        "name": "Десерт творог кефир банан быстро и вкусно",
         "link": "https://1000.menu//cooking/16001-desert-tvorog-kefir-banan",
-        "calories": "148 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "148 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р©РµСЂР±РµС‚ РџСЂР°Р¶СЃРєРёР№",
+        "id": 157,
+        "name": "Щербет Пражский",
         "link": "https://1000.menu//cooking/15750-shcherbet-prajskii",
-        "calories": "100 РєРєР°Р»",
-        "cooking_time": "5 РјРёРЅ "
+        "calories": "100 ккал",
+        "cooking_time": "5 мин "
     },
     {
-        "name": "РЁРѕРєРѕР»Р°Рґ СЃ С„РёСЃС‚Р°С€РєР°РјРё Рё Р·РµСЂРЅР°РјРё РіСЂР°РЅР°С‚Р°",
+        "id": 158,
+        "name": "Шоколад с фисташками и зернами граната",
         "link": "https://1000.menu//cooking/14894-shokolad-s-fistashkami-i-zernami-granata",
-        "calories": "489 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "489 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р–РµР»Рµ РІ Р°РїРµР»СЊСЃРёРЅРµ",
+        "id": 159,
+        "name": "Желе в апельсине",
         "link": "https://1000.menu//cooking/14845-jele-v-apelsine",
-        "calories": "18 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "18 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РљР»СѓР±РЅРёС‡РЅС‹Р№ РєР°РїСЂРµР·Рµ",
+        "id": 160,
+        "name": "Клубничный капрезе",
         "link": "https://1000.menu//cooking/14779-klubnichnyi-kapreze",
-        "calories": "233 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "233 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р‘РµР»РєРѕРІРѕРµ РїСЂРѕС‚РµРёРЅРѕРІРѕРµ РјРѕСЂРѕР¶РµРЅРѕРµ РІ Р±Р»РµРЅРґРµСЂРµ",
+        "id": 161,
+        "name": "Белковое протеиновое мороженое в блендере",
         "link": "https://1000.menu//cooking/13676-belkovoe-proteinovoe-morojenoe",
-        "calories": "158 РєРєР°Р»",
-        "cooking_time": "4 С‡ 30 РјРёРЅ "
+        "calories": "158 ккал",
+        "cooking_time": "4 ч 30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· СЃРІРµР¶РµР№ СЃРІРµРєР»С‹ Рё СЏР±Р»РѕРє СЃ РіСЂРµС†РєРёРјРё РѕСЂРµС…Р°РјРё",
+        "id": 162,
+        "name": "Салат из свежей свеклы и яблок с грецкими орехами",
         "link": "https://1000.menu//cooking/13132-salat-iz-svejei-svekly-i-yablok",
-        "calories": "98 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "98 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІРѕРµ РєР°РЅР°РїРµ СЃ РєР»СѓР±РЅРёРєРѕР№",
+        "id": 163,
+        "name": "Фруктовое канапе с клубникой",
         "link": "https://1000.menu//cooking/12007-fruktovoe-kanape-s-klubnikoi",
-        "calories": "62 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "62 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РЃР¶РёРєРё РёР· С„СЂСѓРєС‚РѕРІ",
+        "id": 164,
+        "name": "Ёжики из фруктов",
         "link": "https://1000.menu//cooking/11852-yojiki-iz-fruktov",
-        "calories": "49 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "49 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РЁРѕРєРѕР»Р°РґРЅС‹Рµ РєРѕРЅС„РµС‚С‹ СЃ С„СѓРЅРґСѓРєРѕРј",
+        "id": 165,
+        "name": "Шоколадные конфеты с фундуком",
         "link": "https://1000.menu//cooking/11450-shokoladnye-konfety-s-fundukom",
-        "calories": "549 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "549 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РђРїРµР»СЊСЃРёРЅС‹ СЃ РіСЂРµС†РєРёРјРё РѕСЂРµС…Р°РјРё РІ РґСѓС…РѕРІРєРµ",
+        "id": 166,
+        "name": "Апельсины с грецкими орехами в духовке",
         "link": "https://1000.menu//cooking/10956-apelsiny-s-greckimi-orexami-v-duxovke",
-        "calories": "171 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "171 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РІ Р°СЂР±СѓР·Рµ",
+        "id": 167,
+        "name": "Салат в арбузе",
         "link": "https://1000.menu//cooking/9887-salat-v-arbuze",
-        "calories": "28 РєРєР°Р»",
-        "cooking_time": "1 С‡ 10 РјРёРЅ "
+        "calories": "28 ккал",
+        "cooking_time": "1 ч 10 мин "
     },
     {
-        "name": "РўРІРѕСЂРѕР¶РЅРѕРµ РїРёСЂРѕР¶РЅРѕРµ Р±РµР· РІС‹РїРµС‡РєРё",
+        "id": 168,
+        "name": "Творожное пирожное без выпечки",
         "link": "https://1000.menu//cooking/8679-tvorojnoe-pirojnoe-bez-vypechki",
-        "calories": "294 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "294 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РџРѕР»РѕСЃР°С‚РѕРµ Р¶РµР»Рµ РёР· СЂСЏР¶РµРЅРєРё",
+        "id": 169,
+        "name": "Полосатое желе из ряженки",
         "link": "https://1000.menu//cooking/8148-polosatoe-zhele-iz-ryazhenki",
-        "calories": "150 РєРєР°Р»",
-        "cooking_time": "2 С‡ 15 РјРёРЅ "
+        "calories": "150 ккал",
+        "cooking_time": "2 ч 15 мин "
     },
     {
-        "name": "РљРѕРЅС„РµС‚РєРё РґР»СЏ СЃС‹СЂРѕРµРґРѕРІ",
+        "id": 170,
+        "name": "Конфетки для сыроедов",
         "link": "https://1000.menu//cooking/8119-konfetki-dlya-sjroedov",
-        "calories": "411 РєРєР°Р»",
-        "cooking_time": "1 С‡ 10 РјРёРЅ "
+        "calories": "411 ккал",
+        "cooking_time": "1 ч 10 мин "
     },
     {
-        "name": "РњРµРґРѕРІС‹Рµ Р±Р°РЅР°РЅС‹ СЃ РєСѓРЅР¶СѓС‚РЅРѕР№ РїРѕСЃС‹РїРєРѕР№",
+        "id": 171,
+        "name": "Медовые бананы с кунжутной посыпкой",
         "link": "https://1000.menu//cooking/8064-medovje-bananj-s-kunzhutnoi-posjpkoi",
-        "calories": "164 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "164 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РЁРѕРєРѕР»Р°РґРЅРѕРµ Р¶РµР»Рµ",
+        "id": 172,
+        "name": "Шоколадное желе",
         "link": "https://1000.menu//cooking/7937-shokoladnoe-zhele",
-        "calories": "356 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "356 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "РњРѕСЂРѕР¶РµРЅРѕРµ РЅР° Р±Р°РЅР°РЅР°С… СЃ С€РѕРєРѕР»Р°РґРЅРѕ-РѕСЂРµС…РѕРІРѕР№ РєСЂРѕС€РєРѕР№",
+        "id": 173,
+        "name": "Мороженое на бананах с шоколадно-ореховой крошкой",
         "link": "https://1000.menu//cooking/7816-morojenoe-na-bananax-s-shokoladno-orexovoi-kroshkoi",
-        "calories": "231 РєРєР°Р»",
-        "cooking_time": "10 С‡ "
+        "calories": "231 ккал",
+        "cooking_time": "10 ч "
     },
     {
-        "name": "Р§РµСЂРЅРѕСЃР»РёРІ РІ С€РѕРєРѕР»Р°РґРµ СЃ РѕСЂРµС€РєР°РјРё",
+        "id": 174,
+        "name": "Чернослив в шоколаде с орешками",
         "link": "https://1000.menu//cooking/7042-chernosliv-v-shokolade-s-oreshkali",
-        "calories": "478 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "478 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р’РёС€РЅРµРІС‹Р№ РєСЂР°РјР±Р» СЃ РјРёРЅРґР°Р»РµРј",
+        "id": 175,
+        "name": "Вишневый крамбл с миндалем",
         "link": "https://1000.menu//cooking/7025-vishnevji-krambl",
-        "calories": "277 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "277 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РџРѕР»РµР·РЅС‹Рµ РєРѕРЅС„РµС‚С‹",
+        "id": 176,
+        "name": "Полезные конфеты",
         "link": "https://1000.menu//cooking/6837-poleznje-konfetj",
-        "calories": "241 РєРєР°Р»",
-        "cooking_time": "1 С‡ 45 РјРёРЅ "
+        "calories": "241 ккал",
+        "cooking_time": "1 ч 45 мин "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІРѕРµ Р°СЃСЃРѕСЂС‚Рё",
+        "id": 177,
+        "name": "Фруктовое ассорти",
         "link": "https://1000.menu//cooking/6317-fruktovoe-assorti-energiya-yarkii-krasok-",
-        "calories": "53 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "53 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "Р›С‘РіРєР°СЏ РІР°РЅРёР»СЊРЅР°СЏ РїР°РЅР°РєРѕС‚Р°",
+        "id": 178,
+        "name": "Лёгкая ванильная панакота",
         "link": "https://1000.menu//cooking/6314-vanilnaya-panakota",
-        "calories": "116 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "116 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РљР°РЅР°РїРµ СЃ РјР°СЂРјРµР»Р°РґРѕРј",
+        "id": 179,
+        "name": "Канапе с мармеладом",
         "link": "https://1000.menu//cooking/6037-kanape-3-vkusa",
-        "calories": "206 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "206 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ \"РћС‡Р°СЂРѕРІР°РЅРёРµ\"",
+        "id": 180,
+        "name": "Салат \"Очарование\"",
         "link": "https://1000.menu//cooking/5713-salat-ocharovanie-",
-        "calories": "166 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "166 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РўРІРѕСЂРѕРі СЃ Р°РїРµР»СЊСЃРёРЅР°РјРё Рё Р±Р°РЅР°РЅР°РјРё РЅР° Р·Р°РІС‚СЂР°Рє",
+        "id": 181,
+        "name": "Творог с апельсинами и бананами на завтрак",
         "link": "https://1000.menu//cooking/5577-tvorog-s-apelsinami-i-bananami-na-zavtrak",
-        "calories": "66 РєРєР°Р»",
-        "cooking_time": "1 С‡ 45 РјРёРЅ "
+        "calories": "66 ккал",
+        "cooking_time": "1 ч 45 мин "
     },
     {
-        "name": "РЁРѕРєРѕР»Р°РґРЅРѕРµ С„РѕРЅРґСЋ СЃ С‚РµРјРЅС‹Рј С€РѕРєРѕР»Р°РґРѕРј",
+        "id": 182,
+        "name": "Шоколадное фондю с темным шоколадом",
         "link": "https://1000.menu//cooking/5253-shokoladnoe-fondu-s-temnym-shokoladom",
-        "calories": "458 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "458 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р”РѕРјР°С€РЅСЏСЏ С…Р°Р»РІР°",
+        "id": 183,
+        "name": "Домашняя халва",
         "link": "https://1000.menu//cooking/4581-domashnyaya-halva",
-        "calories": "278 РєРєР°Р»",
-        "cooking_time": "8 С‡ 25 РјРёРЅ "
+        "calories": "278 ккал",
+        "cooking_time": "8 ч 25 мин "
     },
     {
-        "name": "РҐР°Р»РІР° РєСѓРЅР¶СѓС‚РЅР°СЏ",
+        "id": 184,
+        "name": "Халва кунжутная",
         "link": "https://1000.menu//cooking/4578-halva-kunzhutnaya",
-        "calories": "514 РєРєР°Р»",
-        "cooking_time": "8 С‡ 15 РјРёРЅ "
+        "calories": "514 ккал",
+        "cooking_time": "8 ч 15 мин "
     },
     {
-        "name": "Р™РѕРіСѓСЂС‚",
+        "id": 185,
+        "name": "Йогурт",
         "link": "https://1000.menu//cooking/3863-iogurt",
-        "calories": "67 РєРєР°Р»",
-        "cooking_time": "13 С‡ "
+        "calories": "67 ккал",
+        "cooking_time": "13 ч "
     },
     {
-        "name": "Р”РѕРјР°С€РЅРёР№ Р№РѕРіСѓСЂС‚",
+        "id": 186,
+        "name": "Домашний йогурт",
         "link": "https://1000.menu//cooking/3634-domashnii-iogurt",
-        "calories": "68 РєРєР°Р»",
-        "cooking_time": "5 С‡ 30 РјРёРЅ "
+        "calories": "68 ккал",
+        "cooking_time": "5 ч 30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РЅР° РґРµРЅСЊ СЂРѕР¶РґРµРЅРёСЏ СЂРµР±РµРЅРєР° Р­РєР·РѕС‚РёРєР°",
+        "id": 187,
+        "name": "Салат на день рождения ребенка Экзотика",
         "link": "https://1000.menu//cooking/2943-salat-na-den-rozhdeniya-rebenka-ekzotika",
-        "calories": "50 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "50 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ Р±РµР· РјР°Р№РѕРЅРµР·Р°",
+        "id": 188,
+        "name": "Салат без майонеза",
         "link": "https://1000.menu//cooking/2830-salat-bez-maioneza",
-        "calories": "235 РєРєР°Р»",
-        "cooking_time": "1 С‡ 10 РјРёРЅ "
+        "calories": "235 ккал",
+        "cooking_time": "1 ч 10 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ Р°Р№СЃР±РµСЂРі СЃ РѕР»РёРІРєРѕРІС‹Рј РјР°СЃР»РѕРј",
+        "id": 189,
+        "name": "Салат айсберг с оливковым маслом",
         "link": "https://1000.menu//cooking/2827-salat-aisberg",
-        "calories": "81 РєРєР°Р»",
-        "cooking_time": "5 РјРёРЅ "
+        "calories": "81 ккал",
+        "cooking_time": "5 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· СЃС‹СЂРѕР№ СЃРІРµРєР»С‹ СЃ РіСЂРµС†РєРёРјРё РѕСЂРµС…Р°РјРё Рё С‡РµСЂРЅРѕСЃР»РёРІРѕРј",
+        "id": 190,
+        "name": "Салат из сырой свеклы с грецкими орехами и черносливом",
         "link": "https://1000.menu//cooking/2301-salat-iz-sjroi-sveklj",
-        "calories": "108 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "108 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РљСЂР°РЅРЅР°С‡Р°РЅ Р»РµРіРєРёР№ С„СЂСѓРєС‚РѕРІС‹Р№ СЃР°Р»Р°С‚РёРє",
+        "id": 191,
+        "name": "Кранначан легкий фруктовый салатик",
         "link": "https://1000.menu//cooking/1834-krannachan",
-        "calories": "282 РєРєР°Р»",
-        "cooking_time": "8 С‡ 20 РјРёРЅ "
+        "calories": "282 ккал",
+        "cooking_time": "8 ч 20 мин "
     },
     {
-        "name": "РЇР±Р»РѕС‡РЅС‹Р№ СЃР°Р»Р°С‚",
+        "id": 192,
+        "name": "Яблочный салат",
         "link": "https://1000.menu//cooking/655-yablochnji-salat",
-        "calories": "69 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "69 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РљР°СЂРїР°С‡С‡Рѕ РёР· РґС‹РЅРё СЃ СЃРµР»СЊРґРµСЂРµРµРј Рё СЃРѕСѓСЃРѕРј РёР· Р№РѕРіСѓСЂС‚Р°",
+        "id": 193,
+        "name": "Карпаччо из дыни с сельдереем и соусом из йогурта",
         "link": "https://1000.menu//cooking/150-karpachcho-iz-djni-s-seldereem",
-        "calories": "30 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "30 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ СЃС‹СЂРѕРј Рё РіСЂСѓС€Р°РјРё",
+        "id": 194,
+        "name": "Салат с сыром и грушами",
         "link": "https://1000.menu//cooking/78-salat-s-sjrom-i-grushami",
-        "calories": "155 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "155 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "РђР±СЂРёРєРѕСЃРѕРІРѕРµ Р¶РµР»Рµ РёР· Р°Р±СЂРёРєРѕСЃРѕРІРѕРіРѕ РІР°СЂРµРЅСЊСЏ",
+        "id": 195,
+        "name": "Абрикосовое желе из абрикосового варенья",
         "link": "https://1000.menu//cooking/67138-abrikosovoe-jele-iz-abrikosovogo-varenya",
-        "calories": "220 РєРєР°Р»",
-        "cooking_time": "35 РјРёРЅ "
+        "calories": "220 ккал",
+        "cooking_time": "35 мин "
     },
     {
-        "name": "Р§РёРїСЃС‹ РёР· Р±Р°РЅР°РЅРѕРІ СЃ РєР°Р№РµРЅСЃРєРёРј РїРµСЂС†РµРј",
+        "id": 196,
+        "name": "Чипсы из бананов с кайенским перцем",
         "link": "https://1000.menu//cooking/53912-chipsy-iz-bananov-s-kaienskim-percem",
-        "calories": "135 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "135 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РљРѕРЅС„РµС‚С‹ Р§РµСЂРЅРѕСЃР»РёРІ РІ С€РѕРєРѕР»Р°РґРµ СЃ РјРёРЅРґР°Р»РµРј",
+        "id": 197,
+        "name": "Конфеты Чернослив в шоколаде с миндалем",
         "link": "https://1000.menu//cooking/52254-konfety-chernosliv-v-shokolade-s-mindalem",
-        "calories": "354 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "354 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "Р›РµРґРµРЅС†С‹ РЅР° СЃС‚РµРІРёРё СЃ РІРёРЅРЅС‹Рј РєР°РјРЅРµРј",
+        "id": 198,
+        "name": "Леденцы на стевии с винным камнем",
         "link": "https://1000.menu//cooking/49101-ledency-na-stevii-s-vinnym-kamnem",
-        "calories": "135 РєРєР°Р»",
-        "cooking_time": "1 С‡ 55 РјРёРЅ "
+        "calories": "135 ккал",
+        "cooking_time": "1 ч 55 мин "
     },
     {
-        "name": "Р—Р°РїРµС‡РµРЅРЅС‹Рµ Р±Р°РЅР°РЅС‹ СЃ Р°РЅР°РЅР°СЃР°РјРё РІ РґСѓС…РѕРІРєРµ РіРѕСЂСЏС‡РёР№ РґРµСЃРµСЂС‚",
+        "id": 199,
+        "name": "Запеченные бананы с ананасами в духовке горячий десерт",
         "link": "https://1000.menu//cooking/44785-zapechennye-banany-s-ananasami-v-duxovke-goryachii-desert",
-        "calories": "157 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "157 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "Р™РѕРіСѓСЂС‚ С„СЂСѓРєС‚РѕРІС‹Р№ СЃ РєРёРІРё, С…СѓСЂРјРѕР№, С‡РµСЂРЅРёРєРѕР№ Рё Р±Р°РЅР°РЅР°РјРё",
+        "id": 200,
+        "name": "Йогурт фруктовый с киви, хурмой, черникой и бананами",
         "link": "https://1000.menu//cooking/43953-iogurt-fruktovyi-s-kivi-xurmoi-chernikoi-i-bananami",
-        "calories": "66 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "66 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "РўРІРѕСЂРѕР¶РЅС‹Р№ РјСѓСЃСЃ РёР· С‚РІРѕСЂРѕРіР° СЃ С€РѕРєРѕР»Р°РґРЅС‹Рј Р¶РµР»Рµ",
+        "id": 201,
+        "name": "Творожный мусс из творога с шоколадным желе",
         "link": "https://1000.menu//cooking/40293-tvorojnyi-muss-iz-tvoroga-s-shokoladnym-jele",
-        "calories": "155 РєРєР°Р»",
-        "cooking_time": "3 С‡ 35 РјРёРЅ "
+        "calories": "155 ккал",
+        "cooking_time": "3 ч 35 мин "
     },
     {
-        "name": "РџР°СЃС‚Р° РђРјРѕСЃРѕРІР°",
+        "id": 202,
+        "name": "Паста Амосова",
         "link": "https://1000.menu//cooking/33481-pasta-amosova",
-        "calories": "277 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "277 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІРѕ-СЏРіРѕРґРЅС‹Р№ СЃР°Р»Р°С‚ СЃ Р№РѕРіСѓСЂС‚РѕРј",
+        "id": 203,
+        "name": "Фруктово-ягодный салат с йогуртом",
         "link": "https://1000.menu//cooking/32955-fruktovo-yagodnyi-salat-s-iogurtom",
-        "calories": "55 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "55 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "Р™РѕРіСѓСЂС‚РѕРІС‹Рµ С‚СЂСЋС„РµР»Рё СЃ РєР»СѓР±РЅРёРєРѕР№ Рё Р±РµР»С‹Рј С€РѕРєРѕР»Р°РґРѕРј",
+        "id": 204,
+        "name": "Йогуртовые трюфели с клубникой и белым шоколадом",
         "link": "https://1000.menu//cooking/31741-iogurtovye-trufeli-s-klubnikoi-i-belym-shokoladom",
-        "calories": "219 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "219 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІС‹Р№ СЃР°Р»Р°С‚ РЃР»РѕС‡РєР°",
+        "id": 205,
+        "name": "Фруктовый салат Ёлочка",
         "link": "https://1000.menu//cooking/30745-fruktovyi-salat-yolochka",
-        "calories": "70 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "70 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ С„СЂСѓРєС‚РѕРІРѕ СЏРіРѕРґРЅРѕРµ СѓРґРѕРІРѕР»СЊСЃС‚РІРёРµ",
+        "id": 206,
+        "name": "Салат фруктово ягодное удовольствие",
         "link": "https://1000.menu//cooking/28921-salat-fruktovo-yagodnoe-udovolstvie",
-        "calories": "29 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "29 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р–РµР»Рµ РёР· Р°СЂР±СѓР·Р° Р±Р°Р·РѕРІРѕРµ",
+        "id": 207,
+        "name": "Желе из арбуза базовое",
         "link": "https://1000.menu//cooking/28783-jele-iz-arbuza-bazovoe",
-        "calories": "33 РєРєР°Р»",
-        "cooking_time": "3 С‡ 15 РјРёРЅ "
+        "calories": "33 ккал",
+        "cooking_time": "3 ч 15 мин "
     },
     {
-        "name": "РЁРѕРєРѕР»Р°РґРЅС‹Р№ РїСѓРґРёРЅРі РёР· РіСЂРµС‡РєРё",
+        "id": 208,
+        "name": "Шоколадный пудинг из гречки",
         "link": "https://1000.menu//cooking/28235-shokoladnyi-puding-iz-grechki",
-        "calories": "296 РєРєР°Р»",
-        "cooking_time": "4 С‡ 30 РјРёРЅ "
+        "calories": "296 ккал",
+        "cooking_time": "4 ч 30 мин "
     },
     {
-        "name": "РЎС‹СЂРѕРµРґС‡РµСЃРєР°СЏ РџР°СЃРєР°",
+        "id": 209,
+        "name": "Сыроедческая Паска",
         "link": "https://1000.menu//cooking/28201-syroedcheskaya-paska",
-        "calories": "571 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "571 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РљР»СѓР±РЅРёС‡РЅРѕРµ РјРѕСЂРѕР¶РµРЅРѕРµ РЅР° РєРµС„РёСЂРµ",
+        "id": 210,
+        "name": "Клубничное мороженое на кефире",
         "link": "https://1000.menu//cooking/27276-klubnichnoe-morojenoe-na-kefire",
-        "calories": "81 РєРєР°Р»",
-        "cooking_time": "10 С‡ "
+        "calories": "81 ккал",
+        "cooking_time": "10 ч "
     },
     {
-        "name": "РЎР°Р»Р°С‚ С†РёРєРѕСЂРёР№",
+        "id": 211,
+        "name": "Салат цикорий",
         "link": "https://1000.menu//cooking/25665-salat-cikorii",
-        "calories": "83 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "83 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ СЃРµР»СЊРґРµСЂРµРµРј РёР·СЋРјРѕРј Рё РєР»СЋРєРІРѕР№",
+        "id": 212,
+        "name": "Салат с сельдереем изюмом и клюквой",
         "link": "https://1000.menu//cooking/25639-salat-s-seldereem-izumom-i-klukvoi",
-        "calories": "206 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "206 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ РєР°РїСѓСЃС‚РѕР№, СЏР±Р»РѕРєРѕРј, РѕСЂРµС…Р°РјРё",
+        "id": 213,
+        "name": "Салат с капустой, яблоком, орехами",
         "link": "https://1000.menu//cooking/25018-salat-s-kapustoi-yablokom-orexami",
-        "calories": "194 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "194 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р–РµР»РµР№РЅС‹Рµ РєРѕРЅС„РµС‚С‹ РёР· РљРѕРєР°-РљРѕР»С‹",
+        "id": 214,
+        "name": "Желейные конфеты из Кока-Колы",
         "link": "https://1000.menu//cooking/24007-jeleinye-konfety-iz-koka-koly",
-        "calories": "55 РєРєР°Р»",
-        "cooking_time": "2 С‡ 25 РјРёРЅ "
+        "calories": "55 ккал",
+        "cooking_time": "2 ч 25 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РҐСЂСѓРјРєР° СЃ СЂСѓРєРєРѕР»РѕР№ Рё С…СѓСЂРјРѕР№",
+        "id": 215,
+        "name": "Салат Хрумка с рукколой и хурмой",
         "link": "https://1000.menu//cooking/23471-salat-xrumka-s-rukkoloi-i-xurmoi",
-        "calories": "158 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "158 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РўРІРѕСЂРѕР¶РЅРѕРµ СЃСѓС„Р»Рµ СЃ СЏР±Р»РѕРєР°РјРё РІ РјРёРєСЂРѕРІРѕР»РЅРѕРІРєРµ",
+        "id": 216,
+        "name": "Творожное суфле с яблоками в микроволновке",
         "link": "https://1000.menu//cooking/22995-tvorojnoe-sufle-s-yablokami-v-mikrovolnovke",
-        "calories": "118 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "118 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р‘С‹СЃС‚СЂС‹Р№ РґРµСЃРµСЂС‚ Р‘Р°РЅР°РЅС‹ РІ С€РѕРєРѕР»Р°РґРµ",
+        "id": 217,
+        "name": "Быстрый десерт Бананы в шоколаде",
         "link": "https://1000.menu//cooking/21818-bystryi-desert-banany-v-shokolade",
-        "calories": "217 РєРєР°Р»",
-        "cooking_time": "5 РјРёРЅ "
+        "calories": "217 ккал",
+        "cooking_time": "5 мин "
     },
     {
-        "name": "Р”РµСЃРµСЂС‚ Р›РµС‚РЅРёР№ СЃ РїРµСЂСЃРёРєР°РјРё Рё Р°Р±СЂРёРєРѕСЃР°РјРё",
+        "id": 218,
+        "name": "Десерт Летний с персиками и абрикосами",
         "link": "https://1000.menu//cooking/21813-desert-letnii-s-persikami-i-abrikosami",
-        "calories": "80 РєРєР°Р»",
-        "cooking_time": "5 РјРёРЅ "
+        "calories": "80 ккал",
+        "cooking_time": "5 мин "
     },
     {
-        "name": "РЎР»Р°РґРєРёРµ РєР°РЅР°РїРµ СЃ СЃС‹СЂРѕРј",
+        "id": 219,
+        "name": "Сладкие канапе с сыром",
         "link": "https://1000.menu//cooking/19807-sladkie-kanape-s-syrom",
-        "calories": "71 РєРєР°Р»",
-        "cooking_time": "35 РјРёРЅ "
+        "calories": "71 ккал",
+        "cooking_time": "35 мин "
     },
     {
-        "name": "РЇР±Р»РѕРєРё РїРµС‡РµРЅС‹Рµ СЃ РєРѕСЂРёС†РµР№ Рё РјРµРґРѕРј",
+        "id": 220,
+        "name": "Яблоки печеные с корицей и медом",
         "link": "https://1000.menu//cooking/19286-yabloki-pechenye-s-koricei-i-medom",
-        "calories": "58 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "58 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ Р°РІРѕРєР°РґРѕ РѕРіСѓСЂС†РѕРј Рё РїСЂРѕСЂРѕС‰РµРЅРЅРѕР№ РіСЂРµС‡РєРѕР№",
+        "id": 221,
+        "name": "Салат с авокадо огурцом и пророщенной гречкой",
         "link": "https://1000.menu//cooking/18865-salat-s-avokado-ogurcom-i-proroshchennoi-grechkoi",
-        "calories": "82 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "82 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РџСЂРѕСЂРѕС‰РµРЅРЅС‹Р№ РѕРІРµСЃ СЃ Р±Р°РЅР°РЅР°РјРё РѕСЂРµС…Р°РјРё Рё РєР»РµРЅРѕРІС‹Рј СЃРёСЂРѕРїРѕРј",
+        "id": 222,
+        "name": "Пророщенный овес с бананами орехами и кленовым сиропом",
         "link": "https://1000.menu//cooking/18820-proroshchennyi-oves-s-bananami-orexami-i-klenovym-siropom",
-        "calories": "140 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "140 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РљСѓС‚СЊСЏ СЃ СЂРёСЃРѕРј, РјР°РєРѕРј, С‡РµСЂРЅРѕСЃР»РёРІРѕРј Рё РєСѓСЂР°РіРѕР№",
+        "id": 223,
+        "name": "Кутья с рисом, маком, черносливом и курагой",
         "link": "https://1000.menu//cooking/18750-kutya-s-risom-makom-chernoslivom-i-kuragoi",
-        "calories": "284 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "284 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЁРѕРєРѕР»Р°РґРЅРѕ С‚С‹РєРІРµРЅРЅС‹Р№ РґРµСЃРµСЂС‚",
+        "id": 224,
+        "name": "Шоколадно тыквенный десерт",
         "link": "https://1000.menu//cooking/18711-shokoladno-tykvennyi-desert",
-        "calories": "150 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "150 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "РљРѕРєРѕСЃРѕРІРѕРµ Р±Р»Р°РЅРјР°РЅР¶Рµ",
+        "id": 225,
+        "name": "Кокосовое бланманже",
         "link": "https://1000.menu//cooking/18554-kokosovoe-blanmanje",
-        "calories": "257 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "257 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РўС‹РєРІРµРЅРЅС‹Р№ СЃР°Р»Р°С‚",
+        "id": 226,
+        "name": "Тыквенный салат",
         "link": "https://1000.menu//cooking/17713-tykvennij-salat",
-        "calories": "90 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "90 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р”РµСЃРµСЂС‚ СЃ РјР°Р»РёРЅРѕР№ Рё СЃРµРјРµРЅР°РјРё С‡РёР°",
+        "id": 227,
+        "name": "Десерт с малиной и семенами чиа",
         "link": "https://1000.menu//cooking/17514-belkovyi-desert-s-malinoi-na-noch",
-        "calories": "68 РєРєР°Р»",
-        "cooking_time": "5 РјРёРЅ "
+        "calories": "68 ккал",
+        "cooking_time": "5 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ Р“Р°РІР°РЅР° РІ Р°РЅР°РЅР°СЃРµ",
+        "id": 228,
+        "name": "Салат Гавана в ананасе",
         "link": "https://1000.menu//cooking/16955-salat-gavana-v-ananase",
-        "calories": "64 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "64 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РњРѕР»РѕС‡РЅС‹Р№ СЂРёСЃ РєРёСЂРёР±Р°С‚",
+        "id": 229,
+        "name": "Молочный рис кирибат",
         "link": "https://1000.menu//cooking/16802-molochnyi-ris-kiribat",
-        "calories": "282 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "282 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "РњРµРґРѕРІС‹Рµ СЏР±Р»РѕС‡РєРё РІ РґСѓС…РѕРІРєРµ",
+        "id": 230,
+        "name": "Медовые яблочки в духовке",
         "link": "https://1000.menu//cooking/16690-desert-medovye-yablochki-v-duxovke",
-        "calories": "59 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "59 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РџРµС‡РµРЅС‹Рµ СЏР±Р»РѕРєРё РІ РјРёРєСЂРѕРІРѕР»РЅРѕРІРєРµ С†РµР»РёРєРѕРј",
+        "id": 231,
+        "name": "Печеные яблоки в микроволновке целиком",
         "link": "https://1000.menu//cooking/16688-pechenye-yabloki-v-mikrovolnovke",
-        "calories": "72 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "72 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РњР°СЂС†РёРїР°РЅ РјРµРґРѕРІС‹Р№",
+        "id": 232,
+        "name": "Марципан медовый",
         "link": "https://1000.menu//cooking/16452-marcipan-medovyi",
-        "calories": "546 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "546 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РўРІРѕСЂРѕР¶РЅС‹Р№ РґРµСЃРµСЂС‚ СЃРѕ СЃС‚РµРІРёРµР№ РїРѕ РґРёРµС‚Рµ Р”СЋРєР°РЅР°",
+        "id": 233,
+        "name": "Творожный десерт со стевией по диете Дюкана",
         "link": "https://1000.menu//cooking/16135-tvorojnyi-desert-so-steviei-po-diete-dukana",
-        "calories": "84 РєРєР°Р»",
-        "cooking_time": "3 С‡ "
+        "calories": "84 ккал",
+        "cooking_time": "3 ч "
     },
     {
-        "name": "РЇР№С†Р° СЃ СЃСЋСЂРїСЂРёР·РѕРј РЅР° РџР°СЃС…Сѓ",
+        "id": 234,
+        "name": "Яйца с сюрпризом на Пасху",
         "link": "https://1000.menu//cooking/15926-yaica-s-surprizom-na-pasxu",
-        "calories": "51 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "51 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р”РёРµС‚РёС‡РµСЃРєРёР№ С‚РІРѕСЂРѕР¶РЅС‹Р№ Р·РµС„РёСЂ",
+        "id": 235,
+        "name": "Диетический творожный зефир",
         "link": "https://1000.menu//cooking/15702-dieticheskii-tvorojnyi-zefir",
-        "calories": "133 РєРєР°Р»",
-        "cooking_time": "2 С‡ 10 РјРёРЅ "
+        "calories": "133 ккал",
+        "cooking_time": "2 ч 10 мин "
     },
     {
-        "name": "РђРїРµР»СЊСЃРёРЅ СЃ Р±Р°РЅР°РЅРѕРІРѕ-Р°РІРѕРєР°РґРЅС‹Рј СЃРѕСѓСЃРѕРј",
+        "id": 236,
+        "name": "Апельсин с бананово-авокадным соусом",
         "link": "https://1000.menu//cooking/14834-apelsin-s-bananovo-avokadnym-sousom",
-        "calories": "108 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "108 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р‘Р°РЅР°РЅС‹ СЃ РѕСЂРµС…Р°РјРё Рё РјРµРґРѕРј",
+        "id": 237,
+        "name": "Бананы с орехами и медом",
         "link": "https://1000.menu//cooking/14470-banany-s-orexami-i-medom",
-        "calories": "196 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "196 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РњРѕСЂРѕР¶РµРЅРѕРµ РљР»СѓР±РЅРёРєР° РІ С€РѕРєРѕР»Р°РґРµ",
+        "id": 238,
+        "name": "Мороженое Клубника в шоколаде",
         "link": "https://1000.menu//cooking/14099-morojenoe-klubnika-v-shokolade",
-        "calories": "214 РєРєР°Р»",
-        "cooking_time": "2 С‡ 15 РјРёРЅ "
+        "calories": "214 ккал",
+        "cooking_time": "2 ч 15 мин "
     },
     {
-        "name": "РўРёСЂР°РјРёСЃСѓ Р»Р°Р№С‚",
+        "id": 239,
+        "name": "Тирамису лайт",
         "link": "https://1000.menu//cooking/13776-tiramisu-lait",
-        "calories": "150 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "150 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІС‹Р№ СЃСѓРї Р›РµРіРєРѕСЃС‚СЊ",
+        "id": 240,
+        "name": "Фруктовый суп Легкость",
         "link": "https://1000.menu//cooking/13502-fruktovyi-sup-legkost",
-        "calories": "51 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "51 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РўРІРѕСЂРѕР¶РЅС‹Р№ РґРµСЃРµСЂС‚ РІ Р±Р»РµРЅРґРµСЂРµ РґР»СЏ РґРµС‚РµР№",
+        "id": 241,
+        "name": "Творожный десерт в блендере для детей",
         "link": "https://1000.menu//cooking/13370-tvorojnyi-desert-v-detskom-blendere",
-        "calories": "92 РєРєР°Р»",
-        "cooking_time": "5 РјРёРЅ "
+        "calories": "92 ккал",
+        "cooking_time": "5 мин "
     },
     {
-        "name": "РҐСѓРґРµСЋС‰РµРµ РјРѕСЂРѕР¶РµРЅРѕРµ",
+        "id": 242,
+        "name": "Худеющее мороженое",
         "link": "https://1000.menu//cooking/13056-xudeushchee-morojenoe",
-        "calories": "75 РєРєР°Р»",
-        "cooking_time": "6 С‡ "
+        "calories": "75 ккал",
+        "cooking_time": "6 ч "
     },
     {
-        "name": "РЎР°Р»Р°С‚ Р¤Р°РЅС‚Р°Р·РёСЏ",
+        "id": 243,
+        "name": "Салат Фантазия",
         "link": "https://1000.menu//cooking/12831-salat-fantaziya",
-        "calories": "56 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "56 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р”РѕРјР°С€РЅРёРµ РїРѕР»РµР·РЅС‹Рµ РєРѕРЅС„РµС‚РєРё",
+        "id": 244,
+        "name": "Домашние полезные конфетки",
         "link": "https://1000.menu//cooking/12644-domashnie-poleznye-konfetki",
-        "calories": "356 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "356 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІС‹Р№ СЃР°Р»Р°С‚ Apple",
+        "id": 245,
+        "name": "Фруктовый салат Apple",
         "link": "https://1000.menu//cooking/12454-fruktovyi-salat-apple",
-        "calories": "97 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "97 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р”РѕРјР°С€РЅРёР№ Р№РѕРіСѓСЂС‚ РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ",
+        "id": 246,
+        "name": "Домашний йогурт в мультиварке",
         "link": "https://1000.menu//cooking/12095-domashnii-iogurt-v-multivarke",
-        "calories": "68 РєРєР°Р»",
-        "cooking_time": "10 С‡ "
+        "calories": "68 ккал",
+        "cooking_time": "10 ч "
     },
     {
-        "name": "Р”РµСЃРµСЂС‚ СЃ СЋРјРѕСЂРѕРј",
+        "id": 247,
+        "name": "Десерт с юмором",
         "link": "https://1000.menu//cooking/11958-desert-s-umorom",
-        "calories": "52 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "52 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РЇРіРѕРґРЅС‹Р№ РїР°СЂС„Рµ",
+        "id": 248,
+        "name": "Ягодный парфе",
         "link": "https://1000.menu//cooking/11900-yagodnyi-parfe",
-        "calories": "146 РєРєР°Р»",
-        "cooking_time": "1 С‡ 10 РјРёРЅ "
+        "calories": "146 ккал",
+        "cooking_time": "1 ч 10 мин "
     },
     {
-        "name": "Р“СЂСѓС€Р° РІ РјР°С†РѕРЅРё",
+        "id": 249,
+        "name": "Груша в мацони",
         "link": "https://1000.menu//cooking/11587-grusha-maconi",
-        "calories": "39 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "39 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РўРІРѕСЂРѕРі СЃ РјР°С†РѕРЅРё",
+        "id": 250,
+        "name": "Творог с мацони",
         "link": "https://1000.menu//cooking/11573-tvorog-s-maconi",
-        "calories": "105 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "105 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р‘РµР»РєРѕРІРѕРµ С€Р°СЂРёРєРё РёР· РѕСЂРµС…РѕРІ Рё СЃСѓС…РѕС„СЂСѓРєС‚РѕРІ",
+        "id": 251,
+        "name": "Белковое шарики из орехов и сухофруктов",
         "link": "https://1000.menu//cooking/11087-belkovoe-shariki-iz-orexov-i-suxofruktov",
-        "calories": "326 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "326 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЇРіРѕРґРЅС‹Р№ РґРµСЃРµСЂС‚ РџСЏС‚РёРјРёРЅСѓС‚РєР°",
+        "id": 252,
+        "name": "Ягодный десерт Пятиминутка",
         "link": "https://1000.menu//cooking/9333-yagodnji-desert-pyatiminutka",
-        "calories": "44 РєРєР°Р»",
-        "cooking_time": "5 РјРёРЅ "
+        "calories": "44 ккал",
+        "cooking_time": "5 мин "
     },
     {
-        "name": "Р‘Р°С‚РѕРЅС‡РёРєРё РјСЋСЃР»Рё  РѕРІСЃСЏРЅС‹Рµ СЃ С„СЂСѓРєС‚Р°РјРё",
+        "id": 253,
+        "name": "Батончики мюсли  овсяные с фруктами",
         "link": "https://1000.menu//cooking/8668-batonchiki-musli",
-        "calories": "187 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "187 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "РљСЂРµРј РёР· Р±РµР»РѕРіРѕ С€РѕРєРѕР»Р°РґР°",
+        "id": 254,
+        "name": "Крем из белого шоколада",
         "link": "https://1000.menu//cooking/8356-krem-iz-belogo-shokolada",
-        "calories": "368 РєРєР°Р»",
-        "cooking_time": "1 С‡ 10 РјРёРЅ "
+        "calories": "368 ккал",
+        "cooking_time": "1 ч 10 мин "
     },
     {
-        "name": "Р¦РІРµС‚С‹ РёР· Р°РЅР°РЅР°СЃР°",
+        "id": 255,
+        "name": "Цветы из ананаса",
         "link": "https://1000.menu//cooking/8234-tsvetj-iz-ananasa",
-        "calories": "49 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "49 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІС‹Р№ СЃР°Р»Р°С‚ Р±Р°РЅР°РЅС‹ Р°РїРµР»СЊСЃРёРЅС‹ СЏР±Р»РѕРєРё РіСЂСѓС€Рё",
+        "id": 256,
+        "name": "Фруктовый салат бананы апельсины яблоки груши",
         "link": "https://1000.menu//cooking/8125-fruktovyi-salat-banany-apelsiny-yabloki-grushi",
-        "calories": "67 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "67 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р”РµСЃРµСЂС‚ С‚РІРѕСЂРѕР¶РЅС‹Р№ СЃ Р±Р°РЅР°РЅРѕРј Рё Р¶РµР»Р°С‚РёРЅРѕРј",
+        "id": 257,
+        "name": "Десерт творожный с бананом и желатином",
         "link": "https://1000.menu//cooking/8016-tvorozhno-bananovji-desert",
-        "calories": "115 РєРєР°Р»",
-        "cooking_time": "3 С‡ 15 РјРёРЅ "
+        "calories": "115 ккал",
+        "cooking_time": "3 ч 15 мин "
     },
     {
-        "name": "Р”РµСЃРµСЂС‚ РёР· Р°СЂР±СѓР·Р° РђР№СЃР±РµСЂРі",
+        "id": 258,
+        "name": "Десерт из арбуза Айсберг",
         "link": "https://1000.menu//cooking/7560-desert-aisberg",
-        "calories": "62 РєРєР°Р»",
-        "cooking_time": "8 С‡ 10 РјРёРЅ "
+        "calories": "62 ккал",
+        "cooking_time": "8 ч 10 мин "
     },
     {
-        "name": "СЃР°Р»Р°С‚ РёР· СЃРІРµРєР»С‹ СЃ РёР·СЋРјРѕРј Рё РѕСЂРµС…Р°РјРё",
+        "id": 259,
+        "name": "салат из свеклы с изюмом и орехами",
         "link": "https://1000.menu//cooking/7221-desertnji-salat-so-svekloi",
-        "calories": "236 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "236 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РѕСЂРµС…РѕРІС‹Р№ СЃ РєР»СЋРєРІРµРЅРЅС‹Рј СЃРѕСѓСЃРѕРј",
+        "id": 260,
+        "name": "Салат ореховый с клюквенным соусом",
         "link": "https://1000.menu//cooking/6721-legkij-i-bistrij-salat",
-        "calories": "155 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "155 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІС‹Р№ СЃР°Р»Р°С‚ СЃ РјР°РЅРґР°СЂРёРЅР°РјРё Рё РјРѕСЂРѕР¶РµРЅС‹Рј",
+        "id": 261,
+        "name": "Фруктовый салат с мандаринами и мороженым",
         "link": "https://1000.menu//cooking/6680-fruktovji-salat-s-morozhenim",
-        "calories": "66 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "66 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "Р”РµСЃРµСЂС‚ РёР· РІРёРЅРѕРіСЂР°РґР° Рё С€РѕРєРѕР»Р°РґР° РўСЂСЋС„РµР»СЊРєРё",
+        "id": 262,
+        "name": "Десерт из винограда и шоколада Трюфельки",
         "link": "https://1000.menu//cooking/6637-desert-iz-vinograda-i-shokolada",
-        "calories": "176 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "176 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЇРіРѕРґРЅРѕРµ Р¶РµР»Рµ",
+        "id": 263,
+        "name": "Ягодное желе",
         "link": "https://1000.menu//cooking/6486-yagodnoe-zhele",
-        "calories": "41 РєРєР°Р»",
-        "cooking_time": "4 С‡ 10 РјРёРЅ "
+        "calories": "41 ккал",
+        "cooking_time": "4 ч 10 мин "
     },
     {
-        "name": "РџРёСЂРѕР¶РЅРѕРµ Р¤РёС‚РЅРµСЃ",
+        "id": 264,
+        "name": "Пирожное Фитнес",
         "link": "https://1000.menu//cooking/6207-pirozhnoe-fitnes-",
-        "calories": "112 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "112 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р‘Р°РЅР°РЅС‹ РІ РґСѓС…РѕРІРєРµ СЃ С€РѕРєРѕР»Р°РґРѕРј",
+        "id": 265,
+        "name": "Бананы в духовке с шоколадом",
         "link": "https://1000.menu//cooking/6039-bananj-pechyonnje-",
-        "calories": "122 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "122 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РљР»СѓР±РЅРёРєР° РІ С€РѕРєРѕР»Р°РґРµ РґРµСЃРµСЂС‚",
+        "id": 266,
+        "name": "Клубника в шоколаде десерт",
         "link": "https://1000.menu//cooking/5062-klubnika-v-shokolade",
-        "calories": "196 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "196 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЎР»Р°РґРєРёР№ РґРµСЃРµСЂС‚",
+        "id": 267,
+        "name": "Сладкий десерт",
         "link": "https://1000.menu//cooking/4679-sladkii-desert",
-        "calories": "166 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "166 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "РљРµРґСЂРѕРІС‹Рµ РѕСЂРµС…Рё СЃ РјРµРґРѕРј",
+        "id": 268,
+        "name": "Кедровые орехи с медом",
         "link": "https://1000.menu//cooking/4447-kedrovje-orehi-s-medom",
-        "calories": "465 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "465 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РљРѕРЅС„РµС‚С‹ РїС‚РёС‡СЊРµ РјРѕР»РѕРєРѕ",
+        "id": 269,
+        "name": "Конфеты птичье молоко",
         "link": "https://1000.menu//cooking/4053-konfetj-ptiche-moloko",
-        "calories": "163 РєРєР°Р»",
-        "cooking_time": "7 С‡ "
+        "calories": "163 ккал",
+        "cooking_time": "7 ч "
     },
     {
-        "name": "Р”РµСЃРµСЂС‚ РёР· СЏР±Р»РѕРє РІ РґСѓС…РѕРІРєРµ",
+        "id": 270,
+        "name": "Десерт из яблок в духовке",
         "link": "https://1000.menu//cooking/3619-desert-iz-yablok-v-duxovke",
-        "calories": "61 РєРєР°Р»",
-        "cooking_time": "4 С‡ 20 РјРёРЅ "
+        "calories": "61 ккал",
+        "cooking_time": "4 ч 20 мин "
     },
     {
-        "name": "Р”РµСЃРµСЂС‚ Р°Р№РІРѕРІРѕ С‚С‹РєРІРµРЅРЅС‹Р№ СЃ РјРµРґРѕРј",
+        "id": 271,
+        "name": "Десерт айвово тыквенный с медом",
         "link": "https://1000.menu//cooking/3618-desert-aivovo-tykvennyi-s-medom",
-        "calories": "109 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "109 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "Р“СЂРµС†РєРёРµ РѕСЂРµС…Рё СЃ РјРµРґРѕРј",
+        "id": 272,
+        "name": "Грецкие орехи с медом",
         "link": "https://1000.menu//cooking/3567-greckie-orexi-s-medom",
-        "calories": "471 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "471 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р‘С‹СЃС‚СЂС‹Р№ РґРµСЃРµСЂС‚",
+        "id": 273,
+        "name": "Быстрый десерт",
         "link": "https://1000.menu//cooking/3467-bjstrji-desert",
-        "calories": "189 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "189 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РЁРѕРєРѕР»Р°РґРЅС‹Р№ РєСЂРµРј РґР»СЏ С‚РѕСЂС‚Р°",
+        "id": 274,
+        "name": "Шоколадный крем для торта",
         "link": "https://1000.menu//cooking/3128-shokoladnji-krem-dlya-torta",
-        "calories": "472 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "472 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ РјР°РЅРіРѕ Рё Р»СѓРєРѕРј",
+        "id": 275,
+        "name": "Салат с манго и луком",
         "link": "https://1000.menu//cooking/2953-salat-s-mango-i-lukom",
-        "calories": "59 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "59 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РљР°РЅР°РїРµ С„СЂСѓРєС‚РѕРІРѕРµ",
+        "id": 276,
+        "name": "Канапе фруктовое",
         "link": "https://1000.menu//cooking/2909-kanape-fruktovoe",
-        "calories": "56 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "56 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РљР°РЅР°РїРµ СЃ СЃС‹СЂРѕРј Рё РјР°РЅРґР°СЂРёРЅР°РјРё",
+        "id": 277,
+        "name": "Канапе с сыром и мандаринами",
         "link": "https://1000.menu//cooking/2905-kanape-s-syrom-i-mandarinami",
-        "calories": "82 РєРєР°Р»",
-        "cooking_time": "1 Рґ 6 С‡ "
+        "calories": "82 ккал",
+        "cooking_time": "1 д 6 ч "
     },
     {
-        "name": "Р‘Р°РЅР°РЅС‹ РІ СЂРёСЃРѕРІРѕР№ Р±СѓРјР°РіРµ СЃ С‚РІРѕСЂРѕРіРѕРј",
+        "id": 278,
+        "name": "Бананы в рисовой бумаге с творогом",
         "link": "https://1000.menu//cooking/2889-banany-v-risovoi-bumage-s-tvorogom",
-        "calories": "203 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "203 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РўР°Р№СЃРєРёР№ СЃР°Р»Р°С‚ Р‘Р°РЅРіРєРѕРє",
+        "id": 279,
+        "name": "Тайский салат Бангкок",
         "link": "https://1000.menu//cooking/1715-taiskii-salat-bangkok",
-        "calories": "73 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "73 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "Р‘СЂР°Р·РёР»СЊСЃРєРёР№ СЃР°Р»Р°С‚ СЏР±Р»РѕРєРѕ, Р±Р°РЅР°РЅ",
+        "id": 280,
+        "name": "Бразильский салат яблоко, банан",
         "link": "https://1000.menu//cooking/1423-bananovji-salat-po-brazilski",
-        "calories": "75 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "75 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ РЅСѓС‚РѕРј, СЃРІРµРєР»РѕР№ Рё РіСЂР°РЅР°С‚РѕРј",
+        "id": 281,
+        "name": "Салат с нутом, свеклой и гранатом",
         "link": "https://1000.menu//cooking/663-salat-s-nutom-svekloi-i-granatom",
-        "calories": "179 РєРєР°Р»",
-        "cooking_time": "1 С‡ 15 РјРёРЅ "
+        "calories": "179 ккал",
+        "cooking_time": "1 ч 15 мин "
     }
 ]

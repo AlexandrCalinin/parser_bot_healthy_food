@@ -1,1736 +1,2872 @@
 [
     {
-        "name": "РџРѕРјРёРґРѕСЂС‹ СЃ С‡РµСЃРЅРѕРєРѕРј Рё РїРµСЂС†РµРј",
+        "id": 1,
+        "name": "Помидоры с чесноком и перцем",
         "link": "https://1000.menu//cooking/55564-zakuska-iz-pomidorov-s-chesnokom-i-bolgarskim-percem",
-        "calories": "70 РєРєР°Р»",
-        "cooking_time": "2 Рґ "
+        "calories": "70 ккал",
+        "cooking_time": "2 д "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· РїРѕРјРёРґРѕСЂРѕРІ Рё Р»СѓРєР°",
+        "id": 2,
+        "name": "Салат из помидоров и лука",
         "link": "https://1000.menu//cooking/68652-salat-iz-pomidorov-i-luka",
-        "calories": "26 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "26 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· РїРѕРјРёРґРѕСЂРѕРІ СЃ РѕРіСѓСЂС†РѕРј Рё Р»СѓРєРѕРј",
+        "id": 3,
+        "name": "Салат из помидоров с огурцом и луком",
         "link": "https://1000.menu//cooking/36406-salat-iz-pomidorov-s-ogurcom-i-lukom",
-        "calories": "82 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "82 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "Р‘Р°РєР»Р°Р¶Р°РЅС‹ СЃ Р±РѕР»РіР°СЂСЃРєРёРј РїРµСЂС†РµРј Рё РїРѕРјРёРґРѕСЂР°РјРё С‚СѓС€РµРЅС‹Рµ",
+        "id": 4,
+        "name": "Баклажаны с болгарским перцем и помидорами тушеные",
         "link": "https://1000.menu//cooking/22579-baklajany-s-percem-i-pomidorami",
-        "calories": "72 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "72 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р‘Р°РєР»Р°Р¶Р°РЅС‹ С‚СѓС€РµРЅС‹Рµ СЃ РѕРІРѕС‰Р°РјРё РЅР° СЃРєРѕРІРѕСЂРѕРґРµ",
+        "id": 5,
+        "name": "Баклажаны тушеные с овощами на сковороде",
         "link": "https://1000.menu//cooking/3363-baklajany-tushenye-s-ovoshchami-bystro-i-prosto",
-        "calories": "51 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "51 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РћРІРѕС‰РЅРѕРµ СЂР°РіСѓ СЃ Р±Р°РєР»Р°Р¶Р°РЅР°РјРё Рё РєР°Р±Р°С‡РєР°РјРё",
+        "id": 6,
+        "name": "Овощное рагу с баклажанами и кабачками",
         "link": "https://1000.menu//cooking/42420-ovoshchnoe-ragu-s-baklajanami-i-kabachkami",
-        "calories": "78 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "78 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "РљР°Р±Р°С‡РєРё РІ РґСѓС…РѕРІРєРµ СЃ С„Р°СЂС€РµРј Рё СЃС‹СЂРѕРј",
+        "id": 7,
+        "name": "Кабачки в духовке с фаршем и сыром",
         "link": "https://1000.menu//cooking/21994-kabachki-v-duxovke-s-farshem-s-syrom",
-        "calories": "100 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "100 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РљР°Р±Р°С‡РєРё СЃ Р±РѕР»РіР°СЂСЃРєРёРј РїРµСЂС†РµРј",
+        "id": 8,
+        "name": "Кабачки с болгарским перцем",
         "link": "https://1000.menu//cooking/67135-kabachki-s-bolgarskim-percem",
-        "calories": "83 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "83 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РќР°РїРёС‚РѕРє Р»РёРјРѕРЅР°Рґ РёР· Р»РёРјРѕРЅРѕРІ Рё РјСЏС‚С‹",
+        "id": 9,
+        "name": "Напиток лимонад из лимонов и мяты",
         "link": "https://1000.menu//cooking/10107-limon-s-myatoi",
-        "calories": "34 РєРєР°Р»",
-        "cooking_time": "4 С‡ "
+        "calories": "34 ккал",
+        "cooking_time": "4 ч "
     },
     {
-        "name": "РљР°Р±Р°С‡РєРё С‚СѓС€РµРЅС‹Рµ РІ СЃРјРµС‚Р°РЅРµ",
+        "id": 10,
+        "name": "Кабачки тушеные в сметане",
         "link": "https://1000.menu//cooking/3872-kabachki-tushenje-v-smetane",
-        "calories": "99 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "99 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РљРѕРјРїРѕС‚ РёР· РІРёС€РЅРё СЃ РєРѕСЃС‚РѕС‡РєР°РјРё",
+        "id": 11,
+        "name": "Компот из вишни с косточками",
         "link": "https://1000.menu//cooking/19767-kompot-iz-vishni-s-kostochkami",
-        "calories": "58 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "58 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РєР°РїСѓСЃС‚Р° СЃ СѓРєСЃСѓСЃРѕРј Рё РјР°СЃР»РѕРј",
+        "id": 12,
+        "name": "Салат капуста с уксусом и маслом",
         "link": "https://1000.menu//cooking/36772-salat-kapusta-s-uksusom-i-maslom",
-        "calories": "100 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "100 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РљР»Р°СЃСЃРёС‡РµСЃРєР°СЏ РѕРєСЂРѕС€РєР° РЅР° РєРІР°СЃРµ СЃ РєРѕР»Р±Р°СЃРѕР№",
+        "id": 13,
+        "name": "Классическая окрошка на квасе с колбасой",
         "link": "https://1000.menu//cooking/22527-klassicheskaya-okroshka-na-kvase",
-        "calories": "83 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "83 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РљР°Р±Р°С‡РєРё С‚СѓС€РµРЅС‹Рµ РЅР° СЃРєРѕРІРѕСЂРѕРґРµ",
+        "id": 14,
+        "name": "Кабачки тушеные на сковороде",
         "link": "https://1000.menu//cooking/36271-kabachki-tushenye-na-skovorode",
-        "calories": "67 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "67 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЈРґРѕРЅ СЃ РєСѓСЂРёС†РµР№ Рё РѕРІРѕС‰Р°РјРё",
+        "id": 15,
+        "name": "Удон с курицей и овощами",
         "link": "https://1000.menu//cooking/37261-udon-s-kuricei-i-ovoschami",
-        "calories": "62 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "62 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "РљРІР°СЃ РёР· С†РёРєРѕСЂРёСЏ РІ РґРѕРјР°С€РЅРёС… СѓСЃР»РѕРІРёСЏС…",
+        "id": 16,
+        "name": "Квас из цикория в домашних условиях",
         "link": "https://1000.menu//cooking/37938-kvas-iz-cikoriya-v-domashnix-usloviyax",
-        "calories": "25 РєРєР°Р»",
-        "cooking_time": "2 Рґ "
+        "calories": "25 ккал",
+        "cooking_time": "2 д "
     },
     {
-        "name": "РћРІРѕС‰РЅРѕР№ СЃР°Р»Р°С‚ РёР· РѕРіСѓСЂС†РѕРІ СЃ СЂР°СЃС‚РёС‚РµР»СЊРЅС‹Рј РјР°СЃР»РѕРј",
+        "id": 17,
+        "name": "Овощной салат из огурцов с растительным маслом",
         "link": "https://1000.menu//cooking/52362-ovoshchnoi-salat-so-struchkovoi-fasolu",
-        "calories": "61 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "61 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "Р Р°С‚Р°С‚СѓР№ РєР»Р°СЃСЃРёС‡РµСЃРєРёР№ РІ РґСѓС…РѕРІРєРµ РѕРІРѕС‰РЅРѕР№",
+        "id": 18,
+        "name": "Рататуй классический в духовке овощной",
         "link": "https://1000.menu//cooking/17258-ratatui-iz-baklajanov",
-        "calories": "90 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "90 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ Р¶Р°СЂРµРЅС‹РјРё Р±Р°РєР»Р°Р¶Р°РЅР°РјРё Рё РїРѕРјРёРґРѕСЂР°РјРё",
+        "id": 19,
+        "name": "Салат с жареными баклажанами и помидорами",
         "link": "https://1000.menu//cooking/64792-salat-s-jarenymi-baklajanami-i-pomidorami",
-        "calories": "50 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "50 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р“РѕР»СѓР±Р°СЏ Р»Р°РіСѓРЅР° РєРѕРєС‚РµР№Р»СЊ",
+        "id": 20,
+        "name": "Голубая лагуна коктейль",
         "link": "https://1000.menu//cooking/34343-golubaya-laguna-kokteil",
-        "calories": "63 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "63 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р‘Р°РєР»Р°Р¶Р°РЅС‹ РєСЂСѓР¶РѕС‡РєР°РјРё РЅР° СЃРєРѕРІРѕСЂРѕРґРµ СЃ С‡РµСЃРЅРѕРєРѕРј Р¶Р°СЂРµРЅС‹Рµ",
+        "id": 21,
+        "name": "Баклажаны кружочками на сковороде с чесноком жареные",
         "link": "https://1000.menu//cooking/3354-baklajany-krujochkami-s-pomidorami-syrom-i-chesnokom",
-        "calories": "99 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "99 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р›РѕРґРѕС‡РєРё РёР· Р±Р°РєР»Р°Р¶Р°РЅРѕРІ РІ РґСѓС…РѕРІРєРµ",
+        "id": 22,
+        "name": "Лодочки из баклажанов в духовке",
         "link": "https://1000.menu//cooking/13830-lodochki-iz-baklajanov-v-duxovke-s-farshem",
-        "calories": "72 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "72 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РљР°Р±Р°С‡РєРё РІ РґСѓС…РѕРІРєРµ СЃ СЏР№С†РѕРј Рё СЃС‹СЂРѕРј",
+        "id": 23,
+        "name": "Салат на зиму огурцы с томатной пастой",
+        "link": "https://1000.menu//cooking/28146-salat-na-zimu-ogurcy-s-tomatnoi-pastoi",
+        "calories": "50 ккал",
+        "cooking_time": "10 ч "
+    },
+    {
+        "id": 24,
+        "name": "Кабачки в духовке с яйцом и сыром",
         "link": "https://1000.menu//cooking/65726-kabachki-v-duxovke-s-yaicom-i-syrom",
-        "calories": "89 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "89 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РўС‹РєРІР° РЅР° СЃРєРѕРІРѕСЂРѕРґРµ СЃ РѕРІРѕС‰Р°РјРё",
+        "id": 25,
+        "name": "Тыква на сковороде с овощами",
         "link": "https://1000.menu//cooking/39717-tykva-s-ovoshchami-na-skovorode",
-        "calories": "99 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "99 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РљР°Р±Р°С‡РєРё РєРѕР»СЊС†Р°РјРё РІ РґСѓС…РѕРІРєРµ СЃ С„Р°СЂС€РµРј",
+        "id": 26,
+        "name": "Кабачки кольцами в духовке с фаршем",
         "link": "https://1000.menu//cooking/42928-kabachki-kolcami-v-duxovke-s-farshem",
-        "calories": "93 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "93 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЎРѕР»СЏРЅРєР° СЃ РіСЂРёР±Р°РјРё Рё РєР°РїСѓСЃС‚РѕР№ Р»РµРіРєРёР№ СѓР¶РёРЅ",
+        "id": 27,
+        "name": "Солянка с грибами и капустой легкий ужин",
         "link": "https://1000.menu//cooking/5606-solyanka-s-gribami-i-kapustoi",
-        "calories": "57 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "57 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РњРѕСЂРєРѕРІСЊ СЃ РјР°Р№РѕРЅРµР·РѕРј Рё С‡РµСЃРЅРѕРєРѕРј",
+        "id": 28,
+        "name": "Салат Морковь с майонезом и чесноком",
         "link": "https://1000.menu//cooking/16250-salat-morkov-s-maionezom-i-chesnokom",
-        "calories": "99 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "99 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "Р”РѕРјР°С€РЅРёР№ С…Р»РµР±РЅС‹Р№ РєРІР°СЃ Р±РµР· РґСЂРѕР¶Р¶РµР№",
+        "id": 29,
+        "name": "Домашний хлебный квас без дрожжей",
         "link": "https://1000.menu//cooking/37437-domashnii-xlebnyi-kvas-bez-drojjei",
-        "calories": "52 РєРєР°Р»",
-        "cooking_time": "2 Рґ "
+        "calories": "52 ккал",
+        "cooking_time": "2 д "
     },
     {
-        "name": "РћРІРѕС‰РЅРѕРµ СЂР°РіСѓ СЃ РєР°Р±Р°С‡РєР°РјРё Рё РїРѕРјРёРґРѕСЂР°РјРё",
+        "id": 30,
+        "name": "Овощное рагу с кабачками и помидорами",
         "link": "https://1000.menu//cooking/4833-ragu-iz-kabachkov",
-        "calories": "73 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "73 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· РјРѕСЂРєРѕРІРё РєР°Рє РІ СЃС‚РѕР»РѕРІРѕР№ Р»РµРіРєРёР№ СѓР¶РёРЅ",
+        "id": 31,
+        "name": "Салат из моркови как в столовой легкий ужин",
         "link": "https://1000.menu//cooking/58500-salat-iz-morkovi-kak-v-stolovoi",
-        "calories": "100 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "100 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р–Р°СЂРµРЅС‹Рµ С€Р°РјРїРёРЅСЊРѕРЅС‹ СЃ Р»СѓРєРѕРј РЅР° СЃРєРѕРІРѕСЂРѕРґРµ",
+        "id": 32,
+        "name": "Жареные шампиньоны с луком на сковороде",
         "link": "https://1000.menu//cooking/34563-jarenye-shampinony-s-lukom-na-skovorode",
-        "calories": "61 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "61 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "РљРµС„РёСЂ СЃ РѕРіСѓСЂС†РѕРј Рё Р·РµР»РµРЅСЊСЋ РґР»СЏ РїРѕС…СѓРґРµРЅРёСЏ",
+        "id": 33,
+        "name": "Кефир с огурцом и зеленью для похудения",
         "link": "https://1000.menu//cooking/787-xolodnyi-sup-iz-zeleni-s-ogurcami-na-kefire-dlya-poxudeniya",
-        "calories": "30 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "30 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РљР°СЂС‚РѕС€РєР° СЃ РєР°Р±Р°С‡РєР°РјРё Рё РїРѕРјРёРґРѕСЂР°РјРё РІ РґСѓС…РѕРІРєРµ",
+        "id": 34,
+        "name": "Картошка с кабачками и помидорами в духовке",
         "link": "https://1000.menu//cooking/13527-kabachki-s-kartoshkoi-i-pomidorami",
-        "calories": "84 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "84 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РѕРіСѓСЂС†С‹ РїРѕРјРёРґРѕСЂС‹ РјРѕСЂРєРѕРІСЊ",
+        "id": 35,
+        "name": "Салат огурцы помидоры морковь",
         "link": "https://1000.menu//cooking/68358-salat-ogurcy-pomidory-morkov",
-        "calories": "66 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "66 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РљРѕРєС‚РµР№Р»СЊ РџРёРЅР° РљРѕР»Р°РґР° Р°Р»РєРѕРіРѕР»СЊРЅС‹Р№",
+        "id": 36,
+        "name": "Коктейль Пина Колада алкогольный",
         "link": "https://1000.menu//cooking/1517-pina-kolada",
-        "calories": "65 РєРєР°Р»",
-        "cooking_time": "5 РјРёРЅ "
+        "calories": "65 ккал",
+        "cooking_time": "5 мин "
     },
     {
-        "name": "Р‘Р°РєР»Р°Р¶Р°РЅС‹ РІ РєРёСЃР»Рѕ-СЃР»Р°РґРєРѕРј СЃРѕСѓСЃРµ РїРѕ-РєРёС‚Р°Р№СЃРєРё",
+        "id": 37,
+        "name": "Баклажаны в кисло-сладком соусе по-китайски",
         "link": "https://1000.menu//cooking/48814-baklajany-v-kislo-sladkom-souse-po-kitaiski",
-        "calories": "93 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "93 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РњР°СЂРёРЅРѕРІР°РЅРЅР°СЏ СЃРІРµРєР»Р° Р±С‹СЃС‚СЂРѕРіРѕ РїСЂРёРіРѕС‚РѕРІР»РµРЅРёСЏ",
+        "id": 38,
+        "name": "Маринованная свекла быстрого приготовления",
         "link": "https://1000.menu//cooking/27744-marinovannaya-svekla-bystrogo-prigotovleniya",
-        "calories": "52 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "52 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "РџРµСЂС†С‹ С„Р°СЂС€РёСЂРѕРІР°РЅРЅС‹Рµ РјСЏСЃРѕРј Рё СЂРёСЃРѕРј РІ РєР°СЃС‚СЂСЋР»Рµ",
+        "id": 39,
+        "name": "Перцы фаршированные мясом и рисом в кастрюле",
         "link": "https://1000.menu//cooking/397-percy-farshirovannye-myasom-i-risom-v-kastrule",
-        "calories": "100 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "100 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "РџРµС‡РµРЅС‹Рµ Р±Р°РєР»Р°Р¶Р°РЅС‹ РІ РґСѓС…РѕРІРєРµ",
+        "id": 40,
+        "name": "Печеные баклажаны в духовке",
         "link": "https://1000.menu//cooking/49133-pechenye-baklajany-v-duxovke",
-        "calories": "60 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "60 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РљРѕРјРїРѕС‚ РёР· СЃРІРµР¶РёС… СЏР±Р»РѕРє РІ РєР°СЃС‚СЂСЋР»Рµ",
+        "id": 41,
+        "name": "Компот из свежих яблок в кастрюле",
         "link": "https://1000.menu//cooking/2222-kompot-iz-yablok",
-        "calories": "21 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "21 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РљРѕРєС‚РµР№Р»СЊ РњРѕС…РёС‚Рѕ Р°Р»РєРѕРіРѕР»СЊРЅС‹Р№",
+        "id": 42,
+        "name": "Коктейль Мохито алкогольный",
         "link": "https://1000.menu//cooking/44248-kokteil-moxito-alkogolnyi",
-        "calories": "16 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "16 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р›РёРјРѕРЅР°Рґ РёР· Р°РїРµР»СЊСЃРёРЅРѕРІ РґРѕРјР°С€РЅРёР№",
+        "id": 43,
+        "name": "Лимонад из апельсинов домашний",
         "link": "https://1000.menu//cooking/9749-limonad-iz-apelsinov",
-        "calories": "36 РєРєР°Р»",
-        "cooking_time": "4 С‡ "
+        "calories": "36 ккал",
+        "cooking_time": "4 ч "
     },
     {
-        "name": "РљРѕРјРїРѕС‚ РёР· РІР°СЂРµРЅСЊСЏ Рё СЏР±Р»РѕРє",
+        "id": 44,
+        "name": "Компот из варенья и яблок",
         "link": "https://1000.menu//cooking/9724-kompot-iz-varenya",
-        "calories": "52 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "52 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РћРІРѕС‰РЅРѕРµ СЂР°РіСѓ РЅР° СЃРєРѕРІРѕСЂРѕРґРµ СЃ РєР°СЂС‚РѕС€РєРѕР№",
+        "id": 45,
+        "name": "Овощное рагу на сковороде с картошкой",
         "link": "https://1000.menu//cooking/67317-ovoschnoe-ragu-na-skovorode-s-kartoshkoi",
-        "calories": "54 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "54 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р С‹Р±РЅРѕРµ СЃРµРІРёС‡Рµ РёР· Р»РѕСЃРѕСЃСЏ СЃ Р°РІРѕРєР°РґРѕ",
+        "id": 46,
+        "name": "Рыбное севиче из лосося с авокадо",
         "link": "https://1000.menu//cooking/18048-rybnoe-seviche-iz-lososya",
-        "calories": "97 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "97 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РњРѕСЂСЃ РёР· С‡РµСЂРЅРѕР№ СЃРјРѕСЂРѕРґРёРЅС‹",
+        "id": 47,
+        "name": "Морс из черной смородины",
         "link": "https://1000.menu//cooking/38625-mors-iz-chernoi-smorodiny",
-        "calories": "23 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "23 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РљР°Р±Р°С‡РєРё СЃ Р±Р°РєР»Р°Р¶Р°РЅР°РјРё Рё РїРѕРјРёРґРѕСЂР°РјРё РЅР° СЃРєРѕРІРѕСЂРѕРґРµ",
+        "id": 48,
+        "name": "Кабачки с баклажанами и помидорами на сковороде",
         "link": "https://1000.menu//cooking/35838-kabachki-i-baklajany-na-skovorode",
-        "calories": "51 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "51 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "РљРІР°СЃ РёР· РєРІР°СЃРЅРѕРіРѕ СЃСѓСЃР»Р° РґРѕРјР°С€РЅРёР№",
+        "id": 49,
+        "name": "Квас из квасного сусла домашний",
         "link": "https://1000.menu//cooking/17386-kvas-domashnii-iz-kvasnogo-susla",
-        "calories": "33 РєРєР°Р»",
-        "cooking_time": "20 С‡ "
+        "calories": "33 ккал",
+        "cooking_time": "20 ч "
     },
     {
-        "name": "РўСѓС€РµРЅР°СЏ РєР°СЂС‚РѕС€РєР° СЃ РѕРІРѕС‰Р°РјРё РЅР° СЃРєРѕРІРѕСЂРѕРґРµ Р»РµРіРєРёР№ СѓР¶РёРЅ",
+        "id": 50,
+        "name": "Тушеная картошка с овощами на сковороде легкий ужин",
         "link": "https://1000.menu//cooking/58327-tushenaya-kartoshka-s-ovoschami-na-skovorode",
-        "calories": "66 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "66 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "РљР°СЂС‚РѕС€РєР° СЃ РѕРІРѕС‰Р°РјРё РІ РґСѓС…РѕРІРєРµ",
+        "id": 51,
+        "name": "Картошка с овощами в духовке",
         "link": "https://1000.menu//cooking/34187-zapechennaya-kartoshka-s-ovoshchami-v-duxovke",
-        "calories": "61 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "61 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РњРѕСЂСЃ РёР· Р·Р°РјРѕСЂРѕР¶РµРЅРЅРѕР№ РєР»СЋРєРІС‹",
+        "id": 52,
+        "name": "Компот из ревеня",
+        "link": "https://1000.menu//cooking/36143-kompot-iz-revenya",
+        "calories": "12 ккал",
+        "cooking_time": "35 мин "
+    },
+    {
+        "id": 53,
+        "name": "Тушеная картошка на сковороде без мяса",
+        "link": "https://1000.menu//cooking/42933-tushenaya-kartoshka-na-skovorode",
+        "calories": "100 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 54,
+        "name": "Салат крабовые палочки с кукурузой и яйцом",
+        "link": "https://1000.menu//cooking/64962-salat-krabovye-palochki-s-kukuruzoi-i-yaicom",
+        "calories": "99 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 55,
+        "name": "Быстрые огурцы в соевом соусе по корейски",
+        "link": "https://1000.menu//cooking/66805-bystrye-ogurcy-v-soevom-souse-po-koreiski",
+        "calories": "81 ккал",
+        "cooking_time": "15 мин "
+    },
+    {
+        "id": 56,
+        "name": "Компот из свежих фруктов и ягод",
+        "link": "https://1000.menu//cooking/1161-kompot-iz-svejix-fruktov-i-yagod",
+        "calories": "26 ккал",
+        "cooking_time": "20 мин "
+    },
+    {
+        "id": 57,
+        "name": "Соус с кабачками и картошкой",
+        "link": "https://1000.menu//cooking/13940-sous-s-kabachkami",
+        "calories": "83 ккал",
+        "cooking_time": "1 ч 30 мин "
+    },
+    {
+        "id": 58,
+        "name": "Черничный компот из черники",
+        "link": "https://1000.menu//cooking/9621-chernichnyi-kompot-iz-cherniki",
+        "calories": "26 ккал",
+        "cooking_time": "30 мин "
+    },
+    {
+        "id": 59,
+        "name": "Салат из свежей капусты и огурцов",
+        "link": "https://1000.menu//cooking/2871-salat-iz-svejei-kapusty-i-ogurcov-s-yaicom",
+        "calories": "84 ккал",
+        "cooking_time": "30 мин "
+    },
+    {
+        "id": 60,
+        "name": "Салат витаминный из капусты и моркови легкий ужин",
+        "link": "https://1000.menu//cooking/2839-salat-vitaminnyi-iz-kapusty-yablok-i-morkovi",
+        "calories": "94 ккал",
+        "cooking_time": "15 мин "
+    },
+    {
+        "id": 61,
+        "name": "Компот из облепихи замороженной",
+        "link": "https://1000.menu//cooking/37341-kompot-iz-oblepixi-zamorojennoi",
+        "calories": "65 ккал",
+        "cooking_time": "20 мин "
+    },
+    {
+        "id": 62,
+        "name": "Чай Масала с молоком",
+        "link": "https://1000.menu//cooking/44098-chai-masala",
+        "calories": "57 ккал",
+        "cooking_time": "20 мин "
+    },
+    {
+        "id": 63,
+        "name": "Пюре из цветной капусты",
+        "link": "https://1000.menu//cooking/14234-pure-iz-cvetnoi-kapusty",
+        "calories": "39 ккал",
+        "cooking_time": "20 мин "
+    },
+    {
+        "id": 64,
+        "name": "Салат из свеклы с чесноком и майонезом",
+        "link": "https://1000.menu//cooking/39029-salat-iz-svekly-s-chesnokom-i-maionezom",
+        "calories": "61 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 65,
+        "name": "Жареный болгарский перец с чесноком на сковороде",
+        "link": "https://1000.menu//cooking/3421-bolgarskii-perec-jarenyi",
+        "calories": "57 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 66,
+        "name": "Винегрет с горошком классический",
+        "link": "https://1000.menu//cooking/25387-vinegret-variant-klassicheskogo",
+        "calories": "67 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 67,
+        "name": "Текила санрайз коктейль",
+        "link": "https://1000.menu//cooking/26132-tekila-sanraiz-kokteil",
+        "calories": "49 ккал",
+        "cooking_time": "15 мин "
+    },
+    {
+        "id": 68,
+        "name": "ПП курица запеченная с овощами в духовке",
+        "link": "https://1000.menu//cooking/50341-pp-kurica-zapechennaya-s-ovoshchami-v-duxovke",
+        "calories": "85 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 69,
+        "name": "Домашнее вино из алычи",
+        "link": "https://1000.menu//cooking/10170-vino-iz-aljchi",
+        "calories": "9 ккал",
+        "cooking_time": "45 д 12 ч 15 мин "
+    },
+    {
+        "id": 70,
+        "name": "Булгур с овощами на сковороде",
+        "link": "https://1000.menu//cooking/61657-bulgur-s-ovoschami-na-skovorode",
+        "calories": "78 ккал",
+        "cooking_time": "30 мин "
+    },
+    {
+        "id": 71,
+        "name": "Соте из кабачков",
+        "link": "https://1000.menu//cooking/25923-sote-iz-kabachkov",
+        "calories": "54 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 72,
+        "name": "Овощи запеченные в рукаве в духовке",
+        "link": "https://1000.menu//cooking/14033-ovoschi-zapechennye-v-rukave-v-duxovke",
+        "calories": "88 ккал",
+        "cooking_time": "45 мин "
+    },
+    {
+        "id": 73,
+        "name": "Коктейль Космополитен классический",
+        "link": "https://1000.menu//cooking/34108-kokteil-kosmopoliten-klassicheskii",
+        "calories": "77 ккал",
+        "cooking_time": "20 мин "
+    },
+    {
+        "id": 74,
+        "name": "Тушеные кабачки с помидорами и чесноком на сковороде",
+        "link": "https://1000.menu//cooking/3871-tushenye-kabachki-s-pomidorami-morkovu",
+        "calories": "51 ккал",
+        "cooking_time": "30 мин "
+    },
+    {
+        "id": 75,
+        "name": "Картошка жареная с грибами и луком",
+        "link": "https://1000.menu//cooking/3681-kartoshka-s-gribami-i-lukom-jarenaya-na-skovorode",
+        "calories": "77 ккал",
+        "cooking_time": "30 мин "
+    },
+    {
+        "id": 76,
+        "name": "Кабачки в сметане в духовке с сыром легкий ужин",
+        "link": "https://1000.menu//cooking/30333-kabachki-v-smetane-v-duxovke",
+        "calories": "78 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 77,
+        "name": "Узвар из сухофруктов",
+        "link": "https://1000.menu//cooking/43978-uzvar-iz-suxofruktov",
+        "calories": "54 ккал",
+        "cooking_time": "4 ч "
+    },
+    {
+        "id": 78,
+        "name": "Помидоры с грибами в духовке",
+        "link": "https://1000.menu//cooking/72634-pomidory-s-gribami-v-duxovke",
+        "calories": "86 ккал",
+        "cooking_time": "50 мин "
+    },
+    {
+        "id": 79,
+        "name": "Дагестанский аварский хинкал",
+        "link": "https://1000.menu//cooking/15737-dagestanskii-avarskii-xinkal",
+        "calories": "64 ккал",
+        "cooking_time": "1 ч 15 мин "
+    },
+    {
+        "id": 80,
+        "name": "Квас из ржаного солода в домашних условиях",
+        "link": "https://1000.menu//cooking/13828-kvas-iz-rjanogo-soloda-v-domashnix-usloviyax",
+        "calories": "22 ккал",
+        "cooking_time": "2 д "
+    },
+    {
+        "id": 81,
+        "name": "Капуста тушеная на сковороде с томатной пастой",
+        "link": "https://1000.menu//cooking/42766-kapusta-tushenaya-s-kartoshkoi-i-myasom",
+        "calories": "64 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 82,
+        "name": "Кабачковые вафли из кабачков в вафельнице",
+        "link": "https://1000.menu//cooking/48073-kabachkovye-vafli-iz-kabachkov-v-vafelnice",
+        "calories": "92 ккал",
+        "cooking_time": "45 мин "
+    },
+    {
+        "id": 83,
+        "name": "Клубничный мохито алкогольный",
+        "link": "https://1000.menu//cooking/42392-klubnichnyi-moxito-alkogolnyi",
+        "calories": "41 ккал",
+        "cooking_time": "5 мин "
+    },
+    {
+        "id": 84,
+        "name": "Винегрет с солеными огурцами и горошком классический",
+        "link": "https://1000.menu//cooking/36560-vinegret-s-solenymi-ogurcami-i-goroshkom",
+        "calories": "80 ккал",
+        "cooking_time": "50 мин "
+    },
+    {
+        "id": 85,
+        "name": "Шурпа из свинины в казане на костре",
+        "link": "https://1000.menu//cooking/38814-shurpa-iz-svininy-v-kazane-na-kostre",
+        "calories": "88 ккал",
+        "cooking_time": "2 ч "
+    },
+    {
+        "id": 86,
+        "name": "Подлив к картофельному пюре с мясом",
+        "link": "https://1000.menu//cooking/36969-podliva-k-pure-s-myasom",
+        "calories": "100 ккал",
+        "cooking_time": "45 мин "
+    },
+    {
+        "id": 87,
+        "name": "Жареные баклажаны с перцем болгарским и чесноком",
+        "link": "https://1000.menu//cooking/68214-jarenye-baklajany-s-percem-bolgarskim-i-chesnokom",
+        "calories": "83 ккал",
+        "cooking_time": "30 мин "
+    },
+    {
+        "id": 88,
+        "name": "Вода Сасси для похудения",
+        "link": "https://1000.menu//cooking/34091-voda-sassi-dlya-poxudeniya",
+        "calories": "3 ккал",
+        "cooking_time": "30 мин "
+    },
+    {
+        "id": 89,
+        "name": "Цветная капуста с помидорами",
+        "link": "https://1000.menu//cooking/74082-cvetnaya-kapusta-s-pomidorami",
+        "calories": "74 ккал",
+        "cooking_time": "15 мин "
+    },
+    {
+        "id": 90,
+        "name": "Салат с фунчозой овощами и соевым соусом",
+        "link": "https://1000.menu//cooking/24930-salat-funchoza-s-ovoshchami",
+        "calories": "85 ккал",
+        "cooking_time": "15 мин "
+    },
+    {
+        "id": 91,
+        "name": "Компот без сахара из сухофруктов",
+        "link": "https://1000.menu//cooking/18061-kompot-bez-saxara-iz-suxofruktov",
+        "calories": "50 ккал",
+        "cooking_time": "3 ч "
+    },
+    {
+        "id": 92,
+        "name": "Квас из ржаной муки домашний",
+        "link": "https://1000.menu//cooking/49111-kvas-iz-rjanoi-muki-domashnii",
+        "calories": "47 ккал",
+        "cooking_time": "2 д "
+    },
+    {
+        "id": 93,
+        "name": "Компот из замороженных ягод клубники, ежевики, брусники",
+        "link": "https://1000.menu//cooking/26189-kompot-iz-zamorojennyx-yagod-klubniki-ejeviki-brusniki",
+        "calories": "32 ккал",
+        "cooking_time": "15 мин "
+    },
+    {
+        "id": 94,
+        "name": "Классическое ризотто с курицей и грибами",
+        "link": "https://1000.menu//cooking/44266-rizotto-s-kuricei-i-gribami",
+        "calories": "100 ккал",
+        "cooking_time": "30 мин "
+    },
+    {
+        "id": 95,
+        "name": "Индейка кусочками в духовке сочная и мягкая",
+        "link": "https://1000.menu//cooking/65121-indeika-kusochkami-v-duxovke-sochnaya-i-myagkaya",
+        "calories": "87 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 96,
+        "name": "Классический борщ со свеклой",
+        "link": "https://1000.menu//cooking/25063-klassicheskii-borshch-so-svekloi",
+        "calories": "67 ккал",
+        "cooking_time": "2 ч 45 мин "
+    },
+    {
+        "id": 97,
+        "name": "Запеканка из кабачков и картофеля",
+        "link": "https://1000.menu//cooking/37427-zapekanka-iz-kabachkov-i-kartofelya",
+        "calories": "66 ккал",
+        "cooking_time": "1 ч 5 мин "
+    },
+    {
+        "id": 98,
+        "name": "Картошка с опятами жареная на сковороде",
+        "link": "https://1000.menu//cooking/20046-kartoshka-s-opyatami-jarenaya",
+        "calories": "71 ккал",
+        "cooking_time": "45 мин "
+    },
+    {
+        "id": 99,
+        "name": "Цветная капуста на сковороде быстро",
+        "link": "https://1000.menu//cooking/65174-cvetnaya-kapusta-na-skovorode-bystro",
+        "calories": "65 ккал",
+        "cooking_time": "30 мин "
+    },
+    {
+        "id": 100,
+        "name": "Салат из капусты с зеленым горошком",
+        "link": "https://1000.menu//cooking/25088-salat-s-kapustoi-ogurcami-zelenym-goroshkom",
+        "calories": "83 ккал",
+        "cooking_time": "15 мин "
+    },
+    {
+        "id": 101,
+        "name": "Оладьи из кабачков в духовке пышные",
+        "link": "https://1000.menu//cooking/13526-oladi-iz-kabachkov-v-duxovke",
+        "calories": "68 ккал",
+        "cooking_time": "1 ч 20 мин "
+    },
+    {
+        "id": 102,
+        "name": "Скумбрия в соли запеченная в духовке",
+        "link": "https://1000.menu//cooking/37169-skumbriya-v-soli-zapechennaya-v-duxovke",
+        "calories": "72 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 103,
+        "name": "Овощное рагу в духовке",
+        "link": "https://1000.menu//cooking/55345-ovoschnoe-ragu-v-duxovke",
+        "calories": "64 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 104,
+        "name": "Овощное рагу с картошкой в духовке",
+        "link": "https://1000.menu//cooking/54949-ovoschnoe-ragu-s-kartoshkoi-v-duxovke",
+        "calories": "92 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 105,
+        "name": "Морковча домашняя",
+        "link": "https://1000.menu//cooking/29422-morkovcha-domashnyaya",
+        "calories": "76 ккал",
+        "cooking_time": "20 мин "
+    },
+    {
+        "id": 106,
+        "name": "Кабачковое пюре",
+        "link": "https://1000.menu//cooking/76082-kabachkovoe-pure",
+        "calories": "61 ккал",
+        "cooking_time": "1 д 6 ч "
+    },
+    {
+        "id": 107,
+        "name": "Простой и вкусный салат из свежей белокочанной капусты",
+        "link": "https://1000.menu//cooking/28660-prostoi-i-vkusnyi-salat-iz-belokochannoi-kapusty",
+        "calories": "100 ккал",
+        "cooking_time": "15 мин "
+    },
+    {
+        "id": 108,
+        "name": "Салат с куриной печенью и солеными огурцами и морковью",
+        "link": "https://1000.menu//cooking/25222-salat-s-kurinoi-pechenu-i-solenymi-ogurcami",
+        "calories": "95 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 109,
+        "name": "Чай с корицей",
+        "link": "https://1000.menu//cooking/10002-chai-s-koritsei",
+        "calories": "12 ккал",
+        "cooking_time": "15 мин "
+    },
+    {
+        "id": 110,
+        "name": "Хрустящая цветная капуста на сковороде",
+        "link": "https://1000.menu//cooking/67791-xrustyaschaya-cvetnaya-kapusta-na-skovorode",
+        "calories": "100 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 111,
+        "name": "Овощи в тыкве запеченные в духовке",
+        "link": "https://1000.menu//cooking/41325-ovoschi-v-tykve-zapechennye-v-duxovke",
+        "calories": "37 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 112,
+        "name": "Салат с солеными огурцами яйцами и картошкой",
+        "link": "https://1000.menu//cooking/7735-salat-s-solenymi-ogurcami-yaicami-i-kartoshkoi",
+        "calories": "80 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 113,
+        "name": "Вешенки на сковороде с луком жареные",
+        "link": "https://1000.menu//cooking/3499-veshenki-na-skovorode-jarenye",
+        "calories": "98 ккал",
+        "cooking_time": "30 мин "
+    },
+    {
+        "id": 114,
+        "name": "Суточная капуста с морковью и чесноком",
+        "link": "https://1000.menu//cooking/22742-sutochnaya-kapusta-s-chesnokom",
+        "calories": "69 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 115,
+        "name": "Тушеная картошка с капустой в кастрюле",
+        "link": "https://1000.menu//cooking/24354-kartoshka-s-kapustoi-v-kastrule",
+        "calories": "87 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 116,
+        "name": "Квас лимонный",
+        "link": "https://1000.menu//cooking/9585-kvas-limonnyi",
+        "calories": "45 ккал",
+        "cooking_time": "2 д "
+    },
+    {
+        "id": 117,
+        "name": "Картошка в тыкве в духовке",
+        "link": "https://1000.menu//cooking/41624-kartoshka-v-tykve-v-duxovke",
+        "calories": "39 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 118,
+        "name": "Тушеные овощи в мультиварке",
+        "link": "https://1000.menu//cooking/10285-baklazhanj-v-multivarke",
+        "calories": "20 ккал",
+        "cooking_time": "30 мин "
+    },
+    {
+        "id": 119,
+        "name": "Салат Фунчоза с овощами по-корейски",
+        "link": "https://1000.menu//cooking/33993-salat-funchoza-s-ovoshchami-po-koreiski",
+        "calories": "48 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 120,
+        "name": "Рагу с капустой картошкой и мясом",
+        "link": "https://1000.menu//cooking/24371-ragu-s-kapustoi-kartoshkoi-i-myasom",
+        "calories": "92 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 121,
+        "name": "Говядина с помидорами тушеная",
+        "link": "https://1000.menu//cooking/74124-govyadina-s-pomidorami-tushenaya",
+        "calories": "88 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 122,
+        "name": "Сварить яйца в микроволновке",
+        "link": "https://1000.menu//cooking/74478-svarit-yaica-v-mikrovolnovke",
+        "calories": "51 ккал",
+        "cooking_time": "5 мин "
+    },
+    {
+        "id": 123,
+        "name": "Чайный гриб",
+        "link": "https://1000.menu//cooking/5228-chainji-grib",
+        "calories": "18 ккал",
+        "cooking_time": "2 д "
+    },
+    {
+        "id": 124,
+        "name": "Кефир с бананом коктейль",
+        "link": "https://1000.menu//cooking/47109-kefir-s-bananom-kokteil",
+        "calories": "61 ккал",
+        "cooking_time": "10 мин "
+    },
+    {
+        "id": 125,
+        "name": "Гуляш из свинины с томатной подливкой",
+        "link": "https://1000.menu//cooking/61750-gulyash-iz-svininy-s-tomatnoi-podlivkoi",
+        "calories": "92 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 126,
+        "name": "Тушеная картошка с кабачками в мультиварке",
+        "link": "https://1000.menu//cooking/13598-tushenaya-kartoshka-s-kabachkami-v-multivarke",
+        "calories": "75 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 127,
+        "name": "Русский борщ со свеклой",
+        "link": "https://1000.menu//cooking/907-russkii-borshch-so-svekloi",
+        "calories": "95 ккал",
+        "cooking_time": "3 ч "
+    },
+    {
+        "id": 128,
+        "name": "Кабачки с куриной грудкой в духовке с сыром и помидорами",
+        "link": "https://1000.menu//cooking/73332-kabachki-s-kurinoi-grudkoi-v-duxovke-s-syrom-i-pomidorami",
+        "calories": "88 ккал",
+        "cooking_time": "50 мин "
+    },
+    {
+        "id": 129,
+        "name": "Овощи на гриле в духовке",
+        "link": "https://1000.menu//cooking/6093-ovoschi-na-grile-v-duxovke",
+        "calories": "57 ккал",
+        "cooking_time": "3 ч "
+    },
+    {
+        "id": 130,
+        "name": "Тушеная тыква с луком и зеленью",
+        "link": "https://1000.menu//cooking/26188-tushenaya-tykva-s-lukom-i-zelenu",
+        "calories": "78 ккал",
+        "cooking_time": "20 мин "
+    },
+    {
+        "id": 131,
+        "name": "Салат с курицей и луком маринованным",
+        "link": "https://1000.menu//cooking/7852-salat-svejest-s-kurinoi-grudkoi-zelenym-lukom-i-ogurcom",
+        "calories": "95 ккал",
+        "cooking_time": "45 мин "
+    },
+    {
+        "id": 132,
+        "name": "Напиток из апельсинов и лимона домашний",
+        "link": "https://1000.menu//cooking/48210-apelsinovo-limonnyi-napitok-s-saxarom",
+        "calories": "35 ккал",
+        "cooking_time": "9 ч 20 мин "
+    },
+    {
+        "id": 133,
+        "name": "Запеканка овощная с кабачками в духовке",
+        "link": "https://1000.menu//cooking/66866-zapekanka-ovoschnaya-s-kabachkami-v-duxovke",
+        "calories": "71 ккал",
+        "cooking_time": "1 ч 20 мин "
+    },
+    {
+        "id": 134,
+        "name": "Цветная капуста жареная на сковороде с яйцом",
+        "link": "https://1000.menu//cooking/3691-cvetnaya-kapusta-jarenaya-na-skovorode-s-yaicom",
+        "calories": "84 ккал",
+        "cooking_time": "20 мин "
+    },
+    {
+        "id": 135,
+        "name": "Смузи из сельдерея и яблок в блендере",
+        "link": "https://1000.menu//cooking/20881-smuzi-iz-seldereya-i-yablok",
+        "calories": "35 ккал",
+        "cooking_time": "5 мин "
+    },
+    {
+        "id": 136,
+        "name": "Картошка с шампиньонами в духовке",
+        "link": "https://1000.menu//cooking/28370-kartoshka-s-shampinonami-i-lukom-v-duxovke",
+        "calories": "87 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 137,
+        "name": "Тушеная капуста в казане на плите",
+        "link": "https://1000.menu//cooking/73236-tushenaya-kapusta-v-kazane-na-plite",
+        "calories": "67 ккал",
+        "cooking_time": "50 мин "
+    },
+    {
+        "id": 138,
+        "name": "Салат с маслинами и помидорами с молодой капустой",
+        "link": "https://1000.menu//cooking/13885-salat-s-maslinami-ogurcami-kuricei-syrom-i-pomidorami",
+        "calories": "67 ккал",
+        "cooking_time": "5 мин "
+    },
+    {
+        "id": 139,
+        "name": "Тушеная капуста с грибами на сковороде",
+        "link": "https://1000.menu//cooking/68841-tushenaya-kapusta-s-gribami-na-skovorode",
+        "calories": "53 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 140,
+        "name": "Перловка с грибами",
+        "link": "https://1000.menu//cooking/65611-perlovka-s-gribami",
+        "calories": "96 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 141,
+        "name": "Салат из свежих огурцов и яиц легкий ужин",
+        "link": "https://1000.menu//cooking/35433-salat-iz-svejix-ogurcov-i-yaic",
+        "calories": "76 ккал",
+        "cooking_time": "25 мин "
+    },
+    {
+        "id": 142,
+        "name": "Салат огурец помидор яйцо",
+        "link": "https://1000.menu//cooking/11675-raznocvetnyi-ovoshchnoi-salat",
+        "calories": "73 ккал",
+        "cooking_time": "10 мин "
+    },
+    {
+        "id": 143,
+        "name": "Салат из фасоли с морковью и луком",
+        "link": "https://1000.menu//cooking/36048-salat-iz-fasoli-s-morkovu-i-lukom",
+        "calories": "73 ккал",
+        "cooking_time": "10 мин "
+    },
+    {
+        "id": 144,
+        "name": "Соте из кабачков и баклажанов с овощами на сковороде",
+        "link": "https://1000.menu//cooking/17961-sote-iz-kabachkov-i-baklajanov-s-ovoschami-na-skovorode",
+        "calories": "69 ккал",
+        "cooking_time": "30 мин "
+    },
+    {
+        "id": 145,
+        "name": "Грушевый сидр из груш",
+        "link": "https://1000.menu//cooking/21300-sidr-iz-grush",
+        "calories": "93 ккал",
+        "cooking_time": "135 д "
+    },
+    {
+        "id": 146,
+        "name": "Итальянский салат с макаронами и ветчиной",
+        "link": "https://1000.menu//cooking/50297-italyanskii-salat-s-makaronami-i-vetchinoi",
+        "calories": "64 ккал",
+        "cooking_time": "20 мин "
+    },
+    {
+        "id": 147,
+        "name": "Пшенная каша с тыквой в кастрюле на плите",
+        "link": "https://1000.menu//cooking/70249-pshennaya-kasha-s-tykvoi-v-kastrule",
+        "calories": "91 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 148,
+        "name": "Салат к плову из помидор и лука",
+        "link": "https://1000.menu//cooking/17077-salat-k-plovu-iz-pomidor-i-luka",
+        "calories": "27 ккал",
+        "cooking_time": "5 мин "
+    },
+    {
+        "id": 149,
+        "name": "Овощное рагу с кабачками в мультиварке",
+        "link": "https://1000.menu//cooking/13463-ovoshchnoe-ragu-s-kabachkami-v-multivarke",
+        "calories": "74 ккал",
+        "cooking_time": "45 мин "
+    },
+    {
+        "id": 150,
+        "name": "Квас из овса в домашних условиях Овсяный",
+        "link": "https://1000.menu//cooking/37205-kvas-iz-ovsa-v-domashnix-usloviyax-ovsyanyi",
+        "calories": "26 ккал",
+        "cooking_time": "6 д "
+    },
+    {
+        "id": 151,
+        "name": "Мясо с солеными огурцами",
+        "link": "https://1000.menu//cooking/70133-myaso-s-solenymi-ogurcami",
+        "calories": "65 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 152,
+        "name": "Морской окунь запечённый в духовке целиком",
+        "link": "https://1000.menu//cooking/52012-morskoi-okun-zapechyonnyi-v-duxovke-celikom",
+        "calories": "98 ккал",
+        "cooking_time": "1 ч 10 мин "
+    },
+    {
+        "id": 153,
+        "name": "Салат Обжорка классический с курицей и солеными огурцами",
+        "link": "https://1000.menu//cooking/13108-salat-objorka-klassicheskii-s-kuricei-i-solenymi-ogurcami",
+        "calories": "98 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 154,
+        "name": "Тушеная капуста с мясом в казане",
+        "link": "https://1000.menu//cooking/72863-tushenaya-kapusta-s-myasom-v-kazane",
+        "calories": "90 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 155,
+        "name": "Таратор болгарский холодный суп",
+        "link": "https://1000.menu//cooking/1741-xolodnyi-bolgarskii-sup-tarator",
+        "calories": "71 ккал",
+        "cooking_time": "15 мин "
+    },
+    {
+        "id": 156,
+        "name": "Фруктовый коктейль",
+        "link": "https://1000.menu//cooking/40037-fruktovyi-kokteil",
+        "calories": "59 ккал",
+        "cooking_time": "10 мин "
+    },
+    {
+        "id": 157,
+        "name": "Салат тунец с авокадо",
+        "link": "https://1000.menu//cooking/27383-salat-tunec-s-avokado",
+        "calories": "97 ккал",
+        "cooking_time": "25 мин "
+    },
+    {
+        "id": 158,
+        "name": "Минтай запеченный с овощами в духовке",
+        "link": "https://1000.menu//cooking/16511-mintai-s-ovoshchami-zapechennyi-v-duxovke",
+        "calories": "95 ккал",
+        "cooking_time": "50 мин "
+    },
+    {
+        "id": 159,
+        "name": "Цветная капуста с кабачками",
+        "link": "https://1000.menu//cooking/74635-cvetnaya-kapusta-s-kabachkami",
+        "calories": "69 ккал",
+        "cooking_time": "30 мин "
+    },
+    {
+        "id": 160,
+        "name": "Закуска помидоры с сыром и чесноком",
+        "link": "https://1000.menu//cooking/4538-zakuska-pomidory-s-syrom-i-chesnokom",
+        "calories": "83 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 161,
+        "name": "Кабачки тушеные с морковью и луком",
+        "link": "https://1000.menu//cooking/22321-kabachki-tushenye-s-morkovu-i-lukom",
+        "calories": "47 ккал",
+        "cooking_time": "30 мин "
+    },
+    {
+        "id": 162,
+        "name": "Шампиньоны с помидорами жареные на сковороде",
+        "link": "https://1000.menu//cooking/52151-shampinony-s-pomidorami-jarenye-na-skovorode",
+        "calories": "79 ккал",
+        "cooking_time": "35 мин "
+    },
+    {
+        "id": 163,
+        "name": "Овощи запеченные в духовке на противне",
+        "link": "https://1000.menu//cooking/34596-ovoshchi-zapechennye-na-protivne-v-duxovke",
+        "calories": "96 ккал",
+        "cooking_time": "1 ч "
+    },
+    {
+        "id": 164,
+        "name": "Кабачки с картошкой капустой и мясом",
+        "link": "https://1000.menu//cooking/24767-kabachki-s-kartoshkoi-kapustoi-i-myasom",
+        "calories": "89 ккал",
+        "cooking_time": "45 мин "
+    },
+    {
+        "id": 165,
+        "name": "Окрошка на кефире с минералкой",
+        "link": "https://1000.menu//cooking/64573-okroshka-na-kefire-s-mineralkoi",
+        "calories": "53 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 166,
+        "name": "Паста карбонара с ветчиной и сливками",
+        "link": "https://1000.menu//cooking/6231-pasta-karbonara-s-vetchinoi-i-slivkami",
+        "calories": "88 ккал",
+        "cooking_time": "30 мин "
+    },
+    {
+        "id": 167,
+        "name": "Пюре из картофеля и кабачков",
+        "link": "https://1000.menu//cooking/22647-kartofelnoe-pure-s-kabachkom",
+        "calories": "73 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 168,
+        "name": "Рамен корейский",
+        "link": "https://1000.menu//cooking/75096-ramen-koreiskii",
+        "calories": "86 ккал",
+        "cooking_time": "20 мин "
+    },
+    {
+        "id": 169,
+        "name": "Овощное рагу кабачки баклажаны капуста",
+        "link": "https://1000.menu//cooking/57368-ovoschnoe-ragu-kabachki-baklajany-kapusta",
+        "calories": "61 ккал",
+        "cooking_time": "1 ч 30 мин "
+    },
+    {
+        "id": 170,
+        "name": "Рыбный суп с рисом",
+        "link": "https://1000.menu//cooking/63646-rybnyi-sup-s-risom",
+        "calories": "93 ккал",
+        "cooking_time": "40 мин "
+    },
+    {
+        "id": 171,
+        "name": "Морс из замороженной клюквы",
         "link": "https://1000.menu//cooking/31908-mors-iz-zamorojennoi-klukvy",
-        "calories": "51 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "51 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РўСѓС€РµРЅР°СЏ РєР°СЂС‚РѕС€РєР° СЃ РјСЏСЃРѕРј РІ РєР°Р·Р°РЅРµ",
+        "id": 172,
+        "name": "Тушеная картошка с мясом в казане",
         "link": "https://1000.menu//cooking/64667-tushenaya-kartoshka-s-myasom-v-kazane",
-        "calories": "95 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "95 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "РђР·Сѓ РїРѕ С‚Р°С‚Р°СЂСЃРєРё СЃ РєР°СЂС‚РѕС€РєРѕР№",
+        "id": 173,
+        "name": "Азу по татарски с картошкой",
         "link": "https://1000.menu//cooking/42743-azu-po-tatarski-s-kartoshkoi",
-        "calories": "74 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "74 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р Р°РіСѓ РёР· РєР°Р±Р°С‡РєРѕРІ, Р±Р°РєР»Р°Р¶Р°РЅРѕРІ Рё РєР°СЂС‚РѕС„РµР»СЏ Р±С‹СЃС‚СЂРѕ Рё РїСЂРѕСЃС‚Рѕ",
+        "id": 174,
+        "name": "Рагу из кабачков, баклажанов и картофеля быстро и просто",
         "link": "https://1000.menu//cooking/13855-ragu-iz-kabachkov-baklajanov-i-kartofelya-bystro-i-prosto",
-        "calories": "60 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "60 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎРєСѓРјР±СЂРёСЏ РІ Р»СѓРєРѕРІРѕР№ С€РµР»СѓС…Рµ Р·Р° 3 РјРёРЅСѓС‚С‹ Р±С‹СЃС‚СЂРѕ Рё РІРєСѓСЃРЅРѕ",
+        "id": 175,
+        "name": "Скумбрия в луковой шелухе за 3 минуты быстро и вкусно",
         "link": "https://1000.menu//cooking/18687-skumbriya-v-lukovoi-sheluxe-za-3-minuty",
-        "calories": "56 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "56 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р–Р°СЂРєРѕРµ РІ РіРѕСЂС€РѕС‡РєР°С… РІ РґСѓС…РѕРІРєРµ СЃ РјСЏСЃРѕРј",
+        "id": 176,
+        "name": "Жаркое в горшочках в духовке с мясом",
         "link": "https://1000.menu//cooking/69670-jarkoe-v-gorshochkax-v-duxovke-s-myasom",
-        "calories": "83 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "83 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "РљР°РїСѓСЃС‚Р° Р±СЂРѕРєРєРѕР»Рё РЅР° СЃРєРѕРІРѕСЂРѕРґРµ",
+        "id": 177,
+        "name": "Капуста брокколи на сковороде",
         "link": "https://1000.menu//cooking/10313-brokkoli-na-skovorode",
-        "calories": "82 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "82 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· СЂРµРґРёСЃРєРё СЃ РѕРіСѓСЂС†РѕРј",
+        "id": 178,
+        "name": "Салат из редиски с огурцом",
         "link": "https://1000.menu//cooking/7774-salat-iz-rediski-s-ogurcom",
-        "calories": "44 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "44 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РљСѓСЂРёС†Р° СЃ РіСЂРёР±Р°РјРё Рё РєР°СЂС‚РѕС€РєРѕР№ РІ РіРѕСЂС€РѕС‡РєРµ",
+        "id": 179,
+        "name": "Курица с грибами и картошкой в горшочке",
         "link": "https://1000.menu//cooking/30661-kurica-s-gribami-v-gorshochke",
-        "calories": "90 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "90 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "РћРІРѕС‰РЅРѕРµ СЂР°РіСѓ Р±РµР· РєР°СЂС‚РѕС€РєРё",
+        "id": 180,
+        "name": "Овощное рагу без картошки",
         "link": "https://1000.menu//cooking/74232-ovoschnoe-ragu-bez-kartoshki",
-        "calories": "79 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "79 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РўСѓС€РµРЅС‹Рµ РѕРіСѓСЂС†С‹",
+        "id": 181,
+        "name": "Тушеные огурцы",
         "link": "https://1000.menu//cooking/10907-tushenye-ogurcy-s-myasom",
-        "calories": "74 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "74 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РўСѓС€РµРЅР°СЏ РєР°РїСѓСЃС‚Р° СЃ РєРѕР»Р±Р°СЃРѕР№",
+        "id": 182,
+        "name": "Тушеная капуста с колбасой",
         "link": "https://1000.menu//cooking/38598-tushenaya-kapusta-s-kolbasoi",
-        "calories": "98 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "98 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РњСЏСЃРѕ РІ СЃРѕР»Рё РІ РґСѓС…РѕРІРєРµ",
+        "id": 183,
+        "name": "Мясо в соли в духовке",
         "link": "https://1000.menu//cooking/39657-myaso-v-soli-v-duxovke",
-        "calories": "9 РєРєР°Р»",
-        "cooking_time": "1 С‡ 10 РјРёРЅ "
+        "calories": "9 ккал",
+        "cooking_time": "1 ч 10 мин "
     },
     {
-        "name": "РќР°РїРёС‚РѕРє С‚Р°СЂС…СѓРЅ РґРѕРјР°С€РЅРёР№",
+        "id": 184,
+        "name": "Напиток тархун домашний",
         "link": "https://1000.menu//cooking/17373-domashnii-napitok-tarxun",
-        "calories": "24 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "24 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "РџР°СЃС‚Р° СЃ Р»РѕСЃРѕСЃРµРј РІ СЃР»РёРІРѕС‡РЅРѕРј СЃРѕСѓСЃРµ",
+        "id": 185,
+        "name": "Паста с лососем в сливочном соусе",
         "link": "https://1000.menu//cooking/27259-pasta-s-lososem",
-        "calories": "91 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "91 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎСѓРґР°Рє РІ РґСѓС…РѕРІРєРµ РІ С„РѕР»СЊРіРµ С†РµР»РёРєРѕРј",
+        "id": 186,
+        "name": "Судак в духовке в фольге целиком",
         "link": "https://1000.menu//cooking/22126-sudak-s-lukom-i-pomidorami-v-folge-v-duxovke",
-        "calories": "95 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "95 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РљРѕРјРїРѕС‚ РёР· РєСѓСЂР°РіРё",
+        "id": 187,
+        "name": "Компот из кураги",
         "link": "https://1000.menu//cooking/4905-kompot-iz-kuragi",
-        "calories": "42 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "42 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РљСѓСЂРёС†Р° РІ Р±РµРєРѕРЅРµ РІ РґСѓС…РѕРІРєРµ",
+        "id": 188,
+        "name": "Курица в беконе в духовке",
         "link": "https://1000.menu//cooking/58578-kurica-v-bekone-v-duxovke",
-        "calories": "85 РєРєР°Р»",
-        "cooking_time": "1 С‡ 10 РјРёРЅ "
+        "calories": "85 ккал",
+        "cooking_time": "1 ч 10 мин "
     },
     {
-        "name": "Р“РѕР»СѓР±С†С‹ СЃРѕ СЃРјРµС‚Р°РЅРѕР№",
+        "id": 189,
+        "name": "Голубцы со сметаной",
         "link": "https://1000.menu//cooking/72561-golubcy-so-smetanoi",
-        "calories": "91 РєРєР°Р»",
-        "cooking_time": "2 С‡ 20 РјРёРЅ "
+        "calories": "91 ккал",
+        "cooking_time": "2 ч 20 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ Р—РґРѕСЂРѕРІСЊРµ СЃ РјРѕСЂРєРѕРІСЊСЋ СЃРІРµРєР»РѕР№ РєР°РїСѓСЃС‚РѕР№ Рё Р№РѕРіСѓСЂС‚РѕРј",
+        "id": 190,
+        "name": "Салат Здоровье с морковью свеклой капустой и йогуртом",
         "link": "https://1000.menu//cooking/60906-salat-zdorove-s-morkovu-svekloi-kapustoi-i-iogurtom",
-        "calories": "67 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "67 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РљР°СЂС‚РѕС€РєР° СЃ РіСЂРёР±Р°РјРё РІ СЃРјРµС‚Р°РЅРµ РІ РґСѓС…РѕРІРєРµ",
+        "id": 191,
+        "name": "Картошка с грибами в сметане в духовке",
         "link": "https://1000.menu//cooking/29544-griby-v-smetane-s-kartoshkoi",
-        "calories": "93 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "93 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РћРІРѕС‰Рё РІ СЃРѕСѓСЃРµ С‚РµСЂРёСЏРєРё",
+        "id": 192,
+        "name": "Овощи в соусе терияки",
         "link": "https://1000.menu//cooking/38150-ovoschi-v-souse-teriyaki",
-        "calories": "90 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "90 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "РћРІРѕС‰Рё РЅР° СЃРєРѕРІРѕСЂРѕРґРµ РіСЂРёР»СЊ",
+        "id": 193,
+        "name": "Овощи на сковороде гриль",
         "link": "https://1000.menu//cooking/44362-ovoschi-na-skovorode-gril",
-        "calories": "89 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "89 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РЎРјСѓР·Рё РєР»СѓР±РЅРёРєР° Р±Р°РЅР°РЅ",
+        "id": 194,
+        "name": "Смузи клубника банан",
         "link": "https://1000.menu//cooking/23700-smuzi-klubnika-banan",
-        "calories": "78 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "78 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р“СЂРµС‡РєР° СЃ С€Р°РјРїРёРЅСЊРѕРЅР°РјРё",
+        "id": 195,
+        "name": "Гречка с шампиньонами",
         "link": "https://1000.menu//cooking/27078-grechka-s-shampinonami",
-        "calories": "87 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "87 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РўСѓС€РµРЅР°СЏ С†РІРµС‚РЅР°СЏ РєР°РїСѓСЃС‚Р°",
+        "id": 196,
+        "name": "Тушеная цветная капуста",
         "link": "https://1000.menu//cooking/3914-tushenaya-cvetnaya-kapusta",
-        "calories": "65 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "65 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р Р°РіСѓ РєР°РїСѓСЃС‚Р° СЃ Р±Р°РєР»Р°Р¶Р°РЅР°РјРё Рё РїРѕРјРёРґРѕСЂР°РјРё",
+        "id": 197,
+        "name": "Рагу капуста с баклажанами и помидорами",
         "link": "https://1000.menu//cooking/13825-kapusta-s-baklajanami",
-        "calories": "49 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "49 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ С‚СѓРЅС†РѕРј Рё РєСѓРєСѓСЂСѓР·РѕР№",
+        "id": 198,
+        "name": "Салат с тунцом и кукурузой",
         "link": "https://1000.menu//cooking/43429-salat-s-tuncom-i-kukuruzoi",
-        "calories": "80 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "80 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РљР°СЂС‚РѕС€РєР° СЃ РєР°РїСѓСЃС‚РѕР№ РІ РґСѓС…РѕРІРєРµ",
+        "id": 199,
+        "name": "Картошка с капустой в духовке",
         "link": "https://1000.menu//cooking/24155-kartoshka-s-kapustoi-v-duxovke",
-        "calories": "92 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "92 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р“РѕРІСЏРґРёРЅР° СЃ РѕРІРѕС‰Р°РјРё РІ РєР°Р·Р°РЅРµ",
+        "id": 200,
+        "name": "Говядина с овощами в казане",
         "link": "https://1000.menu//cooking/60001-govyadina-s-ovoschami-v-kazane",
-        "calories": "89 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "89 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "РўСѓС€РµРЅС‹Рµ Р¶РµР»СѓРґРєРё РёРЅРґРµР№РєРё",
+        "id": 201,
+        "name": "Тушеные желудки индейки",
         "link": "https://1000.menu//cooking/16883-tushenye-jeludki-indeiki",
-        "calories": "80 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "80 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "РљР°РїСѓСЃС‚Р° СЃ РёРЅРґРµР№РєРѕР№ РІ РґСѓС…РѕРІРєРµ",
+        "id": 202,
+        "name": "Капуста с индейкой в духовке",
         "link": "https://1000.menu//cooking/69375-kapusta-s-indeikoi-v-duxovke",
-        "calories": "76 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "76 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ РєСѓРєСѓСЂСѓР·РѕР№ Рё РїРѕРјРёРґРѕСЂР°РјРё",
+        "id": 203,
+        "name": "Салат с кукурузой и помидорами",
         "link": "https://1000.menu//cooking/70181-salat-s-kukuruzoi-i-pomidorami",
-        "calories": "86 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "86 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р“РѕР»СѓР±С†С‹ СЃ С‚РѕРјР°С‚РЅРѕР№ РїР°СЃС‚РѕР№",
+        "id": 204,
+        "name": "Голубцы с томатной пастой",
         "link": "https://1000.menu//cooking/72550-golubcy-s-tomatnoi-pastoi",
-        "calories": "96 РєРєР°Р»",
-        "cooking_time": "4 С‡ "
+        "calories": "96 ккал",
+        "cooking_time": "4 ч "
     },
     {
-        "name": "РЎР°Р»Р°С‚ Р»РµС‚РЅРёР№ РѕРіСѓСЂС†С‹ РїРѕРјРёРґРѕСЂС‹",
+        "id": 205,
+        "name": "Салат летний огурцы помидоры",
         "link": "https://1000.menu//cooking/27862-letnii-salat-iz-pomidor-i-ogurcov",
-        "calories": "83 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "83 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РўСЂРµСЃРєР° СЃ РѕРІРѕС‰Р°РјРё Р·Р°РїРµС‡РµРЅРЅР°СЏ РІ РґСѓС…РѕРІРєРµ",
+        "id": 206,
+        "name": "Треска с овощами запеченная в духовке",
         "link": "https://1000.menu//cooking/21992-treska-s-ovoshchami-zapechennaya-v-duxovke",
-        "calories": "68 РєРєР°Р»",
-        "cooking_time": "35 РјРёРЅ "
+        "calories": "68 ккал",
+        "cooking_time": "35 мин "
     },
     {
-        "name": "Р”РѕСЂР°РґРѕ РІ С„РѕР»СЊРіРµ РІ РґСѓС…РѕРІРєРµ СЃ Р»РёРјРѕРЅРѕРј",
+        "id": 207,
+        "name": "Дорадо в фольге в духовке с лимоном",
         "link": "https://1000.menu//cooking/52272-dorado-v-folge-v-duxovke-s-limonom",
-        "calories": "93 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "93 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "РћРІРѕС‰РЅРѕРµ СЂР°РіСѓ СЃ РіСЂРёР±Р°РјРё Рё РєР°СЂС‚РѕС€РєРѕР№",
+        "id": 208,
+        "name": "Овощное рагу с грибами и картошкой",
         "link": "https://1000.menu//cooking/20673-ovoshchnoe-ragu-s-gribami",
-        "calories": "46 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "46 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· СЃРІРµРєР»С‹ РїР°Р»СЊС‡РёРєРё РѕР±Р»РёР¶РµС€СЊ",
+        "id": 209,
+        "name": "Салат из свеклы пальчики оближешь",
         "link": "https://1000.menu//cooking/25337-salat-iz-svekly-palchiki-oblijesh",
-        "calories": "85 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "85 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЎРјРµС‚Р°РЅРЅР°СЏ РїРѕРґР»РёРІРєР° СЃ РѕРІРѕС‰Р°РјРё",
+        "id": 210,
+        "name": "Сметанная подливка с овощами",
         "link": "https://1000.menu//cooking/74915-smetannaya-podlivka-s-ovoschami",
-        "calories": "70 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "70 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РљСѓСЂРёРЅР°СЏ РіСЂСѓРґРєР° СЃ РѕРІРѕС‰Р°РјРё РІ РґСѓС…РѕРІРєРµ",
+        "id": 211,
+        "name": "Куриная грудка с овощами в духовке",
         "link": "https://1000.menu//cooking/27801-kurinaya-grudka-s-ovoshchami-v-duxovke",
-        "calories": "89 РєРєР°Р»",
-        "cooking_time": "1 С‡ 10 РјРёРЅ "
+        "calories": "89 ккал",
+        "cooking_time": "1 ч 10 мин "
     },
     {
-        "name": "Р СѓР»РµС‚ РёР· РёРЅРґРµР№РєРё РІ РґСѓС…РѕРІРєРµ",
+        "id": 212,
+        "name": "Рулет из индейки в духовке",
         "link": "https://1000.menu//cooking/41273-rulet-iz-indeiki-v-duxovke",
-        "calories": "85 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "85 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "РџРѕРґР»РёРІР° РёР· РєСѓСЂРёРЅС‹С… РіСЂСѓРґРѕРє СЃ РјСѓРєРѕР№ Рё РіСЂРёР±Р°РјРё",
+        "id": 213,
+        "name": "Подлива из куриных грудок с мукой и грибами",
         "link": "https://1000.menu//cooking/66811-podliva-iz-kurinyx-grudok-s-mukoi-i-gribami",
-        "calories": "85 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "85 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РљР°СЂС‚РѕС€РєР° СЃ РіСЂРёР±Р°РјРё Рё РїРѕРјРёРґРѕСЂР°РјРё РІ РґСѓС…РѕРІРєРµ",
+        "id": 214,
+        "name": "Картошка с грибами и помидорами в духовке",
         "link": "https://1000.menu//cooking/61173-kartoshka-s-gribami-i-pomidorami-v-duxovke",
-        "calories": "91 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "91 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "Р‘СѓР»СЊРѕРЅ РёР· СЃРІРёРЅРёРЅС‹ РЅР° РєРѕСЃС‚Рё РјСЏСЃРЅРѕР№",
+        "id": 215,
+        "name": "Бульон из свинины на кости мясной",
         "link": "https://1000.menu//cooking/14152-prozrachnyi-myasnoi-bulon-iz-svininy",
-        "calories": "63 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "63 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "РљР°СЂС‚РѕС€РєР° РґРѕР»СЊРєР°РјРё РїРѕ РґРµСЂРµРІРµРЅСЃРєРё РІ РґСѓС…РѕРІРєРµ",
+        "id": 216,
+        "name": "Картошка дольками по деревенски в духовке",
         "link": "https://1000.menu//cooking/76109-kartoshka-dolkami-po-derevenski-v-duxovke",
-        "calories": "100 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "100 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РњРµС‚С‘Р»РєР° РґР»СЏ РїРѕС…СѓРґРµРЅРёСЏ Рё РѕС‡РёС‰РµРЅРёСЏ РєРёС€РµС‡РЅРёРєР°",
+        "id": 217,
+        "name": "Салат Метёлка для похудения и очищения кишечника",
         "link": "https://1000.menu//cooking/36918-salat-metyolka-dlya-poxudeniya-i-ochishcheniya-kishechnika",
-        "calories": "66 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "66 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РЎРѕС‡РЅС‹Рµ РєРѕС‚Р»РµС‚С‹ РєСѓСЂРёРЅС‹Рµ РІ РјРёРєСЂРѕРІРѕР»РЅРѕРІРєРµ",
+        "id": 218,
+        "name": "Сочные котлеты куриные в микроволновке",
         "link": "https://1000.menu//cooking/15286-kurinye-parovye-kotlety-v-mikrovolnovke",
-        "calories": "99 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "99 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р“СѓР»СЏС€ РёР· СЃРІРёРЅРёРЅС‹ СЃ РїРѕРґР»РёРІРєРѕР№ РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ",
+        "id": 219,
+        "name": "Гуляш из свинины с подливкой в мультиварке",
         "link": "https://1000.menu//cooking/29062-gulyash-iz-svininy-v-multivarke",
-        "calories": "99 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "99 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "РўС‹РєРІР° РІ РґСѓС…РѕРІРєРµ СЃ РїРѕРјРёРґРѕСЂР°РјРё Р»СѓРєРѕРј Рё РјРѕСЂРєРѕРІСЊСЋ",
+        "id": 220,
+        "name": "Тыква в духовке с помидорами луком и морковью",
         "link": "https://1000.menu//cooking/69011-tykva-v-duxovke-s-pomidorami-lukom-i-morkovu",
-        "calories": "77 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "77 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ РєР°РїСѓСЃС‚РѕР№ Рё РєСѓСЂРёРЅРѕР№ РіСЂСѓРґРєРѕР№",
+        "id": 221,
+        "name": "Салат с капустой и куриной грудкой",
         "link": "https://1000.menu//cooking/72905-salat-s-kapustoi-i-kurinoi-grudkoi",
-        "calories": "75 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "75 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РљР°СЂС‚РѕС„РµР»СЊ СЃ РёРЅРґРµР№РєРѕР№",
+        "id": 222,
+        "name": "Картофель с индейкой",
         "link": "https://1000.menu//cooking/75927-kartofel-s-indeikoi",
-        "calories": "98 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "98 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "РҐРѕСЂС†РёР°РЅРё РіСЂСѓР·РёРЅСЃРєРѕРµ РІ РєР°Р·Р°РЅРµ",
+        "id": 223,
+        "name": "Хорциани грузинское в казане",
         "link": "https://1000.menu//cooking/69083-xorciani-gruzinskoe-v-kazane",
-        "calories": "98 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "98 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "РўРѕР»СЃС‚РѕР»РѕР±РёРє РІ РґСѓС…РѕРІРєРµ Р·Р°РїРµС‡РµРЅРЅС‹Р№ РІ С„РѕР»СЊРіРµ С†РµР»РёРєРѕРј",
+        "id": 224,
+        "name": "Толстолобик в духовке запеченный в фольге целиком",
         "link": "https://1000.menu//cooking/25328-tolstolobik-v-duxovke-zapechennyi-v-folge-celikom",
-        "calories": "78 РєРєР°Р»",
-        "cooking_time": "1 С‡ 15 РјРёРЅ "
+        "calories": "78 ккал",
+        "cooking_time": "1 ч 15 мин "
     },
     {
-        "name": "Р“СЂРёР±С‹ СЃ Р±РѕР»РіР°СЂСЃРєРёРј РїРµСЂС†РµРј",
+        "id": 225,
+        "name": "Грибы с болгарским перцем",
         "link": "https://1000.menu//cooking/10298-ragu-iz-gribov-i-bolgarskogo-perca",
-        "calories": "73 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "73 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "Р“СѓР»СЏС€ РёР· РіРѕРІСЏРґРёРЅС‹ РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ СЃ РїРѕРґР»РёРІРєРѕР№",
+        "id": 226,
+        "name": "Гуляш из говядины в мультиварке с подливкой",
         "link": "https://1000.menu//cooking/13059-gulyash-iz-govyadiny-v-multivarke",
-        "calories": "94 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "94 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "РџР»РѕРІ РЅР° РїР»РёС‚Рµ РІ РєР°Р·Р°РЅРµ РёР· РєСѓСЂРёС†С‹",
+        "id": 227,
+        "name": "Плов на плите в казане из курицы",
         "link": "https://1000.menu//cooking/6905-plov-iz-kuri",
-        "calories": "81 РєРєР°Р»",
-        "cooking_time": "1 С‡ 40 РјРёРЅ "
+        "calories": "81 ккал",
+        "cooking_time": "1 ч 40 мин "
     },
     {
-        "name": "РҐР°С€Р»Р°РјР° РїРѕ Р°СЂРјСЏРЅСЃРєРё РёР· РіРѕРІСЏРґРёРЅС‹",
+        "id": 228,
+        "name": "Хашлама по армянски из говядины",
         "link": "https://1000.menu//cooking/21968-xashlama-po-armyanski-iz-govyadiny",
-        "calories": "99 РєРєР°Р»",
-        "cooking_time": "3 С‡ "
+        "calories": "99 ккал",
+        "cooking_time": "3 ч "
     },
     {
-        "name": "РљРµС„Р°Р»СЊ Р·Р°РїРµС‡РµРЅРЅР°СЏ РІ РґСѓС…РѕРІРєРµ С†РµР»РёРєРѕРј",
+        "id": 229,
+        "name": "Кефаль запеченная в духовке целиком",
         "link": "https://1000.menu//cooking/31426-kefal-celikom-v-duxovke",
-        "calories": "93 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "93 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "РЎСѓРґР°Рє РІ СЃРјРµС‚Р°РЅРµ РІ РґСѓС…РѕРІРєРµ Р·Р°РїРµС‡РµРЅРЅС‹Р№",
+        "id": 230,
+        "name": "Судак в сметане в духовке запеченный",
         "link": "https://1000.menu//cooking/25146-sudak-v-duxovke-v-folge-celikom",
-        "calories": "99 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "99 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ РѕРіСѓСЂС†РѕРј Р·РµР»РµРЅС‹Рј Р»СѓРєРѕРј Рё СЏР№С†РѕРј РєР»Р°СЃСЃРёС‡РµСЃРєРёР№",
+        "id": 231,
+        "name": "Салат с огурцом зеленым луком и яйцом классический",
         "link": "https://1000.menu//cooking/65797-salat-s-ogurcom-zelenym-lukom-i-yaicom",
-        "calories": "86 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "86 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р‘РѕСЂС‰ СЃРѕ СЃРІРµРєР»РѕР№ Рё СЃРІРёРЅРёРЅРѕР№",
+        "id": 232,
+        "name": "Борщ со свеклой и свининой",
         "link": "https://1000.menu//cooking/31237-borshch-so-svininoi",
-        "calories": "54 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "54 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "РўСѓС€РµРЅР°СЏ РєР°СЂС‚РѕС€РєР° СЃ РіСЂРёР±Р°РјРё РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ",
+        "id": 233,
+        "name": "Тушеная картошка с грибами в мультиварке",
         "link": "https://1000.menu//cooking/37638-tushenaya-kartoshka-s-shampinonami-v-multivarke",
-        "calories": "88 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "88 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "РџРѕРјРёРґРѕСЂС‹ РІ С„РѕР»СЊРіРµ РІ РґСѓС…РѕРІРєРµ Р·Р°РїРµС‡РµРЅРЅС‹Рµ",
+        "id": 234,
+        "name": "Помидоры в фольге в духовке запеченные",
         "link": "https://1000.menu//cooking/10852-pomidorj-v-folge",
-        "calories": "100 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "100 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "РЎС‚РµР№Рє РёР· РєСѓСЂРёРЅРѕР№ РіСЂСѓРґРєРё РЅР° СЃРєРѕРІРѕСЂРѕРґРµ",
+        "id": 235,
+        "name": "Стейк из куриной грудки на сковороде",
         "link": "https://1000.menu//cooking/39565-steik-iz-kurinoi-grudki-na-skovorode",
-        "calories": "53 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "53 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "Р¤Р°СЂС€ РІ С‚С‹РєРІРµ Р·Р°РїРµС‡РµРЅРЅС‹Р№ РІ РґСѓС…РѕРІРєРµ",
+        "id": 236,
+        "name": "Фарш в тыкве запеченный в духовке",
         "link": "https://1000.menu//cooking/41464-farsh-v-tykve-zapechennyi-v-duxovke",
-        "calories": "62 РєРєР°Р»",
-        "cooking_time": "2 С‡ 20 РјРёРЅ "
+        "calories": "62 ккал",
+        "cooking_time": "2 ч 20 мин "
     },
     {
-        "name": "Р“СЂСѓРґРєР° РёРЅРґРµР№РєРё РѕС‚РІР°СЂРЅР°СЏ",
+        "id": 237,
+        "name": "Грудка индейки отварная",
         "link": "https://1000.menu//cooking/32386-grudka-indeiki-otvarnaya",
-        "calories": "42 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "42 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РљР°РїСѓСЃС‚Р° СЃРІРµР¶Р°СЏ РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ",
+        "id": 238,
+        "name": "Капуста свежая в мультиварке",
         "link": "https://1000.menu//cooking/25800-kapusta-svejaya-v-multivarke",
-        "calories": "83 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "83 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "Р“СЂРёР±С‹ СЃ РіСЂРµС‡РєРѕР№ РЅР° СЃРєРѕРІРѕСЂРѕРґРµ",
+        "id": 239,
+        "name": "Грибы с гречкой на сковороде",
         "link": "https://1000.menu//cooking/52925-griby-s-grechkoi-na-skovorode",
-        "calories": "95 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "95 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РљР°Р±Р°С‡РєРё РЅР° СЃРєРѕРІРѕСЂРѕРґРµ РіСЂРёР»СЊ Р±РµР· РјР°СЃР»Р°",
+        "id": 240,
+        "name": "Кабачки на сковороде гриль без масла",
         "link": "https://1000.menu//cooking/34237-kabachki-na-skovorode-gril-bez-masla",
-        "calories": "24 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "24 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РћРІРѕС‰РЅРѕРµ СЂР°РіСѓ СЃ С„Р°СЃРѕР»СЊСЋ СЃС‚СЂСѓС‡РєРѕРІРѕР№",
+        "id": 241,
+        "name": "Овощное рагу с фасолью стручковой",
         "link": "https://1000.menu//cooking/20521-ovoschnoe-ragu-s-fasolu-struchkovoi",
-        "calories": "77 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "77 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р“СЂРµС‡РєР° СЃ РєР°СЂС‚РѕС€РєРѕР№",
+        "id": 242,
+        "name": "Гречка с картошкой",
         "link": "https://1000.menu//cooking/73734-grechka-s-kartoshkoi",
-        "calories": "96 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "96 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р РёСЃ СЃ РєСѓСЂРёРЅРѕР№ РіСЂСѓРґРєРѕР№ Рё РѕРІРѕС‰Р°РјРё РІ РґСѓС…РѕРІРєРµ",
+        "id": 243,
+        "name": "Рис с куриной грудкой и овощами в духовке",
         "link": "https://1000.menu//cooking/12037-zapekanka-iz-kuricy-i-risa-ot-poly-din",
-        "calories": "95 РєРєР°Р»",
-        "cooking_time": "1 С‡ 50 РјРёРЅ "
+        "calories": "95 ккал",
+        "cooking_time": "1 ч 50 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РѕРіСѓСЂС†С‹ РїРѕРјРёРґРѕСЂС‹ РєСѓРєСѓСЂСѓР·Р°",
+        "id": 244,
+        "name": "Салат огурцы помидоры кукуруза",
         "link": "https://1000.menu//cooking/67477-salat-ogurcy-pomidory-kukuruza",
-        "calories": "76 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "76 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РљР°СЂС‚РѕС„РµР»СЊРЅРѕРµ РїСЋСЂРµ СЃ СЏР№С†РѕРј Рё РјРѕР»РѕРєРѕРј",
+        "id": 245,
+        "name": "Картофельное пюре с яйцом и молоком",
         "link": "https://1000.menu//cooking/17994-kartofelnoe-pure-s-yaicom-i-molokom",
-        "calories": "35 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "35 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЎС‹СЂРЅС‹Р№ СЃСѓРї СЃ РєСѓСЂРёС†РµР№ Рё РіСЂРёР±Р°РјРё",
+        "id": 246,
+        "name": "Сырный суп с курицей и грибами",
         "link": "https://1000.menu//cooking/39088-syrnyi-sup-s-kuricei-i-gribami",
-        "calories": "51 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "51 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р‘Р°РєР»Р°Р¶Р°РЅС‹ РєР°РїСѓСЃС‚Р° РїРµСЂРµС† Р±РѕР»РіР°СЂСЃРєРёР№ С‚СѓС€РµРЅС‹Рµ",
+        "id": 247,
+        "name": "Баклажаны капуста перец болгарский тушеные",
         "link": "https://1000.menu//cooking/56595-baklajany-kapusta-perec-bolgarskii-tushenye",
-        "calories": "65 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "65 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "РЎСѓРї СЃ РјР°РєР°СЂРѕРЅР°РјРё Рё РєР°СЂС‚РѕС€РєРѕР№",
+        "id": 248,
+        "name": "Суп с макаронами и картошкой",
         "link": "https://1000.menu//cooking/10482-sup-s-makaronami",
-        "calories": "41 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "41 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· РјР°РЅРіРѕР»СЊРґР°",
+        "id": 249,
+        "name": "Салат из мангольда",
         "link": "https://1000.menu//cooking/59166-salat-iz-mangolda",
-        "calories": "96 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "96 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р‘Р°РєР»Р°Р¶Р°РЅ СЃ РєР°РїСѓСЃС‚РѕР№ РєР°СЂС‚РѕС€РєРѕР№ СЂР°РіСѓ",
+        "id": 250,
+        "name": "Баклажан с капустой картошкой рагу",
         "link": "https://1000.menu//cooking/24755-baklajan-s-kapustoi-kartoshkoi",
-        "calories": "94 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "94 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РљР°СЂС‚РѕС„РµР»СЊРЅС‹Р№ СЃР°Р»Р°С‚ РєР»Р°СЃСЃРёС‡РµСЃРєРёР№",
+        "id": 251,
+        "name": "Картофельный салат классический",
         "link": "https://1000.menu//cooking/65170-kartofelnyi-salat-klassicheskii",
-        "calories": "91 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "91 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "Р›РµС‰ РІ РґСѓС…РѕРІРєРµ РІ С„РѕР»СЊРіРµ",
+        "id": 252,
+        "name": "Лещ в духовке в фольге",
         "link": "https://1000.menu//cooking/23262-leshch-v-duxovke-v-folge",
-        "calories": "98 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "98 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "Р С‹Р±Р° РІ СЃРјРµС‚Р°РЅРµ РІ РґСѓС…РѕРІРєРµ",
+        "id": 253,
+        "name": "Рыба в сметане в духовке",
         "link": "https://1000.menu//cooking/31050-ryba-v-smetane-v-duxovke",
-        "calories": "100 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "100 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РљР°РїСѓСЃС‚Р° РІ СЂСѓРєР°РІРµ РІ РґСѓС…РѕРІРєРµ",
+        "id": 254,
+        "name": "Капуста в рукаве в духовке",
         "link": "https://1000.menu//cooking/63248-kapusta-v-rukave-v-duxovke",
-        "calories": "69 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "69 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "Р Р°РіСѓ РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ СЃ РєСѓСЂРёС†РµР№",
+        "id": 255,
+        "name": "Рагу в мультиварке с курицей",
         "link": "https://1000.menu//cooking/66025-ragu-v-multivarke-s-kuricei",
-        "calories": "100 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "100 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РџР°СЃСѓС† РґРѕР»РјР° Р°СЂРјСЏРЅСЃРєР°СЏ",
+        "id": 256,
+        "name": "Пасуц долма армянская",
         "link": "https://1000.menu//cooking/38053-pasuc-dolma-armyanskaya",
-        "calories": "51 РєРєР°Р»",
-        "cooking_time": "3 С‡ "
+        "calories": "51 ккал",
+        "cooking_time": "3 ч "
     },
     {
-        "name": "Р’РёРЅРµРіСЂРµС‚ СЃ С„Р°СЃРѕР»СЊСЋ Рё РєРІР°С€РµРЅРѕР№ РєР°РїСѓСЃС‚РѕР№ РєР»Р°СЃСЃРёС‡РµСЃРєРёР№",
+        "id": 257,
+        "name": "Винегрет с фасолью и квашеной капустой классический",
         "link": "https://1000.menu//cooking/29488-klassicheskii-vinegret-s-konservirovannoi-fasolu",
-        "calories": "73 РєРєР°Р»",
-        "cooking_time": "2 С‡ 30 РјРёРЅ "
+        "calories": "73 ккал",
+        "cooking_time": "2 ч 30 мин "
     },
     {
-        "name": "Р›СЊРЅСЏРЅРѕР№ РєРёСЃРµР»СЊ РёР· Р»СЊРЅСЏРЅРѕРіРѕ СЃРµРјРµРЅРё",
+        "id": 258,
+        "name": "Льняной кисель из льняного семени",
         "link": "https://1000.menu//cooking/60357-lnyanoi-kisel-iz-lnyanogo-semeni",
-        "calories": "54 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "54 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "РЎСѓРґР°Рє СЃ РѕРІРѕС‰Р°РјРё РІ РґСѓС…РѕРІРєРµ Р·Р°РїРµС‡РµРЅС‹Р№",
+        "id": 259,
+        "name": "Судак с овощами в духовке запеченый",
         "link": "https://1000.menu//cooking/9372-sudak-s-ovoshchami",
-        "calories": "72 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "72 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "РҐР°С€Р»Р°РјР° РёР· РіРѕРІСЏРґРёРЅС‹ СЃ РєР°СЂС‚РѕС„РµР»РµРј РІ РєР°Р·Р°РЅРµ РЅР° РїРёРІРµ",
+        "id": 260,
+        "name": "Хашлама из говядины с картофелем в казане на пиве",
         "link": "https://1000.menu//cooking/47657-xashlama-po-armyanski-iz-govyadiny-na-pive-v-kazane",
-        "calories": "79 РєРєР°Р»",
-        "cooking_time": "2 С‡ 30 РјРёРЅ "
+        "calories": "79 ккал",
+        "cooking_time": "2 ч 30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· СЃР°Р№СЂС‹ РєРѕРЅСЃРµСЂРІРёСЂРѕРІР°РЅРЅРѕР№ СЃ СЏР№С†РѕРј Рё РіРѕСЂРѕС€РєРѕРј",
+        "id": 261,
+        "name": "Салат из сайры консервированной с яйцом и горошком",
         "link": "https://1000.menu//cooking/13455-salat-iz-sairy-konservirovannoi-s-yaicom-i-risom",
-        "calories": "85 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "85 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р—Р°РїРµРєР°РЅРєР° РёР· Р±СЂРѕРєРєРѕР»Рё Рё С†РІРµС‚РЅРѕР№ РєР°РїСѓСЃС‚С‹ РІ РґСѓС…РѕРІРєРµ",
+        "id": 262,
+        "name": "Запеканка из брокколи и цветной капусты в духовке",
         "link": "https://1000.menu//cooking/38213-zapekanka-iz-brokkoli-i-cvetnoi-kapusty-v-duxovke",
-        "calories": "76 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "76 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЎРјРµС‚Р°РЅРЅС‹Р№ СЃРѕСѓСЃ РїРѕРґР»РёРІРєР° РїСЂРѕСЃС‚Рѕ Рё РІРєСѓСЃРЅРѕ",
+        "id": 263,
+        "name": "Сметанный соус подливка просто и вкусно",
         "link": "https://1000.menu//cooking/74172-smetannyi-sous-podlivka-prosto-i-vkusno",
-        "calories": "66 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "66 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "Р РѕР¶РєРё СЃ СЃС‹СЂРѕРј",
+        "id": 264,
+        "name": "Рожки с сыром",
         "link": "https://1000.menu//cooking/24642-rojki-s-syrom",
-        "calories": "47 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "47 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РѕРіСѓСЂС†С‹ РїРѕРјРёРґРѕСЂС‹ РєР°РїСѓСЃС‚Р° СЃРІРµР¶Р°СЏ",
+        "id": 265,
+        "name": "Салат огурцы помидоры капуста свежая",
         "link": "https://1000.menu//cooking/54140-salat-ogurcy-pomidory-kapusta-svejaya",
-        "calories": "76 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "76 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РљР°Рє СЃРІР°СЂРёС‚СЊ РїРµР»СЊРјРµРЅРё РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ",
+        "id": 266,
+        "name": "Как сварить пельмени в мультиварке",
         "link": "https://1000.menu//cooking/59136-kak-svarit-pelmeni-v-multivarke",
-        "calories": "80 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "80 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РћРІРѕС‰Рё РІ Р°С„РіР°РЅСЃРєРѕРј РєР°Р·Р°РЅРµ",
+        "id": 267,
+        "name": "Овощи в афганском казане",
         "link": "https://1000.menu//cooking/76101-ovoschi-v-afganskom-kazane",
-        "calories": "88 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "88 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РћРІРѕС‰РЅРѕРµ СЂР°РіСѓ СЃРѕ СЃРІРёРЅРёРЅРѕР№ СЃ РєР°РїСѓСЃС‚РѕР№ Рё РєР°СЂС‚РѕС€РєРѕР№",
+        "id": 268,
+        "name": "Овощное рагу со свининой с капустой и картошкой",
         "link": "https://1000.menu//cooking/7932-ovoshchnoe-ragu-so-svininoi",
-        "calories": "78 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "78 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р“СЂСѓРґРєР° РІ СЃРјРµС‚Р°РЅРµ РЅР° СЃРєРѕРІРѕСЂРѕРґРµ С‚СѓС€РµРЅР°СЏ",
+        "id": 269,
+        "name": "Грудка в сметане на сковороде тушеная",
         "link": "https://1000.menu//cooking/30177-grudka-v-smetane-na-skovorode-tushenaya",
-        "calories": "65 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "65 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РљР°СЂС‚РѕС€РєР° С‚СѓС€РµРЅР°СЏ РІ СЃРјРµС‚Р°РЅРµ",
+        "id": 270,
+        "name": "Картошка тушеная в сметане",
         "link": "https://1000.menu//cooking/30440-kartoshka-tushenaya-v-smetane",
-        "calories": "86 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "86 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р С‹Р±РЅС‹Р№ СЃСѓРї РёР· РєРѕРЅСЃРµСЂРІРѕРІ СЃ СЂРёСЃРѕРј",
+        "id": 271,
+        "name": "Рыбный суп из консервов с рисом",
         "link": "https://1000.menu//cooking/2379-rybnyi-sup-iz-konservov-s-risom",
-        "calories": "35 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "35 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РєР°СЂС‚РѕС€РєР° РїРѕРјРёРґРѕСЂС‹ РѕРіСѓСЂС†С‹",
+        "id": 272,
+        "name": "Салат картошка помидоры огурцы",
         "link": "https://1000.menu//cooking/13120-letnii-salat-po-derevenski",
-        "calories": "78 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "78 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ Р¶Р°СЂРµРЅС‹РјРё С€Р°РјРїРёРЅСЊРѕРЅР°РјРё РѕРіСѓСЂС†Р°РјРё Рё СЏР№С†Р°РјРё",
+        "id": 273,
+        "name": "Салат с жареными шампиньонами огурцами и яйцами",
         "link": "https://1000.menu//cooking/23756-salat-s-jarenymi-shampinonami-ogurcami-i-yaicami",
-        "calories": "92 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "92 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р С‹Р±Р° РїСЂРёРїСѓС‰РµРЅРЅР°СЏ",
+        "id": 274,
+        "name": "Рыба припущенная",
         "link": "https://1000.menu//cooking/25453-ryba-pripushchennaya",
-        "calories": "76 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "76 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "РўСѓС€РµРЅР°СЏ РєР°СЂС‚РѕС€РєР° СЃ РјСЏСЃРѕРј РІ СЃРјРµС‚Р°РЅРµ",
+        "id": 275,
+        "name": "Тушеная картошка с мясом в сметане",
         "link": "https://1000.menu//cooking/30564-tushenaya-kartoshka-s-myasom-v-smetane",
-        "calories": "97 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "97 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р С‹Р±Р° РЅР° РїР°СЂСѓ РІ РїР°СЂРѕРІР°СЂРєРµ",
+        "id": 276,
+        "name": "Рыба на пару в пароварке",
         "link": "https://1000.menu//cooking/26096-ryba-na-paru-v-parovarke",
-        "calories": "89 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "89 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ С€Р°РјРїРёРЅСЊРѕРЅР°РјРё Рё С„Р°СЃРѕР»СЊСЋ",
+        "id": 277,
+        "name": "Салат с шампиньонами и фасолью",
         "link": "https://1000.menu//cooking/24382-salat-s-shampinonami-i-fasolu",
-        "calories": "78 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "78 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РљСѓСЂРёРЅРѕРµ С„РёР»Рµ СЃ СЂРёСЃРѕРј",
+        "id": 278,
+        "name": "Куриное филе с рисом",
         "link": "https://1000.menu//cooking/28931-kurinoe-file-s-risom",
-        "calories": "77 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "77 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "РћРІРѕС‰РЅРѕРµ СЂР°РіСѓ РІ РіРѕСЂС€РѕС‡РєР°С… РІ РґСѓС…РѕРІРєРµ",
+        "id": 279,
+        "name": "Овощное рагу в горшочках в духовке",
         "link": "https://1000.menu//cooking/20672-ovoshchnoe-ragu-v-gorshochkax-v-duxovke",
-        "calories": "42 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "42 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЎСѓС„Р»Рµ РёР· СЂС‹Р±С‹ РІ РґСѓС…РѕРІРєРµ РґРёРµС‚РёС‡РµСЃРєРѕРµ",
+        "id": 280,
+        "name": "Суфле из рыбы в духовке диетическое",
         "link": "https://1000.menu//cooking/4453-rjbnoe-sufle",
-        "calories": "91 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "91 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "РљР°СЂС‚РѕС€РєР° С„СЂРё Р±РµР· С„СЂРёС‚СЋСЂРЅРёС†С‹",
+        "id": 281,
+        "name": "Картошка фри без фритюрницы",
         "link": "https://1000.menu//cooking/18987-kartofel-fri-bez-friturnicy",
-        "calories": "440 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "440 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РџР°СЃС‚Р° СЃ РјРёРґРёСЏРјРё РєСЂРµРІРµС‚РєР°РјРё Рё РєР°Р»СЊРјР°СЂР°РјРё",
+        "id": 282,
+        "name": "Паста с мидиями креветками и кальмарами",
         "link": "https://1000.menu//cooking/74474-pasta-s-midiyami-krevetkami-i-kalmarami",
-        "calories": "68 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "68 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р–Р°СЂРµРЅС‹Рµ РіСЂРёР±С‹ СЃ Р»СѓРєРѕРј Рё СЃРјРµС‚Р°РЅРѕР№",
+        "id": 283,
+        "name": "Жареные грибы с луком и сметаной",
         "link": "https://1000.menu//cooking/69547-jarenye-griby-s-lukom-i-smetanoi",
-        "calories": "89 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "89 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РџРµС‡РµРЅСЊ С‚СѓС€РµРЅР°СЏ СЃ РєР°РїСѓСЃС‚РѕР№",
+        "id": 284,
+        "name": "Печень тушеная с капустой",
         "link": "https://1000.menu//cooking/10358-pechen-s-kapustoi",
-        "calories": "81 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "81 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РљР°Р»СЊРјР°СЂС‹ СЃ РєР°РїСѓСЃС‚РѕР№ С‚СѓС€РµРЅС‹Рµ",
+        "id": 285,
+        "name": "Кальмары с капустой тушеные",
         "link": "https://1000.menu//cooking/71011-kalmary-s-kapustoi-tushenye",
-        "calories": "66 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "66 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РћРІРѕС‰Рё СЃ РіСЂРёР±Р°РјРё РІ РґСѓС…РѕРІРєРµ Р·Р°РїРµС‡РµРЅРЅС‹Рµ",
+        "id": 286,
+        "name": "Овощи с грибами в духовке запеченные",
         "link": "https://1000.menu//cooking/75115-ovoschi-s-gribami-v-duxovke-zapechennye",
-        "calories": "63 РєРєР°Р»",
-        "cooking_time": "1 С‡ 40 РјРёРЅ "
+        "calories": "63 ккал",
+        "cooking_time": "1 ч 40 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· РѕРіСѓСЂС†РѕРІ Рё РїРѕРјРёРґРѕСЂРѕРІ СЃ Р·РµР»РµРЅСЊСЋ",
+        "id": 287,
+        "name": "Салат из огурцов и помидоров с зеленью",
         "link": "https://1000.menu//cooking/74960-salat-iz-ogurcov-i-pomidorov-s-zelenu",
-        "calories": "84 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "84 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р’Р°СЂРµРЅР°СЏ РєР°СЂС‚РѕС€РєР° Р·Р°РїРµС‡РµРЅРЅР°СЏ РІ РґСѓС…РѕРІРєРµ",
+        "id": 288,
+        "name": "Вареная картошка запеченная в духовке",
         "link": "https://1000.menu//cooking/53954-varenaya-kartoshka-zapechennaya-v-duxovke",
-        "calories": "96 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "96 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РњРёРЅС‚Р°Р№ СЃРјРµС‚Р°РЅР° РјРѕСЂРєРѕРІСЊ Р»СѓРє РІ РґСѓС…РѕРІРєРµ",
+        "id": 289,
+        "name": "Минтай сметана морковь лук в духовке",
         "link": "https://1000.menu//cooking/30812-mintai-smetana-morkov-luk-v-duxovke",
-        "calories": "85 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "85 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р’РёРЅРµРіСЂРµС‚ Р±РµР· РѕРіСѓСЂС†РѕРІ",
+        "id": 290,
+        "name": "Винегрет без огурцов",
         "link": "https://1000.menu//cooking/70876-vinegret-bez-ogurcov",
-        "calories": "95 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "95 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р“СЂРёР±РЅР°СЏ РїРѕРґР»РёРІРєР°",
+        "id": 291,
+        "name": "Грибная подливка",
         "link": "https://1000.menu//cooking/27030-gribnaya-podlivka",
-        "calories": "79 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "79 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "РљР°СЂС‚РѕС€РєР° РІ СЃРјРµС‚Р°РЅРµ РІ РіРѕСЂС€РѕС‡РєР°С…",
+        "id": 292,
+        "name": "Картошка в сметане в горшочках",
         "link": "https://1000.menu//cooking/3949-kartoshka-v-gorshochkax-v-smetane",
-        "calories": "80 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "80 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "РўСѓС€РµРЅР°СЏ РєР°СЂС‚РѕС€РєР° СЃ СЃРѕСЃРёСЃРєР°РјРё РЅР° СЃРєРѕРІРѕСЂРѕРґРµ",
+        "id": 293,
+        "name": "Тушеная картошка с сосисками на сковороде",
         "link": "https://1000.menu//cooking/25044-tushenaya-kartoshka-s-sosiskami",
-        "calories": "97 РєРєР°Р»",
-        "cooking_time": "35 РјРёРЅ "
+        "calories": "97 ккал",
+        "cooking_time": "35 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· СЃРІРµРєР»С‹ СЃ СЃРѕР»РµРЅС‹РјРё РѕРіСѓСЂС†Р°РјРё",
+        "id": 294,
+        "name": "Салат из свеклы с солеными огурцами",
         "link": "https://1000.menu//cooking/68516-salat-iz-svekly-s-solenymi-ogurcami",
-        "calories": "85 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "85 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РљСѓРїР°С‚С‹ СЃ РєР°СЂС‚РѕС€РєРѕР№ РІ РґСѓС…РѕРІРєРµ",
+        "id": 295,
+        "name": "Купаты с картошкой в духовке",
         "link": "https://1000.menu//cooking/15151-kupaty-s-kartoshkoi-v-duxovke",
-        "calories": "88 РєРєР°Р»",
-        "cooking_time": "1 С‡ 10 РјРёРЅ "
+        "calories": "88 ккал",
+        "cooking_time": "1 ч 10 мин "
     },
     {
-        "name": "РўСѓС€РµРЅР°СЏ РєР°РїСѓСЃС‚Р° СЃ РєР°СЂС‚РѕС€РєРѕР№ РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ",
+        "id": 296,
+        "name": "Тушеная капуста с картошкой в мультиварке",
         "link": "https://1000.menu//cooking/26331-tushenaya-kapusta-s-kartoshkoi-v-multivarke",
-        "calories": "83 РєРєР°Р»",
-        "cooking_time": "32 РјРёРЅ "
+        "calories": "83 ккал",
+        "cooking_time": "32 мин "
     },
     {
-        "name": "РћРІСЃСЏРЅР°СЏ РєР°С€Р° РЅР° РІРѕРґРµ Рё РјРѕР»РѕРєРµ",
+        "id": 297,
+        "name": "Овсяная каша на воде и молоке",
         "link": "https://1000.menu//cooking/70531-ovsyanaya-kasha-na-vode-i-moloke",
-        "calories": "87 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "87 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "РћРІРѕС‰Рё РЅР° С€РїР°Р¶РєР°С… РІ РґСѓС…РѕРІРєРµ",
+        "id": 298,
+        "name": "Овощи на шпажках в духовке",
         "link": "https://1000.menu//cooking/26107-ovoschi-na-shpajkax-v-duxovke",
-        "calories": "72 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "72 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "РљСѓСЂРёС†Р° СЃ РіСЂРёР±Р°РјРё РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ",
+        "id": 299,
+        "name": "Курица с грибами в мультиварке",
         "link": "https://1000.menu//cooking/24882-kurica-s-gribami-v-multivarke",
-        "calories": "76 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "76 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РўС‹РєРІР° СЃ РіСЂРёР±Р°РјРё РІ РґСѓС…РѕРІРєРµ",
+        "id": 300,
+        "name": "Тыква с грибами в духовке",
         "link": "https://1000.menu//cooking/17525-tykva-s-gribami-v-duxovke",
-        "calories": "89 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "89 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЎРІРµР¶Р°СЏ С‚СѓС€РµРЅР°СЏ РєР°РїСѓСЃС‚Р° СЃ РіСЂРёР±Р°РјРё",
+        "id": 301,
+        "name": "Свежая тушеная капуста с грибами",
         "link": "https://1000.menu//cooking/3902-kapusta-s-gribami",
-        "calories": "48 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "48 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р—Р°РјРѕСЂРѕР¶РµРЅРЅС‹Рµ РіСЂРёР±С‹ РЅР° СЃРєРѕРІРѕСЂРѕРґРµ",
+        "id": 302,
+        "name": "Замороженные грибы на сковороде",
         "link": "https://1000.menu//cooking/68633-zamorojennye-griby-na-skovorode",
-        "calories": "50 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "50 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р‘СѓР»РіСѓСЂ СЃ РіСЂРёР±Р°РјРё Рё Р»СѓРєРѕРј РЅР° СЃРєРѕРІРѕСЂРѕРґРµ",
+        "id": 303,
+        "name": "Булгур с грибами и луком на сковороде",
         "link": "https://1000.menu//cooking/59605-bulgur-s-gribami-i-lukom-na-skovorode",
-        "calories": "95 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "95 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РїРµРєРёРЅСЃРєР°СЏ РєР°РїСѓСЃС‚Р° РєСѓРєСѓСЂСѓР·Р° СЏР№С†Р°",
+        "id": 304,
+        "name": "Салат пекинская капуста кукуруза яйца",
         "link": "https://1000.menu//cooking/63957-salat-pekinskaya-kapusta-kukuruza-yaica",
-        "calories": "50 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "50 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р Р°РіСѓ РёР· С‚С‹РєРІС‹ СЃ РјСЏСЃРѕРј",
+        "id": 305,
+        "name": "Рагу из тыквы с мясом",
         "link": "https://1000.menu//cooking/50424-ragu-iz-tykvy-s-myasom",
-        "calories": "89 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "89 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РљСѓСЂРёРЅР°СЏ РіСЂСѓРґРєР° СЃ Р°РЅР°РЅР°СЃР°РјРё Рё СЃС‹СЂРѕРј РІ РґСѓС…РѕРІРєРµ",
+        "id": 306,
+        "name": "Куриная грудка с ананасами и сыром в духовке",
         "link": "https://1000.menu//cooking/36320-kurinaya-grudka-s-ananasami-i-syrom-v-duxovke",
-        "calories": "66 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "66 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "РђР·Сѓ РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ РїРѕ-С‚Р°С‚Р°СЂСЃРєРё",
+        "id": 307,
+        "name": "Азу в мультиварке по-татарски",
         "link": "https://1000.menu//cooking/23455-azu-v-multivarke-po-tatarski",
-        "calories": "94 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "94 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "РўСЂРµСЃРєР° РїРѕ-РїРѕР»СЊСЃРєРё РЅР° СЂС‹Р±РЅРѕРј Р±СѓР»СЊРѕРЅРµ СЃ РєРѕСЂРЅРµРј СЃРµР»СЊРґРµСЂРµСЏ",
+        "id": 308,
+        "name": "Треска по-польски на рыбном бульоне с корнем сельдерея",
         "link": "https://1000.menu//cooking/22734-treska-po-polski-na-rybnom-bulone-s-kornem-seldereya",
-        "calories": "94 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "94 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ РєР°РїСѓСЃС‚РѕР№ Рё Р°РЅР°РЅР°СЃР°РјРё РљРѕСѓР» РЎР»РѕСѓ",
+        "id": 309,
+        "name": "Салат с капустой и ананасами Коул Слоу",
         "link": "https://1000.menu//cooking/70251-salat-s-kapustoi-i-ananasami-koul-slou",
-        "calories": "50 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "50 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РЎСѓРї СЃ РїРµРєРёРЅСЃРєРѕР№ РєР°РїСѓСЃС‚РѕР№ Рё РєСѓСЂРёС†РµР№",
+        "id": 310,
+        "name": "Суп с пекинской капустой и курицей",
         "link": "https://1000.menu//cooking/75246-sup-s-pekinskoi-kapustoi-i-kuricei",
-        "calories": "34 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "34 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РњРёРЅС‚Р°Р№ РЅР° СЃРєРѕРІРѕСЂРѕРґРµ СЃРѕ СЃРјРµС‚Р°РЅРѕР№ Рё РјРѕСЂРєРѕРІСЊСЋ",
+        "id": 311,
+        "name": "Минтай на сковороде со сметаной и морковью",
         "link": "https://1000.menu//cooking/29430-mintai-so-smetanoi",
-        "calories": "75 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "75 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РўСѓС€РµРЅР°СЏ РєР°РїСѓСЃС‚Р° СЃ РєР°СЂС‚РѕС€РєРѕР№ РІ РєР°Р·Р°РЅРµ",
+        "id": 312,
+        "name": "Тушеная капуста с картошкой в казане",
         "link": "https://1000.menu//cooking/23246-tushyonaya-kapusta-s-kartoshkoi-v-kazane",
-        "calories": "58 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "58 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ РїРµС‡РµРЅС‹Рј РїРµСЂС†РµРј",
+        "id": 313,
+        "name": "Салат с печеным перцем",
         "link": "https://1000.menu//cooking/22468-salat-iz-pechenogo-bolgarskogo-perca-i-baklajanov",
-        "calories": "73 РєРєР°Р»",
-        "cooking_time": "55 РјРёРЅ "
+        "calories": "73 ккал",
+        "cooking_time": "55 мин "
     },
     {
-        "name": "РџСЂРёРїСѓС‰РµРЅРЅС‹Рµ РѕРІРѕС‰Рё",
+        "id": 314,
+        "name": "Припущенные овощи",
         "link": "https://1000.menu//cooking/73647-pripuschennye-ovoschi",
-        "calories": "53 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "53 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РЎСѓРї-РїСЋСЂРµ РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ",
+        "id": 315,
+        "name": "Суп-пюре в мультиварке",
         "link": "https://1000.menu//cooking/14221-gribnoi-sup-pure-v-multivarke-iz-shampinonov",
-        "calories": "72 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "72 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РћРІРѕС‰Рё С‚СѓС€РµРЅС‹Рµ РІ СЃРјРµС‚Р°РЅРµ РЅР° СЃРєРѕРІРѕСЂРѕРґРµ",
+        "id": 316,
+        "name": "Овощи тушеные в сметане на сковороде",
         "link": "https://1000.menu//cooking/30404-ovoshchi-tushenye-v-smetane",
-        "calories": "100 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "100 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РљР°СЂС‚РѕС„РµР»СЊРЅРѕРµ РїСЋСЂРµ СЃ РіСЂРёР±Р°РјРё",
+        "id": 317,
+        "name": "Картофельное пюре с грибами",
         "link": "https://1000.menu//cooking/18020-kartofelnoe-pure-s-gribami",
-        "calories": "93 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "93 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р‘СЂРѕРєРєРѕР»Рё СЃ РіСЂРёР±Р°РјРё",
+        "id": 318,
+        "name": "Смузи с бананом и молоком",
+        "link": "https://1000.menu//cooking/21901-smuzi-s-bananom",
+        "calories": "84 ккал",
+        "cooking_time": "5 мин "
+    },
+    {
+        "id": 319,
+        "name": "Брокколи с грибами",
         "link": "https://1000.menu//cooking/26842-brokkoli-s-gribami",
-        "calories": "87 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "87 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "РўСЂРµСЃРєР° РЅР° РїР°СЂСѓ",
+        "id": 320,
+        "name": "Треска на пару",
         "link": "https://1000.menu//cooking/17956-treska-na-paru",
-        "calories": "69 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "69 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р“СЂРёР±РЅРѕР№ РіСѓР»СЏС€ РёР· РіСЂРёР±РѕРІ",
+        "id": 321,
+        "name": "Грибной гуляш из грибов",
         "link": "https://1000.menu//cooking/6725-gribnoi-gulyash-iz-gribov",
-        "calories": "50 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "50 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РљР°СЂС‚РѕС€РєР° СЃ РјСЏСЃРѕРј РІ СЃРјРµС‚Р°РЅРµ РІ РґСѓС…РѕРІРєРµ",
+        "id": 322,
+        "name": "Картошка с мясом в сметане в духовке",
         "link": "https://1000.menu//cooking/30562-kartoshka-s-myasom-v-smetane-v-duxovke",
-        "calories": "98 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "98 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "Р“СѓР»СЏС€ РёР· РіРѕРІСЏРґРёРЅС‹ РєР°Рє РІ РґРµС‚СЃРєРѕРј СЃР°РґСѓ",
+        "id": 323,
+        "name": "Гуляш из говядины как в детском саду",
         "link": "https://1000.menu//cooking/38705-gulyash-iz-govyadiny-kak-v-detskom-sadu",
-        "calories": "100 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "100 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РєР°Р»СЊРјР°СЂС‹ СЃ СЏР№С†РѕРј Рё РѕРіСѓСЂС†РѕРј СЃ РєСѓРєСѓСЂСѓР·РѕР№",
+        "id": 324,
+        "name": "Салат кальмары с яйцом и огурцом с кукурузой",
         "link": "https://1000.menu//cooking/54426-salat-kalmary-s-yaicom-i-ogurcom-s-kukuruzoi",
-        "calories": "79 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "79 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р С‹Р±Р° РІ С‚Р°РЅРґС‹СЂРµ",
+        "id": 325,
+        "name": "Рыба в тандыре",
         "link": "https://1000.menu//cooking/63791-ryba-v-tandyre",
-        "calories": "92 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "92 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р“СЂРµС‡РєР° СЃ РіСЂРёР±Р°РјРё РІ РґСѓС…РѕРІРєРµ",
+        "id": 326,
+        "name": "Гречка с грибами в духовке",
         "link": "https://1000.menu//cooking/75124-grechka-s-gribami-v-duxovke",
-        "calories": "88 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "88 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ С‚СѓРЅС†РѕРј Рё СЃС‚СЂСѓС‡РєРѕРІРѕР№ С„Р°СЃРѕР»СЊСЋ",
+        "id": 327,
+        "name": "Салат с тунцом и стручковой фасолью",
         "link": "https://1000.menu//cooking/42953-salat-s-tuncom-i-struchkovoi-fasolu",
-        "calories": "83 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "83 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РѕРіСѓСЂС†С‹ РїРѕРјРёРґРѕСЂС‹ РіРѕСЂРѕС€РµРє Р·РµР»РµРЅС‹Р№",
+        "id": 328,
+        "name": "Салат огурцы помидоры горошек зеленый",
         "link": "https://1000.menu//cooking/65733-salat-ogurcy-pomidory-goroshek-zelenyi",
-        "calories": "80 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "80 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "Р С‹Р±Р° РІ С„РѕР»СЊРіРµ СЃ РєР°СЂС‚РѕС€РєРѕР№ РІ РґСѓС…РѕРІРєРµ",
+        "id": 329,
+        "name": "Рыба в фольге с картошкой в духовке",
         "link": "https://1000.menu//cooking/22844-ryba-v-folge-s-kartoshkoi-v-duxovke",
-        "calories": "42 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "42 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "Р“СЂРёР±С‹ СЃ РѕРІРѕС‰Р°РјРё РЅР° СЃРєРѕРІРѕСЂРѕРґРµ",
+        "id": 330,
+        "name": "Грибы с овощами на сковороде",
         "link": "https://1000.menu//cooking/74242-griby-s-ovoschami-na-skovorode",
-        "calories": "51 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "51 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "РљР°СЂС‚РѕС€РєР° СЃ РіСЂРёР±Р°РјРё РЅР° СЃРєРѕРІРѕСЂРѕРґРµ СЃРѕ СЃРјРµС‚Р°РЅРѕР№",
+        "id": 331,
+        "name": "Картошка с грибами на сковороде со сметаной",
         "link": "https://1000.menu//cooking/49479-kartoshka-s-gribami-na-skovorode-so-smetanoi",
-        "calories": "77 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "77 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р–Р°СЂРєРѕРµ РёР· Р±Р°СЂР°РЅРёРЅС‹",
+        "id": 332,
+        "name": "Жаркое из баранины",
         "link": "https://1000.menu//cooking/28123-jarkoe-iz-baraniny",
-        "calories": "78 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "78 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "Р С‹Р±Р° РІ РґСѓС…РѕРІРєРµ СЃ РјРѕСЂРєРѕРІСЊСЋ Рё РјР°Р№РѕРЅРµР·РѕРј",
+        "id": 333,
+        "name": "Рыба в духовке с морковью и майонезом",
         "link": "https://1000.menu//cooking/3034-gorbusha-v-duhovke-pod-maionezom",
-        "calories": "98 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "98 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р С‹Р±Р° Р·Р°РїРµС‡РµРЅРЅР°СЏ  СЃ РєР°СЂС‚РѕС„РµР»РµРј РІ РґСѓС…РѕРІРєРµ",
+        "id": 334,
+        "name": "Рыба запеченная  с картофелем в духовке",
         "link": "https://1000.menu//cooking/68146-ryba-zapechennaya-s-kartofelem-v-duxovke",
-        "calories": "90 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "90 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РџСЂРѕСЃС‚РѕР№ РџРџ СЃР°Р»Р°С‚ РёР· РґР°Р№РєРѕРЅР° СЃ РјРѕСЂРєРѕРІСЊСЋ Рё СЏР±Р»РѕРєРѕРј",
+        "id": 335,
+        "name": "Простой ПП салат из дайкона с морковью и яблоком",
         "link": "https://1000.menu//cooking/7063-salat-s-daikonom",
-        "calories": "36 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "36 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РљРёСЃРµР»СЊ РёР· РєРѕРјРїРѕС‚Р° Рё РєСЂР°С…РјР°Р»Р°",
+        "id": 336,
+        "name": "Кисель из компота и крахмала",
         "link": "https://1000.menu//cooking/18033-kisel-iz-kompota-i-kraxmala",
-        "calories": "79 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "79 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "Р©Р°РІРµР»РµРІС‹Р№ Р±РѕСЂС‰ СЃ СЏР№С†РѕРј",
+        "id": 337,
+        "name": "Щавелевый борщ с яйцом",
         "link": "https://1000.menu//cooking/76057-schavelevyi-borsch-s-yaicom",
-        "calories": "58 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "58 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РњСЏСЃРЅРѕР№ РіСѓР»СЏС€",
+        "id": 338,
+        "name": "Мясной гуляш",
         "link": "https://1000.menu//cooking/7094-myasnoj-gulyash",
-        "calories": "71 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "71 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "РњРѕСЂСЃРєРѕР№ РѕРєСѓРЅСЊ Р·Р°РїРµС‡РµРЅРЅС‹Р№ РІ РґСѓС…РѕРІРєРµ СЃ РѕРІРѕС‰Р°РјРё",
+        "id": 339,
+        "name": "Морской окунь запеченный в духовке с овощами",
         "link": "https://1000.menu//cooking/52189-morskoi-okun-zapechennyi-v-duxovke-s-ovoshchami",
-        "calories": "88 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "88 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ РїРµС‡РµРЅСЊСЋ Рё РєРѕСЂРµР№СЃРєРѕР№ РјРѕСЂРєРѕРІСЊСЋ",
+        "id": 340,
+        "name": "Салат с печенью и корейской морковью",
         "link": "https://1000.menu//cooking/18847-salat-zimushka-s-kurinoi-pechenu",
-        "calories": "53 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "53 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "РўСѓС€РµРЅР°СЏ РїРµРєРёРЅСЃРєР°СЏ РєР°РїСѓСЃС‚Р°",
+        "id": 341,
+        "name": "Тушеная пекинская капуста",
         "link": "https://1000.menu//cooking/25408-tushenaya-pekinskaya-kapusta",
-        "calories": "41 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "41 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р¤РёР»Рµ РјРёРЅС‚Р°СЏ РІ РґСѓС…РѕРІРєРµ СЃ Р»СѓРєРѕРј Рё РїРѕРјРёРґРѕСЂР°РјРё",
+        "id": 342,
+        "name": "Филе минтая в духовке с луком и помидорами",
         "link": "https://1000.menu//cooking/34602-file-mintaya-v-duxovke-s-lukom-i-pomidorami",
-        "calories": "70 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "70 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ СЂСѓРєРєРѕР»РѕР№ Рё С‚СѓРЅС†РѕРј РєРѕРЅСЃРµСЂРІРёСЂРѕРІР°РЅРЅС‹Рј",
+        "id": 343,
+        "name": "Салат с рукколой и тунцом консервированным",
         "link": "https://1000.menu//cooking/33134-salat-s-rukkoloi-i-tuncom-konservirovannym",
-        "calories": "47 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "47 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РўСѓС€РµРЅР°СЏ РєСѓСЂРёРЅР°СЏ РіСЂСѓРґРєР° СЃ РѕРІРѕС‰Р°РјРё",
+        "id": 344,
+        "name": "Тушеная куриная грудка с овощами",
         "link": "https://1000.menu//cooking/39577-tushenaya-kurinaya-grudka-s-ovoschami",
-        "calories": "67 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "67 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "РўСѓС€РµРЅС‹Рµ РіСЂРёР±С‹ РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ",
+        "id": 345,
+        "name": "Тушеные грибы в мультиварке",
         "link": "https://1000.menu//cooking/25710-tushenye-griby-v-multivarke",
-        "calories": "85 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "85 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "Р“РѕРІСЏРґРёРЅР° СЃ РіСЂРёР±Р°РјРё РІ РґСѓС…РѕРІРєРµ",
+        "id": 346,
+        "name": "Говядина с грибами в духовке",
         "link": "https://1000.menu//cooking/22851-govyadina-s-gribami-v-duxovke",
-        "calories": "97 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "97 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "Р Р°РјРµРЅ СЃ СЏР№С†РѕРј",
+        "id": 347,
+        "name": "Рамен с яйцом",
         "link": "https://1000.menu//cooking/73510-ramen-s-yaicom",
-        "calories": "97 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "97 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р‘Р°СЂР°РЅРёРЅР° СЃ РєР°СЂС‚РѕС€РєРѕР№ С‚СѓС€РµРЅР°СЏ",
+        "id": 348,
+        "name": "Баранина с картошкой тушеная",
         "link": "https://1000.menu//cooking/26233-baranina-s-kartoshkoi-tushenaya",
-        "calories": "94 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "94 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "РљРІР°С€РµРЅР°СЏ РєР°РїСѓСЃС‚Р° Р¶Р°СЂРµРЅР°СЏ РЅР° СЃРєРѕРІРѕСЂРѕРґРµ",
+        "id": 349,
+        "name": "Квашеная капуста жареная на сковороде",
         "link": "https://1000.menu//cooking/19037-kvashenaya-kapusta-jarenaya-na-skovorode",
-        "calories": "75 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "75 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р¤СЂСѓРєС‚РѕРІС‹Р№ СЃР°Р»Р°С‚ РґРµСЃРµСЂС‚ СЃ РјР°РЅРіРѕ Рё РєР»СѓР±РЅРёРєРѕР№",
+        "id": 350,
+        "name": "Фруктовый салат десерт с манго и клубникой",
         "link": "https://1000.menu//cooking/54181-fruktovyi-salat-s-mango-i-klubnikoi",
-        "calories": "76 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "76 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎСѓРї СЃ РіСЂРёР±Р°РјРё РјСЏСЃРѕРј Рё РєР°СЂС‚РѕС€РєРѕР№",
+        "id": 351,
+        "name": "Суп с грибами мясом и картошкой",
         "link": "https://1000.menu//cooking/10537-pshennij-sup-s-gribami",
-        "calories": "56 РєРєР°Р»",
-        "cooking_time": "2 С‡ 30 РјРёРЅ "
+        "calories": "56 ккал",
+        "cooking_time": "2 ч 30 мин "
     },
     {
-        "name": "Р“РѕСЂР±СѓС€Р° СЃ СЂРёСЃРѕРј РІ РґСѓС…РѕРІРєРµ",
+        "id": 352,
+        "name": "Горбуша с рисом в духовке",
         "link": "https://1000.menu//cooking/43673-gorbusha-s-risom-v-duxovke",
-        "calories": "74 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "74 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РљР°РїСѓСЃС‚Р° СЃ С€Р°РјРїРёРЅСЊРѕРЅР°РјРё С‚СѓС€РµРЅР°СЏ РЅР° СЃРєРѕРІРѕСЂРѕРґРµ",
+        "id": 353,
+        "name": "Капуста с шампиньонами тушеная на сковороде",
         "link": "https://1000.menu//cooking/36032-tushenaya-kapusta-s-shampinonami",
-        "calories": "50 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "50 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р¤РёР»Рµ РјРёРЅС‚Р°СЏ СЃ СЃС‹СЂРѕРј РІ РґСѓС…РѕРІРєРµ",
+        "id": 354,
+        "name": "Филе минтая с сыром в духовке",
         "link": "https://1000.menu//cooking/38503-file-mintaya-s-syrom-v-duxovke",
-        "calories": "97 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "97 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ РєРѕРїС‡РµРЅРѕР№ РєСѓСЂРёРЅРѕР№ РіСЂСѓРґРєРѕР№ Рё С€Р°РјРїРёРЅСЊРѕРЅР°РјРё",
+        "id": 355,
+        "name": "Салат с копченой куриной грудкой и шампиньонами",
         "link": "https://1000.menu//cooking/42888-salat-s-kopchenoi-kurinoi-grudkoi-i-shampinonami",
-        "calories": "85 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "85 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "Р—Р°РјРѕСЂРѕР¶РµРЅРЅС‹Рµ РіРѕР»СѓР±С†С‹ РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ РІ С‚РѕРјР°С‚РЅРѕРј СЃРѕСѓСЃРµ",
+        "id": 356,
+        "name": "Замороженные голубцы в мультиварке в томатном соусе",
         "link": "https://1000.menu//cooking/20808-zamorojennye-golubcy-v-multivarke",
-        "calories": "88 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "88 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р С‹Р±РЅРѕРµ СЃСѓС„Р»Рµ РґР»СЏ РґРµС‚РµР№ РІ РґСѓС…РѕРІРєРµ РєР°Рє РІ СЃР°РґРёРєРµ",
+        "id": 357,
+        "name": "Рыбное суфле для детей в духовке как в садике",
         "link": "https://1000.menu//cooking/42014-rybnoe-sufle-v-duxovke-kak-v-detskom-sadu",
-        "calories": "92 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "92 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "РРЅРґРµР№РєР° РІ РіРѕСЂС€РѕС‡РєР°С… СЃ РєР°СЂС‚РѕС€РєРѕР№",
+        "id": 358,
+        "name": "Индейка в горшочках с картошкой",
         "link": "https://1000.menu//cooking/29572-indeika-v-gorshochkax-s-kartoshkoi",
-        "calories": "88 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "88 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ РєР°Р»СЊРјР°СЂР°РјРё Рё РјРѕСЂРєРѕРІСЊСЋ Рё РѕРіСѓСЂС†РѕРј",
+        "id": 359,
+        "name": "Салат с кальмарами и морковью и огурцом",
         "link": "https://1000.menu//cooking/74244-salat-s-kalmarami-i-morkovu-i-ogurcom",
-        "calories": "92 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "92 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "РћС‚РІР°СЂ РєР°РїСѓСЃС‚С‹",
+        "id": 360,
+        "name": "Отвар капусты",
         "link": "https://1000.menu//cooking/10372-otvar-kapustj",
-        "calories": "13 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "13 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РўСѓС€РµРЅР°СЏ Р»РѕСЃСЏС‚РёРЅР° РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ",
+        "id": 361,
+        "name": "Тушеная лосятина в мультиварке",
         "link": "https://1000.menu//cooking/41800-tushenaya-losyatina-v-multivarke",
-        "calories": "88 РєРєР°Р»",
-        "cooking_time": "14 С‡ 30 РјРёРЅ "
+        "calories": "88 ккал",
+        "cooking_time": "14 ч 30 мин "
     },
     {
-        "name": "РўСѓС€РµРЅР°СЏ РєР°РїСѓСЃС‚Р° СЃ С‡РµСЂРЅРѕСЃР»РёРІРѕРј",
+        "id": 362,
+        "name": "Тушеная капуста с черносливом",
         "link": "https://1000.menu//cooking/10362-tushenaya-kapusta-s-chernoslivom",
-        "calories": "81 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "81 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р Р°РґСѓР¶РЅР°СЏ С„РѕСЂРµР»СЊ РІ С„РѕР»СЊРіРµ СЃ РіСЂРёР±Р°РјРё РІ РґСѓС…РѕРІРєРµ",
+        "id": 363,
+        "name": "Радужная форель в фольге с грибами в духовке",
         "link": "https://1000.menu//cooking/57016-forel-s-gribami-v-duxovke",
-        "calories": "87 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "87 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РўРѕР»СЃС‚РѕР»РѕР±РёРє РЅР° РјР°РЅРіР°Р»Рµ РЅР° СЂРµС€РµС‚РєРµ РІ СЃРјРµС‚Р°РЅРµ",
+        "id": 364,
+        "name": "Толстолобик на мангале на решетке в сметане",
         "link": "https://1000.menu//cooking/54727-tolstolobik-na-mangale-na-reshetke-v-smetane",
-        "calories": "91 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "91 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "Р“СЂРµС‡РµСЃРєРёР№ СЃР°Р»Р°С‚ СЃ СЃСѓС…Р°СЂРёРєР°РјРё Рё РєСѓСЂРёС†РµР№",
+        "id": 365,
+        "name": "Греческий салат с сухариками и курицей",
         "link": "https://1000.menu//cooking/14264-grecheskii-salat-s-suxarikami-i-kuricei",
-        "calories": "99 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "99 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "РљР°РјР±Р°Р»Р° СЃ РѕРІРѕС‰Р°РјРё РІ РґСѓС…РѕРІРєРµ",
+        "id": 366,
+        "name": "Камбала с овощами в духовке",
         "link": "https://1000.menu//cooking/74161-kambala-s-ovoschami-v-duxovke",
-        "calories": "87 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "87 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "Р“СЂРёР±С‹ РІ СЃР»РёРІРѕС‡РЅРѕРј СЃРѕСѓСЃРµ РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ",
+        "id": 367,
+        "name": "Грибы в сливочном соусе в мультиварке",
         "link": "https://1000.menu//cooking/61850-griby-v-slivochnom-souse-v-multivarke",
-        "calories": "94 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "94 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РўСѓС€РµРЅР°СЏ РєРІР°С€РµРЅР°СЏ РєР°РїСѓСЃС‚Р° РЅР° СЃРєРѕРІРѕСЂРѕРґРµ",
+        "id": 368,
+        "name": "Тушеная квашеная капуста на сковороде",
         "link": "https://1000.menu//cooking/71930-tushenaya-kvashenaya-kapusta-na-skovorode",
-        "calories": "55 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "55 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "РЎСѓРї СЂР°РјРµРЅ СЃРѕ СЃРІРёРЅРёРЅРѕР№",
+        "id": 369,
+        "name": "Суп рамен со свининой",
         "link": "https://1000.menu//cooking/73839-sup-ramen-so-svininoi",
-        "calories": "100 РєРєР°Р»",
-        "cooking_time": "2 С‡ 50 РјРёРЅ "
+        "calories": "100 ккал",
+        "cooking_time": "2 ч 50 мин "
     },
     {
-        "name": "Р‘СѓР»РіСѓСЂ СЃ РѕРІРѕС‰Р°РјРё РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ",
+        "id": 370,
+        "name": "Булгур с овощами в мультиварке",
         "link": "https://1000.menu//cooking/63393-bulgur-s-ovoschami-v-multivarke",
-        "calories": "92 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "92 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "Р–Р°СЂРєРѕРµ РёР· РіРѕРІСЏРґРёРЅС‹ РІ РјСѓР»СЊС‚РёРІР°СЂРєРµ",
+        "id": 371,
+        "name": "Жаркое из говядины в мультиварке",
         "link": "https://1000.menu//cooking/69519-jarkoe-iz-govyadiny-v-multivarke",
-        "calories": "87 РєРєР°Р»",
-        "cooking_time": "2 С‡ "
+        "calories": "87 ккал",
+        "cooking_time": "2 ч "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ С„Р°СЃРѕР»СЊСЋ Рё РїРµРєРёРЅСЃРєРѕР№ РєР°РїСѓСЃС‚РѕР№",
+        "id": 372,
+        "name": "Салат с фасолью и пекинской капустой",
         "link": "https://1000.menu//cooking/37667-salat-s-fasolu-i-pekinskoi-kapustoi-i-ogurcom",
-        "calories": "63 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "63 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "Р¤РёР»Рµ РёРЅРґРµР№РєРё РІ СЃРѕРµРІРѕРј СЃРѕСѓСЃРµ РІ РґСѓС…РѕРІРєРµ СЃ Р°РїРµР»СЊСЃРёРЅР°РјРё",
+        "id": 373,
+        "name": "Филе индейки в соевом соусе в духовке с апельсинами",
         "link": "https://1000.menu//cooking/52152-file-indeiki-v-soevom-souse-v-duxovke-s-apelsinami",
-        "calories": "97 РєРєР°Р»",
-        "cooking_time": "1 С‡ 20 РјРёРЅ "
+        "calories": "97 ккал",
+        "cooking_time": "1 ч 20 мин "
     },
     {
-        "name": "РЁР°С€Р»С‹Рє РёР· РґРёРєРѕРіРѕ РєР°Р±Р°РЅР°",
+        "id": 374,
+        "name": "Шашлык из дикого кабана",
         "link": "https://1000.menu//cooking/19824-shashlyk-iz-kabana",
-        "calories": "62 РєРєР°Р»",
-        "cooking_time": "3 С‡ 30 РјРёРЅ "
+        "calories": "62 ккал",
+        "cooking_time": "3 ч 30 мин "
     },
     {
-        "name": "РњРёРЅС‚Р°Р№ РІ СЃРјРµС‚Р°РЅРµ СЃ СЃС‹СЂРѕРј РІ РґСѓС…РѕРІРєРµ",
+        "id": 375,
+        "name": "Минтай в сметане с сыром в духовке",
         "link": "https://1000.menu//cooking/62038-mintai-v-smetane-s-syrom-v-duxovke",
-        "calories": "81 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "81 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "РњСЏСЃРѕ СЃ СЃС‚СЂСѓС‡РєРѕРІРѕР№ С„Р°СЃРѕР»СЊСЋ РЅР° СЃРєРѕРІРѕСЂРѕРґРµ",
+        "id": 376,
+        "name": "Мясо с стручковой фасолью на сковороде",
         "link": "https://1000.menu//cooking/59349-myaso-s-struchkovoi-fasolu-na-skovorode",
-        "calories": "100 РєРєР°Р»",
-        "cooking_time": "2 С‡ 15 РјРёРЅ "
+        "calories": "100 ккал",
+        "cooking_time": "2 ч 15 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РўРѕСЃРєР°РЅСЃРєРёР№ СЃ РєСѓСЂРёРЅС‹Рј С„РёР»Рµ Рё РіСЂРёР±Р°РјРё",
+        "id": 377,
+        "name": "Салат Тосканский с куриным филе и грибами",
         "link": "https://1000.menu//cooking/2878-salat-kuritsa-gribj-sjr-toskanskii",
-        "calories": "97 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "97 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ Р‘СЂСѓРєР»РёРЅ СЃ РєСѓСЂРёС†РµР№ РєР»Р°СЃСЃРёС‡РµСЃРєРёР№",
+        "id": 378,
+        "name": "Салат Бруклин с курицей классический",
         "link": "https://1000.menu//cooking/63383-salat-bruklin-s-kuricei-ogurcami-i-brokkoli",
-        "calories": "86 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "86 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "РњРёРЅС‚Р°Р№ СЃ РіРѕСЂС‡РёС†РµР№ РІ РґСѓС…РѕРІРєРµ Р·Р°РїРµС‡РµРЅРЅС‹Р№",
+        "id": 379,
+        "name": "Минтай с горчицей в духовке запеченный",
         "link": "https://1000.menu//cooking/52243-mintai-v-gorchice-v-duxovke",
-        "calories": "96 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "96 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· СЃС‹СЂРѕР№ РјРѕСЂРєРѕРІРё СЃ РіСЂРµС†РєРёРјРё РѕСЂРµС…Р°РјРё Рё РјРµРґРѕРј",
+        "id": 380,
+        "name": "Салат из сырой моркови с грецкими орехами и медом",
         "link": "https://1000.menu//cooking/72285-salat-iz-syroi-morkovi-s-greckimi-orexami-i-medom",
-        "calories": "67 РєРєР°Р»",
-        "cooking_time": "20 РјРёРЅ "
+        "calories": "67 ккал",
+        "cooking_time": "20 мин "
     },
     {
-        "name": "РћРІРѕС‰Рё С‚СѓС€РµРЅС‹Рµ РІ СЃРјРµС‚Р°РЅРµ РІ РєР°Р·Р°РЅРµ",
+        "id": 381,
+        "name": "Овощи тушеные в сметане в казане",
         "link": "https://1000.menu//cooking/71182-ovoschi-tushenye-v-smetane-v-kazane",
-        "calories": "96 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "96 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РћРІРѕС‰Рё Рё РіСЂРёР±С‹ РЅР° РіСЂРёР»Рµ",
+        "id": 382,
+        "name": "Овощи и грибы на гриле",
         "link": "https://1000.menu//cooking/70924-ovoschi-i-griby-na-grile",
-        "calories": "63 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "63 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РРЅРґРµР№РєР° СЃ РіСЂРёР±Р°РјРё РІ СЃРјРµС‚Р°РЅРµ РІ РґСѓС…РѕРІРєРµ",
+        "id": 383,
+        "name": "Индейка с грибами в сметане в духовке",
         "link": "https://1000.menu//cooking/69868-indeika-s-shampinonami",
-        "calories": "84 РєРєР°Р»",
-        "cooking_time": "1 С‡ 10 РјРёРЅ "
+        "calories": "84 ккал",
+        "cooking_time": "1 ч 10 мин "
     },
     {
-        "name": "Р›Р°РіРјР°РЅ РёР· РёРЅРґРµР№РєРё СЃ РѕРІРѕС‰Р°РјРё Рё Р»Р°РїС€РѕР№",
+        "id": 384,
+        "name": "Лагман из индейки с овощами и лапшой",
         "link": "https://1000.menu//cooking/68013-lagman-iz-indeiki-s-ovoschami-i-lapshoi",
-        "calories": "99 РєРєР°Р»",
-        "cooking_time": "1 С‡ 30 РјРёРЅ "
+        "calories": "99 ккал",
+        "cooking_time": "1 ч 30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ РїРѕРјРёРґРѕСЂР°РјРё, РєСѓРєСѓСЂСѓР·РѕР№, Р¶Р°СЂРµРЅРѕР№ РєСѓСЂРёС†РµР№ Рё СЃРјРµС‚Р°РЅРѕР№",
+        "id": 385,
+        "name": "Салат с помидорами, кукурузой, жареной курицей и сметаной",
         "link": "https://1000.menu//cooking/65348-salat-s-pomidorami-kukuruzoi-jarenoi-kuricei-i-smetanoi",
-        "calories": "98 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "98 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РҐРѕР»РѕРґРЅС‹Р№ СЃРІРµРєРѕР»СЊРЅРёРє СЃ СЏР№С†РѕРј РЅР° РєРµС„РёСЂРµ",
+        "id": 386,
+        "name": "Холодный свекольник с яйцом на кефире",
         "link": "https://1000.menu//cooking/64800-xolodnyi-svekolnik-s-yaicom-na-kefire",
-        "calories": "37 РєРєР°Р»",
-        "cooking_time": "25 РјРёРЅ "
+        "calories": "37 ккал",
+        "cooking_time": "25 мин "
     },
     {
-        "name": "РћРІРѕС‰РЅРѕР№ РєСЂРµРј-СЃСѓРї СЃ РіСЂРёР±Р°РјРё Рё СЃР»РёРІРєР°РјРё",
+        "id": 387,
+        "name": "Овощной крем-суп с грибами и сливками",
         "link": "https://1000.menu//cooking/63358-ovoschnoi-krem-sup-s-gribami-i-slivkami",
-        "calories": "60 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "60 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· СЃС‹СЂРѕР№ СЃРІРµРєР»С‹ СЃ РјРѕСЂРєРѕРІСЊСЋ СЏР±Р»РѕРєР°РјРё Рё РѕСЂРµС…Р°РјРё",
+        "id": 388,
+        "name": "Салат из сырой свеклы с морковью яблоками и орехами",
         "link": "https://1000.menu//cooking/60767-salat-iz-syroi-svekly-s-morkovu-yablokami-i-orexami",
-        "calories": "98 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "98 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РџРµС‡РµРЅРѕС‡РЅС‹Р№ СЃР°Р»Р°С‚ СЃ С„Р°СЃРѕР»СЊСЋ Рё РєР°РїСѓСЃС‚РѕР№",
+        "id": 389,
+        "name": "Печеночный салат с фасолью и капустой",
         "link": "https://1000.menu//cooking/59649-pechenochnyi-salat-s-fasolu-i-kapustoi",
-        "calories": "83 РєРєР°Р»",
-        "cooking_time": "10 РјРёРЅ "
+        "calories": "83 ккал",
+        "cooking_time": "10 мин "
     },
     {
-        "name": "РџСЋСЂРµ РёР· СЏР±Р»РѕРє СЃ Р»РёРјРѕРЅРєРѕР№ РЅР° Р·РёРјСѓ Р±РµР· СЃС‚РµСЂРёР»РёР·Р°С†РёРё",
+        "id": 390,
+        "name": "Пюре из яблок с лимонкой на зиму без стерилизации",
         "link": "https://1000.menu//cooking/58601-pure-iz-yablok-s-limonkoi-na-zimu-bez-sterilizacii",
-        "calories": "63 РєРєР°Р»",
-        "cooking_time": "1 С‡ 25 РјРёРЅ "
+        "calories": "63 ккал",
+        "cooking_time": "1 ч 25 мин "
     },
     {
-        "name": "РџСЂРѕСЃС‚С‹Рµ  РґСЂР°РЅРёРєРё РѕР»Р°РґСЊРё РџРџ Р±РµР· РјСѓРєРё Рё РіР»СЋС‚РµРЅР°",
+        "id": 391,
+        "name": "Простые  драники оладьи ПП без муки и глютена",
         "link": "https://1000.menu//cooking/57308-prostye-zapechennye-draniki-oladi-bez-muki-i-glutena",
-        "calories": "94 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "94 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РџСЂРѕСЃС‚РѕР№ СЃР°Р»Р°С‚ РёР· С‡РµСЂРµРјС€Рё СЃРѕ СЃРјРµС‚Р°РЅРѕР№",
+        "id": 392,
+        "name": "Простой салат из черемши со сметаной",
         "link": "https://1000.menu//cooking/55840-prostoi-salat-iz-cheremshi-so-smetanoi",
-        "calories": "93 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "93 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РџР°СЃС‚Р° СЃ РєР°РїРµСЂСЃР°РјРё",
+        "id": 393,
+        "name": "Паста с каперсами",
         "link": "https://1000.menu//cooking/53315-pasta-s-kapersami",
-        "calories": "73 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "73 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РњР°РєР°СЂРѕРЅС‹ РІ СЃРѕСѓСЃРµ РЅР° РјРѕР»РѕРєРµ Рё СЃР»РёРІРѕС‡РЅРѕРј РјР°СЃР»Рµ СЃ СЃС‹СЂРѕРј",
+        "id": 394,
+        "name": "Макароны в соусе на молоке и сливочном масле с сыром",
         "link": "https://1000.menu//cooking/53243-makarony-v-souse-na-moloke-i-slivochnom-masle-s-syrom",
-        "calories": "53 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "53 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "РЎРїР°РіРµС‚С‚Рё СЃ С„СЂРёРєР°РґРµР»СЊРєР°РјРё РёР· РјСЏСЃРЅРѕРіРѕ С„Р°СЂС€Р°",
+        "id": 395,
+        "name": "Спагетти с фрикадельками из мясного фарша",
         "link": "https://1000.menu//cooking/52673-spagetti-s-frikadelkami-iz-myasnogo-farsha",
-        "calories": "88 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "88 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РџР°РЅРіР°СЃРёСѓСЃ РЅР° РіСЂРёР»СЊ СЃРєРѕРІРѕСЂРѕРґРµ СЃ Р¶Р°СЂРµРЅС‹РјРё РѕРІРѕС‰Р°РјРё",
+        "id": 396,
+        "name": "Пангасиус на гриль сковороде с жареными овощами",
         "link": "https://1000.menu//cooking/51647-pangasius-na-gril-skovorode-s-jarenymi-ovoshchami",
-        "calories": "97 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "97 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РђР№СЃ РєРѕС„Рµ РїРѕ РІСЊРµС‚РЅР°РјСЃРєРё",
+        "id": 397,
+        "name": "Айс кофе по вьетнамски",
         "link": "https://1000.menu//cooking/42094-ais-kofe-po-vetnamski",
-        "calories": "35 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "35 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РЎРІРµРєРѕР»СЊРЅС‹Р№ СЃР°Р»Р°С‚ СЃ РєСѓСЂРёРЅС‹Рј С„РёР»Рµ Рё С…СѓСЂРјРѕР№",
+        "id": 398,
+        "name": "Свекольный салат с куриным филе и хурмой",
         "link": "https://1000.menu//cooking/25987-salat-iz-kuricy-s-ovoschami-i-xurmoi",
-        "calories": "62 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "62 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ РёР· СЃРІРµР¶РµР№ СЃРІРµРєР»С‹ Рё СЏР±Р»РѕРє СЃ РіСЂРµС†РєРёРјРё РѕСЂРµС…Р°РјРё",
+        "id": 399,
+        "name": "Салат из свежей свеклы и яблок с грецкими орехами",
         "link": "https://1000.menu//cooking/13132-salat-iz-svejei-svekly-i-yablok",
-        "calories": "98 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "98 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РЎР°Р»Р°С‚ СЃ Р·РµР»РµРЅС‹Рј РіРѕСЂРѕС€РєРѕРј Рё СЃРѕР»РµРЅС‹РјРё РѕРіСѓСЂС†Р°РјРё",
+        "id": 400,
+        "name": "Салат с зеленым горошком и солеными огурцами",
         "link": "https://1000.menu//cooking/12631-salat-s-zelenym-goroshkom-i-solenymi-ogurcami",
-        "calories": "77 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "77 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РЎРІРµРєР»Р° РїРѕ-РєРѕСЂРµР№СЃРєРё РІР°СЂРµРЅР°СЏ",
+        "id": 401,
+        "name": "Свекла по-корейски вареная",
         "link": "https://1000.menu//cooking/10728-svekla-po-koreiski",
-        "calories": "93 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "93 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "РћРІРѕС‰РЅРѕРµ СЂР°РіСѓ СЃ РіСЂРёР±Р°РјРё Р±РµР· РєР°СЂС‚РѕС€РєРё Рё РјСЏСЃР°",
+        "id": 402,
+        "name": "Овощное рагу с грибами без картошки и мяса",
         "link": "https://1000.menu//cooking/66703-ovoschnoe-ragu-s-gribami-bez-kartoshki-i-myasa",
-        "calories": "90 РєРєР°Р»",
-        "cooking_time": "50 РјРёРЅ "
+        "calories": "90 ккал",
+        "cooking_time": "50 мин "
     },
     {
-        "name": "РџРѕСЃС‚РЅС‹Р№ СЃСѓРї СЃ РІРµС€РµРЅРєР°РјРё, РѕРІРѕС‰Р°РјРё Рё Р·РµР»РµРЅСЊСЋ",
+        "id": 403,
+        "name": "Постный суп с вешенками, овощами и зеленью",
         "link": "https://1000.menu//cooking/63042-postnyi-sup-s-veshenkami-ovoschami-i-zelenu",
-        "calories": "38 РєРєР°Р»",
-        "cooking_time": "30 РјРёРЅ "
+        "calories": "38 ккал",
+        "cooking_time": "30 мин "
     },
     {
-        "name": "РџСЋСЂРµ РёР· Р±СЂРѕРєРєРѕР»Рё СЃ РјРѕСЂРєРѕРІСЊСЋ Рё СЃР»РёРІРєР°РјРё",
+        "id": 404,
+        "name": "Пюре из брокколи с морковью и сливками",
         "link": "https://1000.menu//cooking/58517-pure-iz-brokkoli-s-morkovu-i-slivkami",
-        "calories": "89 РєРєР°Р»",
-        "cooking_time": "55 РјРёРЅ "
+        "calories": "89 ккал",
+        "cooking_time": "55 мин "
     },
     {
-        "name": "РЇР±Р»РѕРєРё СЃ СЃР°С…Р°СЂРѕРј Рё РІРѕРґРѕР№ РІ РґСѓС…РѕРІРєРµ",
+        "id": 405,
+        "name": "Яблоки с сахаром и водой в духовке",
         "link": "https://1000.menu//cooking/58048-yabloki-s-saxarom-i-vodoi-v-duxovke",
-        "calories": "60 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "60 ккал",
+        "cooking_time": "1 ч "
     },
     {
-        "name": "РћРІРѕС‰РЅС‹Рµ РјРёРЅРё Р·Р°РїРµРєР°РЅРєРё РёР· РєР°Р±Р°С‡РєРѕРІ СЃ РјРѕСЂРєРѕРІСЊСЋ",
+        "id": 406,
+        "name": "Овощные мини запеканки из кабачков с морковью",
         "link": "https://1000.menu//cooking/56979-ovoschnye-mini-zapekanki-iz-kabachkov-s-morkovu",
-        "calories": "70 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "70 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "РћР»Р°РґСЊРё РёР· РјРѕР»РѕРґС‹С… РєР°Р±Р°С‡РєРѕРІ СЃ С‡РµСЃРЅРѕРєРѕРј Рё СѓРєСЂРѕРїРѕРј",
+        "id": 407,
+        "name": "Оладьи из молодых кабачков с чесноком и укропом",
         "link": "https://1000.menu//cooking/56182-oladi-iz-molodyx-kabachkov-s-chesnokom-i-ukropom",
-        "calories": "88 РєРєР°Р»",
-        "cooking_time": "45 РјРёРЅ "
+        "calories": "88 ккал",
+        "cooking_time": "45 мин "
     },
     {
-        "name": "РњРѕР»РѕРґС‹Рµ РєР°Р±Р°С‡РєРё СЃ Р»СѓРєРѕРј Рё РїРµС‚СЂСѓС€РєРѕР№ СЃРѕ СЃРјРµС‚Р°РЅРѕР№",
+        "id": 408,
+        "name": "Молодые кабачки с луком и петрушкой со сметаной",
         "link": "https://1000.menu//cooking/53986-molodye-kabachki-s-lukom-i-petrushkoi-so-smetanoi",
-        "calories": "85 РєРєР°Р»",
-        "cooking_time": "15 РјРёРЅ "
+        "calories": "85 ккал",
+        "cooking_time": "15 мин "
     },
     {
-        "name": "РўСѓС€РµРЅР°СЏ С‚РµР»СЏС‚РёРЅР° СЃ Р±Р°РєР»Р°Р¶Р°РЅР°РјРё Рё РїРѕРјРёРґРѕСЂР°РјРё",
+        "id": 409,
+        "name": "Тушеная телятина с баклажанами и помидорами",
         "link": "https://1000.menu//cooking/13935-tushenaya-telyatina-s-baklajanami-i-pomidorami",
-        "calories": "94 РєРєР°Р»",
-        "cooking_time": "40 РјРёРЅ "
+        "calories": "94 ккал",
+        "cooking_time": "40 мин "
     },
     {
-        "name": "Р’РёРЅРµРіСЂРµС‚ СЃ РєРѕРЅСЃРµСЂРІРёСЂРѕРІР°РЅРЅРѕР№ С„Р°СЃРѕР»СЊСЋ Рё РєРІР°С€РµРЅРѕР№ РєР°РїСѓСЃС‚РѕР№",
+        "id": 410,
+        "name": "Винегрет с консервированной фасолью и квашеной капустой",
         "link": "https://1000.menu//cooking/13508-vinegret-s-konservirovannoi-fasolu-i-kvashenoi-kapustoi",
-        "calories": "84 РєРєР°Р»",
-        "cooking_time": "1 С‡ "
+        "calories": "84 ккал",
+        "cooking_time": "1 ч "
     }
 ]

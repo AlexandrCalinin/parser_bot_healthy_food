@@ -24,6 +24,7 @@ def get_receptions_from_pages() -> None:
     """
     for names, pages_quantities in rubrics.items():
         list_result_search_dicts = list()
+        counter = 0
         for index in range(1, pages_quantities + 1):
             url = f"https://1000.menu/catalog/{names}/" + f"{index}"
             response = requests.get(url, headers=headers)
@@ -33,6 +34,8 @@ def get_receptions_from_pages() -> None:
 
             for item in find_all_hrefs_for_recipes:
                 try:
+                    counter += 1
+                    id = counter
                     href = "https://1000.menu/" + item.find(class_="photo is-relative").find("a").get("href")
                     dish_name = item.find(class_="photo is-relative").find("a").find("img").get("alt")
                     calories = item.find(class_="info-preview")\
@@ -41,11 +44,11 @@ def get_receptions_from_pages() -> None:
                     cooking_time = item.find(class_="info-preview")\
                         .find(class_="icons level is-mobile font-small my-0 pt-2").find(class_="level-right")\
                         .find("span").text
-                    list_result_search_dicts.append({"name": dish_name, "link": href,
+                    list_result_search_dicts.append({"id": id, "name": dish_name, "link": href,
                                                      "calories": calories, "cooking_time": cooking_time})
                 except AttributeError:
-                    pass
-        with open(f"../telebot/results/result_{names}.json", "w") as file:
+                    counter -= 1
+        with open(f"../telebot/database/results/result_{names}.json", "w") as file:
             json.dump(list_result_search_dicts, file, indent=4, ensure_ascii=False)
 
 
