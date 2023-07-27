@@ -1,8 +1,5 @@
 import json
 import os
-from pathlib import Path
-
-import requests
 from peewee import *
 
 db = SqliteDatabase(os.path.join('database', 'bot_data.db'))
@@ -45,7 +42,6 @@ class Recipies(BaseModel):
     type = CharField()
     calories = IntegerField()
     time = IntegerField()
-    image = CharField()
     url = CharField()
 
 
@@ -64,12 +60,28 @@ def data_for_db() -> dict:
     Function which open files and collect info about recipies and send it in a dict
     :return - dict
     """
-    directory = "C:/parser_bot_healthy_food/scripts_for_scraping/results"
-    for files in Path(directory).glob("*json"):
-        with open(files, 'r', encoding='utf-8') as file:
-            file_dict = json.loads(file.read())
-            for name, url in file_dict.items():
-                pass
+    files_list = ["result_lyogkii-ujin.json", "result_pp-deserty.json", "result_pp-obed.json", "result_pp-zavtrak.json"]
+    directory = "/home/alexandr/PycharmProjects/parser_bot_healthy_food/telebot/database/results/"
+    for file_name in files_list:
+        with open(f"{directory}{file_name}", 'r', encoding='utf-8') as file:
+            list_of_dicts = json.loads(file.read())
+            for elements in list_of_dicts:
+                if file_name == "result_lyogkii-ujin.json":
+                    dish_type = "Ужин"
+                elif file_name == "result_pp-deserty.json":
+                    dish_type = "Десерты"
+                elif file_name == "result_pp-obed.json":
+                    dish_type = "Обед"
+                else:
+                    dish_type = "Завтрак"
+                with db.atomic():
+                    Recipies.get_or_create(
+                        title=elements["name"],
+                        url=elements["link"],
+                        type=dish_type,
+                        calories=elements["calories"],
+                        time=elements["cooking_time"]
+                    )
 
 
 print(data_for_db())

@@ -48,12 +48,12 @@ def main() -> None:
     Function which starts bot, start logs adn create a db
     :return: None
     """
-    logger.add('bot.log', format='{time} {level} {message}', level='DEBUG')
-    logger.info('Бот вышел в онлайн...')
-    with db:
-        db.create_tables([User, Breakfast, Lunch, Dinner, Desserts, Favorites])
     executor.start_polling(dp)
 
 
 if __name__ == "__main__":
+    logger.add('bot.log', format='{time} {level} {message}', level='DEBUG')
+    logger.info('Бот вышел в онлайн...')
+    with db:
+        db.create_tables([User, Recipies, Favorites])
     main()
