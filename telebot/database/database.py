@@ -1,7 +1,7 @@
 import json
-import os
-from peewee import *
 import sqlite3
+from aiogram.types import Message
+from loguru import logger
 
 con = sqlite3.connect("bot_data.db")
 cursor = con.cursor()
@@ -18,7 +18,7 @@ class User:
     """
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS user
-        (id INTEGER PRIMARY KEY UNIQUE,
+        (
         name TEXT NOT NULL,
         chat_id TEXT NOT NULL,
         user_id TEXT NOT NULL
@@ -104,6 +104,29 @@ class Favorites:
     """)
 
 
+class Create:
+    """
+    Model to create recipies
+
+    Attrs:
+        title - dish name
+        calories - calories quantity
+        time - time spending on cooking
+        type - part of day meal (breakfast, lunch, dinner, desserts)
+    """
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS created(
+        id INTEGER PRIMARY KEY UNIQUE,
+        title TEXT NOT NULL,
+        type TEXT NOT NULL,
+        calories INTEGER NOT NULL,
+        time INTEGER NOT NULL,
+        user INTEGER,
+        FOREIGN KEY (user) REFERENCES user
+        )
+    """)
+
+
 breakfast_list = list()
 dinner_list = list()
 lunch_list = list()
@@ -147,3 +170,106 @@ def data_for_db() -> None:
     cursor.executemany("INSERT INTO desserts VALUES (?, ?, ?, ?, ?, ?);", desserts_list)
     con.commit()
     cursor.close()
+
+
+@logger.catch()
+def get_data_from_breakfast_table(message: Message, number: int) -> list:
+    """
+    Function which collect data from breakfast table
+    :params
+        message - object of Message type
+        number - quantity of data to collect
+    :return
+        list - queryset
+    """
+    logger.info(f"Пользователь {message.from_user.full_name} "
+                f"перешел в функцию {get_data_from_breakfast_table.__name__}")
+    cursor.execute("SELECT * FROM breakfast")
+    queryset = cursor.fetchmany(number)
+    return queryset
+
+
+@logger.catch()
+def get_data_from_lunch_table(message: Message, number: int) -> list:
+    """
+    Function which collect data from lunch table
+    :params
+        message - object of Message type
+        number - quantity of data to collect
+    :return
+        list - queryset
+    """
+    logger.info(f"Пользователь {message.from_user.full_name} "
+                f"перешел в функцию {get_data_from_lunch_table.__name__}")
+    cursor.execute("SELECT * FROM lunch")
+    queryset = cursor.fetchmany(number)
+    return queryset
+
+
+@logger.catch()
+def get_data_from_dinner_table(message: Message, number: int) -> list:
+    """
+    Function which collect data from breakfast table
+    :params
+        message - object of Message type
+        number - quantity of data to collect
+    :return
+        list - queryset
+    """
+    logger.info(f"Пользователь {message.from_user.full_name} "
+                f"перешел в функцию {get_data_from_dinner_table.__name__}")
+    cursor.execute("SELECT * FROM dinner")
+    queryset = cursor.fetchmany(number)
+    return queryset
+
+
+@logger.catch()
+def get_data_from_desserts_table(message: Message, number: int) -> list:
+    """
+    Function which collect data from desserts table
+    :params
+        message - object of Message type
+        number - quantity of data to collect
+    :return
+        list - queryset
+    """
+    logger.info(f"Пользователь {message.from_user.full_name} "
+                f"перешел в функцию {get_data_from_dinner_table.__name__}")
+    cursor.execute("SELECT * FROM desserts")
+    queryset = cursor.fetchmany(number)
+    return queryset
+
+
+@logger.catch()
+def create_user(message: Message):
+    """
+    Function to create a new user
+    :params
+        message - object of Message type
+    :return
+        none
+    """
+    logger.info(f"Пользователь {message.from_user.full_name} "
+                f"перешел в функцию {create_user.__name__}")
+    user_id = message.from_user.id
+    user_name = message.from_user.full_name
+    last_queryset = cursor.execute('SELECT * FROM user ORDER BY id DESC LIMIT 1').fetchone()
+    note_id = int(last_queryset[0]) + 1
+    info = cursor.execute('SELECT * FROM user WHERE user_id=?', (user_id, )).fetchone()
+
+    if info is None:
+        cursor.execute("INSERT INTO user VALUES(?, ?, ?, ?)", (note_id, user_name, user_id, user_id))
+        con.commit()
+
+
+@logger.catch()
+def create_recipe(message: Message, data_to_create_recipe: dict) -> None:
+    """
+    Function to create a recipe
+    :params
+        message - object of Message type
+    :return
+        none
+    """
+    logger.info(f"Пользователь {message.from_user.full_name} "
+                f"перешел в функцию {create_recipe.__name__}")
