@@ -122,6 +122,7 @@ class Create:
         calories INTEGER NOT NULL,
         time INTEGER NOT NULL,
         user INTEGER,
+        photo TEXT NOT NULL,
         FOREIGN KEY (user) REFERENCES user
         )
     """)
@@ -273,3 +274,6 @@ def create_recipe(message: Message, data_to_create_recipe: dict) -> None:
     """
     logger.info(f"Пользователь {message.from_user.full_name} "
                 f"перешел в функцию {create_recipe.__name__}")
+
+
+create = Create
