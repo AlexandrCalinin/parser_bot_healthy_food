@@ -6,12 +6,12 @@ from config import BOT_TOKEN, DEFAULT_COMMANDS
 from keyboards.start_keyboard import start_keyboard
 from loguru import logger
 from database.database import get_data_from_breakfast_table, get_data_from_desserts_table, get_data_from_lunch_table, \
-    get_data_from_dinner_table, create_user
+    get_data_from_dinner_table, create_user, send_data_from_recipe_to_database
 from states import storage, StatesForCreate
-
 
 bot = Bot(BOT_TOKEN, parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot, storage=storage)
+alphabet = set('абвгдеёжзийклмнопрстуфхцчшщъыьэюя')
 
 
 @logger.catch()
@@ -24,7 +24,7 @@ async def start(message: types.Message):
     """
     create_user(message)
     logger.info(f"Пользователь {message.from_user.full_name} перешел в команду {start.__name__}")
-    await message.answer(f"Здравствуй, {message.from_user.full_name}! Я - бот для поиска рецептов. "
+    await message.answer(f"Здравствуй, {message.from_user.full_name}! 🙋\nЯ - бот для поиска рецептов. 🔥\n"
                          "Выберите <b>одну</b> из команд, чтобы начать работу.", reply_markup=start_keyboard())
 
 
@@ -39,7 +39,7 @@ async def help_info(message: types.Message):
     logger.info(f"Пользователь {message.from_user.full_name} перешел в команду help")
     string = ""
     for name, description in DEFAULT_COMMANDS:
-        string += f"<b>{name}</b> - {description}\n"
+        string += f"➡️<b>{name}</b> - {description}\n"
     await message.answer(string)
 
 
@@ -55,8 +55,8 @@ async def breakfast(message: types.Message) -> None:
     queryset = get_data_from_breakfast_table(message=message, number=15)
 
     for items in queryset:
-        message_structure = f"{hlink(items[1], items[5])}\nid: {items[0]}\n<b>Блюдо на</b>: " \
-                           f"{items[2]}\n<b>Каллории</b>: {items[3]}\n<b>Время приготовления</b>: {items[4]}"
+        message_structure = f"{hlink(items[1], items[5])} 😱\n🆔 id: {items[0]}\n<b>🍽 Блюдо на</b>: " \
+                            f"{items[2]}\n<b>🍔 Каллории</b>: {items[3]}\n<b>⏳ Время приготовления</b>: {items[4]}"
         await message.answer(message_structure)
 
 
@@ -72,8 +72,8 @@ async def dinner(message: types.Message) -> None:
     queryset = get_data_from_dinner_table(message=message, number=15)
 
     for items in queryset:
-        message_structure = f"{hlink(items[1], items[5])}\nid: {items[0]}\n<b>Блюдо на</b>: " \
-                           f"{items[2]}\n<b>Каллории</b>: {items[3]}\n<b>Время приготовления</b>: {items[4]}"
+        message_structure = f"{hlink(items[1], items[5])} 😱\n🆔 id: {items[0]}\n<b>🍽 Блюдо на</b>: " \
+                            f"{items[2]}\n<b>🍔 Каллории</b>: {items[3]}\n<b>⏳ Время приготовления</b>: {items[4]}"
         await message.answer(message_structure)
 
 
@@ -89,8 +89,8 @@ async def lunch(message: types.Message) -> None:
     queryset = get_data_from_lunch_table(message=message, number=15)
 
     for items in queryset:
-        message_structure = f"{hlink(items[1], items[5])}\nid: {items[0]}\n<b>Блюдо на</b>: " \
-                           f"{items[2]}\n<b>Каллории</b>: {items[3]}\n<b>Время приготовления</b>: {items[4]}"
+        message_structure = f"{hlink(items[1], items[5])} 😱\n🆔 id: {items[0]}\n<b>🍽 Блюдо на</b>: " \
+                            f"{items[2]}\n<b>🍔 Каллории</b>: {items[3]}\n<b>⏳ Время приготовления</b>: {items[4]}"
         await message.answer(message_structure)
 
 
@@ -106,13 +106,9 @@ async def desserts(message: types.Message) -> None:
     queryset = get_data_from_desserts_table(message=message, number=15)
 
     for items in queryset:
-        message_structure = f"{hlink(items[1], items[5])}\nid: {items[0]}\n<b>Блюдо на</b>: " \
-                           f"{items[2]}\n<b>Каллории</b>: {items[3]}\n<b>Время приготовления</b>: {items[4]}"
+        message_structure = f"{hlink(items[1], items[5])} 😱\n🆔 id: {items[0]}\n<b>🍽 Блюдо на</b>: " \
+                            f"{items[2]}\n<b>🍔 Каллории</b>: {items[3]}\n<b>⏳ Время приготовления</b>: {items[4]}"
         await message.answer(message_structure)
-
-
-dict_for_created_recipe = dict()
-alphabet = set('абвгдеёжзийклмнопрстуфхцчшщъыьэюя')
 
 
 @logger.catch()
@@ -127,7 +123,7 @@ async def create_recipe(message: types.Message) -> None:
     """
     await StatesForCreate.title.set()
     logger.info(f"Пользователь {message.from_user.full_name} перешел в команду {create_recipe.__name__}")
-    await message.answer("Приступим к созданию рецепта!\nВведите название блюда:")
+    await message.answer("Приступим к созданию рецепта! 🆕\nВведите название блюда 🍽:")
 
 
 @logger.catch()
@@ -147,13 +143,11 @@ async def set_title(message: types.Message, state: FSMContext) -> None:
         async with state.proxy() as data:
             data["title"] = message.text
 
-        dict_for_created_recipe["title"] = message.text
-        await message.answer("Название принято, идем дальше. Из какого рациона дня блюдо? "
+        await message.answer("✅ Название принято, идем дальше. Из какого рациона дня блюдо?\n"
                              "<b>(завтрак, обед, ужин, десерты)</b>")
     else:
-        dict_for_created_recipe.clear()
-        await message.answer("Название должно содержать только буквы! Попробуйте еще раз "
-                             "(выберите команду <b>заново</b>)")
+        await message.answer("Название должно содержать только буквы! ❌\n"
+                             "Попробуйте еще раз (выберите команду <b>заново</b>)! 🔄")
 
 
 @logger.catch()
@@ -174,13 +168,11 @@ async def set_type(message: types.Message, state: FSMContext) -> None:
         async with state.proxy() as data:
             data["type"] = message.text
 
-        dict_for_created_recipe["type"] = message.text
-        await message.answer("Есть, идем дальше. Сколько времени требуется для приготовления блюда? "
-                             "<b>(количество дней, если требуется:часов:минут)</b>")
+        await message.answer("✅ Есть, идем дальше. Сколько времени требуется для приготовления блюда?\n"
+                             "<b>(Пример: 3 д 2 ч 1 мин)</b>")
     else:
-        dict_for_created_recipe.clear()
-        await message.answer("Тип рациона должен содержать только буквы! Попробуйте еще раз "
-                             "(выберите команду <b>заново</b>)")
+        await message.answer("Тип рациона должен содержать только буквы! ❌\n"
+                             "Воспользуйтесь примером и попробуйте еще раз (выберите команду <b>заново</b>)! 🔄")
 
 
 @logger.catch()
@@ -195,25 +187,89 @@ async def set_time(message: types.Message, state: FSMContext) -> None:
     """
     await StatesForCreate.calories.set()
     logger.info(f"Пользователь {message.from_user.full_name} перешел в команду {set_time.__name__}")
-    split_message = message.text.split(":")
-    string_message = ""
 
-    for string in split_message:
-        string_message += string
-
-    if string_message.isdigit():
+    if message.text.replace(" ", "").isalnum():
 
         async with state.proxy() as data:
             data["time"] = message.text
 
-        dict_for_created_recipe["time"] = string_message
-        StatesForCreate.calories.set()
-        await message.answer("Время зафиксировано. Сколько каллорий весит блюдо? "
-                             "<b>(число)</b>")
+        await message.answer("✅ Время зафиксировано. Сколько каллорий весит блюдо?\n"
+                             "<b>(Пример: 123 ккал)</b>")
     else:
-        dict_for_created_recipe.clear()
-        await message.answer("Количество затраченного времени на приготовление должно содержать только цифры! "
-                             "Попробуйте еще раз (выберите команду <b>заново</b>)")
+        await message.answer("Количество затраченного времени должно содержать только цифры и буквы! ❌\n"
+                             "Воспользуйтесь примером и попробуйте еще раз (выберите команду <b>заново</b>)! 🔄")
+
+
+@logger.catch()
+@dp.message_handler(state=StatesForCreate.calories)
+async def set_calories(message: types.Message, state: FSMContext) -> None:
+    """
+    Set calories for created recipe
+    :params
+        message - object of Message class
+    :return
+        none
+    """
+    await StatesForCreate.description.set()
+    logger.info(f"Пользователь {message.from_user.full_name} перешел в команду {set_calories.__name__}")
+
+    if message.text.replace(" ", "").isalnum():
+
+        async with state.proxy() as data:
+            data["calories"] = message.text
+
+        await message.answer("Эх, постоянная борьба с каллориями... 😔\n"
+                             "⏭ Опишите вкратце этапы приготовления. \n"
+                             "Пример: (1. Разбить яйцо. 2. Добавить муку ...)")
+    else:
+        await message.answer("Количество каллорий должно содержать только буквы и цифры. ❌\n "
+                             "Воспользуйтесь примером и попробуйте еще раз (выберите команду <b>заново</b>)! 🔄")
+
+
+@logger.catch()
+@dp.message_handler(state=StatesForCreate.description)
+async def set_description(message: types.Message, state: FSMContext) -> None:
+    """
+    Set description for created recipe
+    :params
+        message - object of Message class
+    :return
+        none
+    """
+    await StatesForCreate.image.set()
+    logger.info(f"Пользователь {message.from_user.full_name} перешел в команду {set_photo.__name__}")
+
+    async with state.proxy() as data:
+        data["description"] = message.text
+
+    await message.answer("✅ Принято, последний шаг!\n"
+                         "Пришлите ссылки на одну или несколько фотографий из интернета 🖼 "
+                         "для лучшего отображения рецепта.\n"
+                         "Пример: <b>ссылка, ссылка</b>")
+
+
+@logger.catch()
+@dp.message_handler(state=StatesForCreate.image)
+async def set_photo(message: types.Message, state: FSMContext) -> None:
+    """
+    Set calories for created recipe
+    :params
+        message - object of Message class
+    :return
+        none
+    """
+    logger.info(f"Пользователь {message.from_user.full_name} перешел в команду {set_photo.__name__}")
+
+    async with state.proxy() as data:
+        data["photo"] = message.text
+        send_data_from_recipe_to_database(message=message, title=data['title'], type_meal=data['type'],
+                                          calories=data['calories'],
+                                          time=data['time'], description=data['description'], photo=data['photo'])
+        await message.answer(f"{hlink(data['title'], data['photo'])}😱\n"
+                             f"<b>🍽 Блюдо на</b>: {data['type']}\n"
+                             f"<b>🍔 Каллории</b>: {data['calories']}\n"
+                             f"<b>⏳ Время приготовления</b>: {data['time']}\n"
+                             f"<b>Описание</b>: {data['description']}")
 
 
 def main() -> None:

@@ -3,7 +3,7 @@ import sqlite3
 from aiogram.types import Message
 from loguru import logger
 
-con = sqlite3.connect("bot_data.db")
+con = sqlite3.connect("../database.db")
 cursor = con.cursor()
 
 
@@ -13,17 +13,16 @@ class User:
 
     Attrs:
         name - Username
-        chat_id - chat id
         user _id - user id
     """
     cursor.execute("""
-        CREATE TABLE IF NOT EXISTS user
-        (
+        CREATE TABLE IF NOT EXISTS user(
+        id INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,
         name TEXT NOT NULL,
-        chat_id TEXT NOT NULL,
         user_id TEXT NOT NULL
         )
     """)
+    con.commit()
 
 
 class Recipies:
@@ -39,7 +38,7 @@ class Recipies:
     """
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS breakfast (
-        id INTEGER PRIMARY KEY UNIQUE,
+        id INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,
         title TEXT NOT NULL,
         type TEXT NOT NULL,
         calories TEXT NOT NULL,
@@ -49,7 +48,7 @@ class Recipies:
     """)
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS lunch (
-        id INTEGER PRIMARY KEY UNIQUE,
+        id INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,
         title TEXT NOT NULL,
         type TEXT NOT NULL,
         calories TEXT NOT NULL,
@@ -59,7 +58,7 @@ class Recipies:
     """)
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS dinner (
-        id INTEGER PRIMARY KEY UNIQUE,
+        id INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,
         title TEXT NOT NULL,
         type TEXT NOT NULL,
         calories TEXT NOT NULL,
@@ -68,15 +67,16 @@ class Recipies:
         )
     """)
     cursor.execute("""
-            CREATE TABLE IF NOT EXISTS desserts (
-            id INTEGER PRIMARY KEY UNIQUE,
-            title TEXT NOT NULL,
-            type TEXT NOT NULL,
-            calories TEXT NOT NULL,
-            time TEXT NOT NULL,
-            url TEXT NOT NULL
-            )
-        """)
+        CREATE TABLE IF NOT EXISTS desserts (
+        id INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,
+        title TEXT NOT NULL,
+        type TEXT NOT NULL,
+        calories TEXT NOT NULL,
+        time TEXT NOT NULL,
+        url TEXT NOT NULL
+        )
+    """)
+    con.commit()
 
 
 class Favorites:
@@ -92,7 +92,7 @@ class Favorites:
     """
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS favorites(
-        id INTEGER PRIMARY KEY UNIQUE,
+        id INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,
         title TEXT NOT NULL,
         type TEXT NOT NULL,
         calories INTEGER NOT NULL,
@@ -102,6 +102,7 @@ class Favorites:
         FOREIGN KEY (user) REFERENCES user
         )
     """)
+    con.commit()
 
 
 class Create:
@@ -116,16 +117,18 @@ class Create:
     """
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS created(
-        id INTEGER PRIMARY KEY UNIQUE,
+        id INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,
         title TEXT NOT NULL,
         type TEXT NOT NULL,
-        calories INTEGER NOT NULL,
-        time INTEGER NOT NULL,
-        user INTEGER,
+        calories TEXT NOT NULL,
+        time TEXT NOT NULL,
+        description TEXT NOT NULL,
         photo TEXT NOT NULL,
+        user INTEGER,
         FOREIGN KEY (user) REFERENCES user
         )
     """)
+    con.commit()
 
 
 breakfast_list = list()
@@ -170,7 +173,6 @@ def data_for_db() -> None:
     cursor.executemany("INSERT INTO dinner VALUES (?, ?, ?, ?, ?, ?);", dinner_list)
     cursor.executemany("INSERT INTO desserts VALUES (?, ?, ?, ?, ?, ?);", desserts_list)
     con.commit()
-    cursor.close()
 
 
 @logger.catch()
@@ -254,17 +256,15 @@ def create_user(message: Message):
                 f"перешел в функцию {create_user.__name__}")
     user_id = message.from_user.id
     user_name = message.from_user.full_name
-    last_queryset = cursor.execute('SELECT * FROM user ORDER BY id DESC LIMIT 1').fetchone()
-    note_id = int(last_queryset[0]) + 1
-    info = cursor.execute('SELECT * FROM user WHERE user_id=?', (user_id, )).fetchone()
-
+    info = cursor.execute('SELECT * FROM user WHERE user_id=?', (user_id,)).fetchone()
     if info is None:
-        cursor.execute("INSERT INTO user VALUES(?, ?, ?, ?)", (note_id, user_name, user_id, user_id))
+        cursor.execute("INSERT INTO user VALUES(name, user_id)", (user_name, user_id))
         con.commit()
 
 
 @logger.catch()
-def create_recipe(message: Message, data_to_create_recipe: dict) -> None:
+def send_data_from_recipe_to_database(message: Message, title: str, type_meal: str, calories: str, time: str,
+                                      photo: list, description: str) -> None:
     """
     Function to create a recipe
     :params
@@ -273,7 +273,9 @@ def create_recipe(message: Message, data_to_create_recipe: dict) -> None:
         none
     """
     logger.info(f"Пользователь {message.from_user.full_name} "
-                f"перешел в функцию {create_recipe.__name__}")
-
-
-create = Create
+                f"перешел в функцию {send_data_from_recipe_to_database.__name__}")
+    user_id = cursor.execute('SELECT * FROM user WHERE user_id=?', (message.from_user.id,)).fetchone()
+    primary_user_key = user_id['id']
+    print(primary_user_key)
+    cursor.execute("INSERT INTO created VALUES (?, ?, ?, ?, ?, ?, ?, ?)", ())
+    # con.commit()

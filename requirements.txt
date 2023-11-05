@@ -1,0 +1,7 @@
+aiogram==2.25.1
+beautifulsoup4==4.12.2
+loguru==0.7.0
+lxml==4.9.3
+peewee==3.16.2
+python-dotenv==1.0.0
+requests==2.31.0

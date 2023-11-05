@@ -11,3 +11,4 @@ class StatesForCreate(StatesGroup):
     time = State()
     calories = State()
     image = State()
+    description = State()
