@@ -8,5 +8,5 @@ def start_keyboard() -> types.ReplyKeyboardMarkup:
     :return: ReplyKeyboardMarkup
     """
     start_buttons = [command[0] for command in DEFAULT_COMMANDS]
-    keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True, one_time_keyboard=True)
+    keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True, one_time_keyboard=False)
     return keyboard.add(*start_buttons)

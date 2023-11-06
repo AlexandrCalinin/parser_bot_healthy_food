@@ -1,3 +1,5 @@
+import os.path
+
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.dispatcher import FSMContext
 from aiogram.utils.markdown import hlink
@@ -6,7 +8,7 @@ from config import BOT_TOKEN, DEFAULT_COMMANDS
 from keyboards.start_keyboard import start_keyboard
 from loguru import logger
 from database.database import get_data_from_breakfast_table, get_data_from_desserts_table, get_data_from_lunch_table, \
-    get_data_from_dinner_table, create_user, send_data_from_recipe_to_database
+    get_data_from_dinner_table, create_user, send_data_from_recipe_to_database, get_created_history
 from states import storage, StatesForCreate
 
 bot = Bot(BOT_TOKEN, parse_mode=types.ParseMode.HTML)
@@ -133,6 +135,7 @@ async def set_title(message: types.Message, state: FSMContext) -> None:
     Set type for created recipe
     :params
         message - object of Message class
+        state - object of FSM
     :return
         none
     """
@@ -157,6 +160,7 @@ async def set_type(message: types.Message, state: FSMContext) -> None:
     Set type for created recipe
     :params
         message - object of Message class
+        state - object of FSM
     :return
         none
     """
@@ -182,6 +186,7 @@ async def set_time(message: types.Message, state: FSMContext) -> None:
     Set time for created recipe
     :params
         message - object of Message class
+        state - object of FSM
     :return
         none
     """
@@ -207,6 +212,7 @@ async def set_calories(message: types.Message, state: FSMContext) -> None:
     Set calories for created recipe
     :params
         message - object of Message class
+        state - object of FSM
     :return
         none
     """
@@ -233,6 +239,7 @@ async def set_description(message: types.Message, state: FSMContext) -> None:
     Set description for created recipe
     :params
         message - object of Message class
+        state - object of FSM
     :return
         none
     """
@@ -243,33 +250,64 @@ async def set_description(message: types.Message, state: FSMContext) -> None:
         data["description"] = message.text
 
     await message.answer("✅ Принято, последний шаг!\n"
-                         "Пришлите ссылки на одну или несколько фотографий из интернета 🖼 "
-                         "для лучшего отображения рецепта.\n"
-                         "Пример: <b>ссылка, ссылка</b>")
+                         "Пришлите фотографию для лучшего отображения 🖼")
 
 
 @logger.catch()
-@dp.message_handler(state=StatesForCreate.image)
+@dp.message_handler(state=StatesForCreate.image, content_types=['photo'])
 async def set_photo(message: types.Message, state: FSMContext) -> None:
     """
     Set calories for created recipe
     :params
         message - object of Message class
+        state - object of FSM
     :return
         none
     """
     logger.info(f"Пользователь {message.from_user.full_name} перешел в команду {set_photo.__name__}")
 
     async with state.proxy() as data:
-        data["photo"] = message.text
+        photo_url = os.path.abspath(
+            os.path.join('images', f"{data['title']}_{message.from_user.id}.png"))
+        await message.photo[-1].download(destination_file=photo_url)
         send_data_from_recipe_to_database(message=message, title=data['title'], type_meal=data['type'],
                                           calories=data['calories'],
-                                          time=data['time'], description=data['description'], photo=data['photo'])
-        await message.answer(f"{hlink(data['title'], data['photo'])}😱\n"
-                             f"<b>🍽 Блюдо на</b>: {data['type']}\n"
-                             f"<b>🍔 Каллории</b>: {data['calories']}\n"
-                             f"<b>⏳ Время приготовления</b>: {data['time']}\n"
-                             f"<b>Описание</b>: {data['description']}")
+                                          time=data['time'], description=data['description'], photo=photo_url)
+        photo_lsd = open(photo_url, 'rb')
+        await bot.send_photo(message.chat.id, photo=photo_lsd, caption=f"Название: {data['title']}😱\n"
+                                                                       f"<b>🍽 Блюдо на</b>: {data['type']}\n"
+                                                                       f"<b>🍔 Каллории</b>: {data['calories']}\n"
+                                                                       f"<b>⏳ Время приготовления</b>: {data['time']}\n"
+                                                                       f"<b>Описание</b>: {data['description']}")
+
+
+@logger.catch()
+@dp.message_handler(commands=['create_history'])
+async def create_history(message: types.Message) -> None:
+    """
+    Show history if created products
+    :params
+        message - object of Message class
+    :return
+        none
+    """
+    logger.info(f"Пользователь {message.from_user.full_name} перешел в команду {create_history.__name__}")
+    query = get_created_history(message=message)
+
+    if not query:
+        await message.answer("Увы, вы еще не создали ни одного рецепта.\n"
+                             "Попробуйте <strong>создать</strong>, используя команду /create или "
+                             "выберите <strong>другую</strong> команду из /help")
+    else:
+        for indexes in query:
+            photo_lsd = open(indexes[5], 'rb')
+            await bot.send_photo(message.chat.id,
+                                 photo=photo_lsd,
+                                 caption=f"Название: {indexes[0]}😱\n"
+                                         f"<b>🍽 Блюдо на</b>: {indexes[1]}\n"
+                                         f"<b>🍔 Калории</b>: {indexes[2]}\n"
+                                         f"<b>⏳ Время приготовления</b>: {indexes[3]}\n"
+                                         f"<b>Описание</b>: {indexes[4]}")
 
 
 def main() -> None:

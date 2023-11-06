@@ -3,12 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-                  "(KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
-}
-
-
 rubrics = {
     'pp-obed': 7,
     'pp-deserty': 2,
@@ -27,7 +21,7 @@ def get_receptions_from_pages() -> None:
         counter = 0
         for index in range(1, pages_quantities + 1):
             url = f"https://1000.menu/catalog/{names}/" + f"{index}"
-            response = requests.get(url, headers=headers)
+            response = requests.get(url)
             src = response.text
             soup = BeautifulSoup(src, "lxml")
             find_all_hrefs_for_recipes = soup.find(class_="cooking-block").find_all(class_="cn-item")
@@ -53,4 +47,6 @@ def get_receptions_from_pages() -> None:
 
 
 if __name__ == "__main__":
+    print('start scraping...')
     get_receptions_from_pages()
+    print('end scraping...')

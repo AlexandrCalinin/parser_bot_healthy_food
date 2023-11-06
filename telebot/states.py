@@ -12,3 +12,4 @@ class StatesForCreate(StatesGroup):
     calories = State()
     image = State()
     description = State()
+    done = State()

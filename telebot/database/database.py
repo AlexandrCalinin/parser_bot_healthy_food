@@ -1,9 +1,10 @@
 import json
 import sqlite3
-from aiogram.types import Message
+
+from aiogram.types import Message, InlineQueryResult
 from loguru import logger
 
-con = sqlite3.connect("../database.db")
+con = sqlite3.connect("/Users/sasakalinin/PycharmProjects/parser_bot_healthy_food/telebot/database.db")
 cursor = con.cursor()
 
 
@@ -17,7 +18,6 @@ class User:
     """
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS user(
-        id INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,
         name TEXT NOT NULL,
         user_id TEXT NOT NULL
         )
@@ -117,7 +117,6 @@ class Create:
     """
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS created(
-        id INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE,
         title TEXT NOT NULL,
         type TEXT NOT NULL,
         calories TEXT NOT NULL,
@@ -142,9 +141,10 @@ def data_for_db() -> None:
     Function which open files and collect info about recipies and send it in a dict
     :return - none
     """
+    print('start loading data ...')
     files_list = ["result_lyogkii-ujin.json", "result_pp-deserty.json", "result_pp-obed.json", "result_pp-zavtrak.json"]
     for file_name in files_list:
-        with open(f"results/{file_name}", 'r', encoding='windows-1251') as file:
+        with open(f"results/{file_name}", 'r', encoding='utf-8') as file:
             list_of_dicts = json.loads(file.read())
             for elements in list_of_dicts:
                 if file_name == "result_lyogkii-ujin.json":
@@ -173,6 +173,7 @@ def data_for_db() -> None:
     cursor.executemany("INSERT INTO dinner VALUES (?, ?, ?, ?, ?, ?);", dinner_list)
     cursor.executemany("INSERT INTO desserts VALUES (?, ?, ?, ?, ?, ?);", desserts_list)
     con.commit()
+    print('end loading data ...')
 
 
 @logger.catch()
@@ -258,13 +259,13 @@ def create_user(message: Message):
     user_name = message.from_user.full_name
     info = cursor.execute('SELECT * FROM user WHERE user_id=?', (user_id,)).fetchone()
     if info is None:
-        cursor.execute("INSERT INTO user VALUES(name, user_id)", (user_name, user_id))
+        cursor.execute("INSERT INTO user (name, user_id) VALUES(?, ?)", (user_name, user_id))
         con.commit()
 
 
 @logger.catch()
 def send_data_from_recipe_to_database(message: Message, title: str, type_meal: str, calories: str, time: str,
-                                      photo: list, description: str) -> None:
+                                      photo: str, description: str) -> None:
     """
     Function to create a recipe
     :params
@@ -275,7 +276,24 @@ def send_data_from_recipe_to_database(message: Message, title: str, type_meal: s
     logger.info(f"Пользователь {message.from_user.full_name} "
                 f"перешел в функцию {send_data_from_recipe_to_database.__name__}")
     user_id = cursor.execute('SELECT * FROM user WHERE user_id=?', (message.from_user.id,)).fetchone()
-    primary_user_key = user_id['id']
-    print(primary_user_key)
-    cursor.execute("INSERT INTO created VALUES (?, ?, ?, ?, ?, ?, ?, ?)", ())
-    # con.commit()
+    primary_user_key = user_id[1]
+    cursor.execute("INSERT INTO created (title, type, calories, time, description, photo, user) VALUES ("
+                   "?, ?, ?, ?, ?, ?, ?)", (title, type_meal, calories, time, description, photo,
+                                            primary_user_key))
+    con.commit()
+
+
+@logger.catch()
+def get_created_history(message: Message):
+    """
+    Get queryset of created products by user_id
+    :params
+        message - object of Message type
+    :return
+        queryset
+    """
+    logger.info(f"Пользователь {message.from_user.full_name} "
+                f"перешел в функцию {get_created_history.__name__}")
+    user_id = message.from_user.id
+    query = cursor.execute('SELECT * FROM created WHERE user=?', (user_id,)).fetchall()
+    return query
