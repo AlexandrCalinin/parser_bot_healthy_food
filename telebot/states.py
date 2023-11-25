@@ -7,6 +7,7 @@ storage = MemoryStorage()
 
 class StatesForCreate(StatesGroup):
     title = State()
+    callback_type = State()
     type = State()
     time = State()
     calories = State()

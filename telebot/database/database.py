@@ -1,7 +1,7 @@
 import json
 import sqlite3
 
-from aiogram.types import Message, InlineQueryResult
+from aiogram.types import Message
 from loguru import logger
 
 con = sqlite3.connect("/Users/sasakalinin/PycharmProjects/parser_bot_healthy_food/telebot/database.db")
@@ -138,7 +138,7 @@ desserts_list = list()
 
 def data_for_db() -> None:
     """
-    Function which open files and collect info about recipies and send it in a dict
+    Function which open files and collect info about recipies and send to database
     :return - none
     """
     print('start loading data ...')
@@ -177,81 +177,31 @@ def data_for_db() -> None:
 
 
 @logger.catch()
-def get_data_from_breakfast_table(message: Message, number: int) -> list:
+def get_data_from_table_in_range(message: Message, number: int, table_name: str) -> list:
     """
-    Function which collect data from breakfast table
+    Function which collect data from chosen table in a required range
     :params
         message - object of Message type
-        number - quantity of data to collect
+        number - quantity of required data
+        table_name - required table in database
     :return
         list - queryset
     """
     logger.info(f"Пользователь {message.from_user.full_name} "
-                f"перешел в функцию {get_data_from_breakfast_table.__name__}")
-    cursor.execute("SELECT * FROM breakfast")
-    queryset = cursor.fetchmany(number)
+                f"перешел в функцию get_data_from_desserts_table.{table_name}")
+    queryset = cursor.execute(f"SELECT * FROM {table_name} WHERE id > (?) and id < (?)",
+                              (number, number + 16)).fetchall()
     return queryset
 
 
 @logger.catch()
-def get_data_from_lunch_table(message: Message, number: int) -> list:
-    """
-    Function which collect data from lunch table
-    :params
-        message - object of Message type
-        number - quantity of data to collect
-    :return
-        list - queryset
-    """
-    logger.info(f"Пользователь {message.from_user.full_name} "
-                f"перешел в функцию {get_data_from_lunch_table.__name__}")
-    cursor.execute("SELECT * FROM lunch")
-    queryset = cursor.fetchmany(number)
-    return queryset
-
-
-@logger.catch()
-def get_data_from_dinner_table(message: Message, number: int) -> list:
-    """
-    Function which collect data from breakfast table
-    :params
-        message - object of Message type
-        number - quantity of data to collect
-    :return
-        list - queryset
-    """
-    logger.info(f"Пользователь {message.from_user.full_name} "
-                f"перешел в функцию {get_data_from_dinner_table.__name__}")
-    cursor.execute("SELECT * FROM dinner")
-    queryset = cursor.fetchmany(number)
-    return queryset
-
-
-@logger.catch()
-def get_data_from_desserts_table(message: Message, number: int) -> list:
-    """
-    Function which collect data from desserts table
-    :params
-        message - object of Message type
-        number - quantity of data to collect
-    :return
-        list - queryset
-    """
-    logger.info(f"Пользователь {message.from_user.full_name} "
-                f"перешел в функцию {get_data_from_dinner_table.__name__}")
-    cursor.execute("SELECT * FROM desserts")
-    queryset = cursor.fetchmany(number)
-    return queryset
-
-
-@logger.catch()
-def create_user(message: Message):
+def create_user(message: Message) -> None:
     """
     Function to create a new user
     :params
         message - object of Message type
     :return
-        none
+        None
     """
     logger.info(f"Пользователь {message.from_user.full_name} "
                 f"перешел в функцию {create_user.__name__}")
@@ -271,7 +221,7 @@ def send_data_from_recipe_to_database(message: Message, title: str, type_meal: s
     :params
         message - object of Message type
     :return
-        none
+        None
     """
     logger.info(f"Пользователь {message.from_user.full_name} "
                 f"перешел в функцию {send_data_from_recipe_to_database.__name__}")
@@ -284,13 +234,13 @@ def send_data_from_recipe_to_database(message: Message, title: str, type_meal: s
 
 
 @logger.catch()
-def get_created_history(message: Message):
+def get_created_history(message: Message) -> list:
     """
     Get queryset of created products by user_id
     :params
         message - object of Message type
     :return
-        queryset
+        list - queryset
     """
     logger.info(f"Пользователь {message.from_user.full_name} "
                 f"перешел в функцию {get_created_history.__name__}")
