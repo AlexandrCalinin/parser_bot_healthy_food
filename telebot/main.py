@@ -1,5 +1,6 @@
 import os.path
 import re
+import time
 
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.dispatcher import FSMContext
@@ -7,18 +8,22 @@ from aiogram.utils.markdown import hlink
 
 from config import BOT_TOKEN, DEFAULT_COMMANDS
 from keyboards.start_keyboard import start_keyboard
-from keyboards.send_more_recipies_keyboard import send_more_recipies_keyboard, cd_walk
+from keyboards.send_more_recipies_keyboard import send_more_recipies_keyboard, send_more_recipies_cd_walk
 from keyboards.type_meal_keyboard import type_meal_keyboard
+from keyboards.add_to_favorites import add_to_favorites, add_to_favorites_cd_walk
 from loguru import logger
 from database.database import (create_user, send_data_from_recipe_to_database, get_created_history,
-                               get_data_from_table_in_range)
+                               get_data_from_table_in_range, add_recipe_to_favorites_table_db)
 from states import storage, StatesForCreate
-
 
 bot = Bot(BOT_TOKEN, parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot, storage=storage)
 regex = "^[a-zA-Zа-яА-ЯёЁ]+$"
 pattern = re.compile(regex)
+counter_for_breakfast = 0
+counter_for_dinner = 0
+counter_for_lunch = 0
+counter_for_desserts = 0
 
 
 @logger.catch()
@@ -32,7 +37,9 @@ async def start(message: types.Message):
     create_user(message)
     logger.info(f"Пользователь {message.from_user.full_name} перешел в команду {start.__name__}")
     await message.answer(f"Здравствуй, {message.from_user.full_name}! 🙋\nЯ - бот для поиска рецептов. 🔥\n"
-                         "Выберите <b>одну</b> из команд, чтобы начать работу.", reply_markup=start_keyboard())
+                         "Выберите команду /help, чтобы увидеть справочник по всем командам для более комфортного и "
+                         "понятного использования ☺️",
+                         reply_markup=start_keyboard())
 
 
 @logger.catch()
@@ -65,12 +72,35 @@ async def send_more_recipies(message: types.Message, table_name: str, quantity_r
         for items in queryset:
             message_structure = f"{hlink(items[1], items[5])} 😱\n🆔 id: {items[0]}\n<b>🍽 Блюдо на</b>: " \
                                 f"{items[2]}\n<b>🍔 Калории</b>: {items[3]}\n<b>⏳ Время приготовления</b>: {items[4]}"
-            await message.answer(message_structure)
-        await bot.send_message(message.chat.id, "Хотите вывести еще?", reply_markup=send_more_recipies_keyboard(
-            table_name=table_name
-        ))
+            await message.answer(message_structure, reply_markup=add_to_favorites(table_name=table_name, pk=items[0]))
+            time.sleep(0.5)
+        if len(queryset) == 15:
+            await bot.send_message(message.chat.id, "Хотите вывести еще?", reply_markup=send_more_recipies_keyboard(
+                table_name=table_name
+            ))
     except Exception:
         await bot.send_message(message.chat.id, "К сожалению, рецепты закончились(")
+
+
+@dp.callback_query_handler(add_to_favorites_cd_walk.filter(),
+                           lambda call: call['message']['reply_markup']
+                                        ['inline_keyboard'][0][0]['text'] == "Добавить в избранные ❤️")
+async def add_recipe_to_favorites(callback_query: types.CallbackQuery, callback_data: dict) -> None:
+    """
+    Function to add recipe to favorites by its pk
+        :params
+        callback_query - callback from inline keyboard
+        callback_data - special data to insert args in callback function
+    :return
+        None
+    """
+    try:
+        table_name = callback_data.get("table_name")
+        pk = callback_data.get("pk")
+        add_recipe_to_favorites_table_db(callback_query.message, table_name, pk)
+        await bot.send_message(callback_query.message.chat.id, "Вы успешно добавили товар в избранные ✅")
+    except IndexError:
+        await bot.send_message(callback_query.message.chat.id, "Что-то пошло не так, попробуйте заново  🔄❗")
 
 
 @logger.catch()
@@ -85,9 +115,6 @@ async def breakfast(message: types.Message) -> None:
     await send_more_recipies(message=message, table_name='breakfast')
 
 
-counter_for_breakfast = 0
-
-
 @logger.catch()
 @dp.message_handler(commands=["dinner"])
 async def dinner(message: types.Message) -> None:
@@ -100,9 +127,6 @@ async def dinner(message: types.Message) -> None:
     await send_more_recipies(message=message, table_name='dinner')
 
 
-counter_for_dinner = 0
-
-
 @logger.catch()
 @dp.message_handler(commands=["lunch"])
 async def lunch(message: types.Message) -> None:
@@ -113,9 +137,6 @@ async def lunch(message: types.Message) -> None:
     """
     logger.info(f"Пользователь {message.from_user.full_name} перешел в команду {lunch.__name__}")
     await send_more_recipies(message=message, table_name='lunch')
-
-
-counter_for_lunch = 0
 
 
 @logger.catch()
@@ -132,15 +153,27 @@ async def desserts(message: types.Message) -> None:
     await send_more_recipies(message=message, table_name='desserts')
 
 
-counter_for_desserts = 0
+@logger.catch()
+@dp.message_handler(commands=['favorites'])
+async def favorites(message: types.Message) -> None:
+    """
+    Function which send all favorite recipies
+    :param
+        message: Object of message class
+    :return:
+        None
+    """
+    logger.info(f"Пользователь {message.from_user.full_name} перешел в команду {favorites.__name__}")
+    await send_more_recipies(message=message, table_name='favorites')
 
 
-@dp.callback_query_handler(cd_walk.filter())
+@dp.callback_query_handler(send_more_recipies_cd_walk.filter())
 async def get_answer(callback_query: types.CallbackQuery, callback_data: dict) -> None:
     """
     Callback function to get the answer about sending more recipies from user
     :params
         callback_query - callback from inline keyboard
+        callback_data - special data to insert args in callback function
     :return
         None
     """
@@ -345,8 +378,9 @@ async def set_photo(message: types.Message, state: FSMContext) -> None:
             await bot.send_photo(message.chat.id, photo=photo_lsd, caption=f"Название: {data['title']}😱\n"
                                                                            f"<b>🍽 Блюдо на</b>: {data['type']}\n"
                                                                            f"<b>🍔 Калории</b>: {data['calories']}\n"
-                                                                           f"<b>⏳ Время приготовления</b>: {data['time']}\n"
-                                                                           f"<b>Описание</b>: {data['description']}")
+                                                                           f"<b>⏳ Время приготовления</b>: "
+                                                                           f"{data['time']}\n"
+                                                                           f"<b>📖 Описание</b>: {data['description']}")
         except Exception:
             await bot.send_message(message.chat.id, "Что-то пошло не так в ходе обработке фотографии. \n"
                                                     "Попробуйте заново, если ошибка вылезет повторно, то попробуйте"
@@ -383,7 +417,7 @@ async def create_history(message: types.Message) -> None:
                                          f"<b>🍽 Блюдо на</b>: {indexes[1]}\n"
                                          f"<b>🍔 Калории</b>: {indexes[2]}\n"
                                          f"<b>⏳ Время приготовления</b>: {indexes[3]}\n"
-                                         f"<b>Описание</b>: {indexes[4]}")
+                                         f"<b>📖 Описание</b>: {indexes[4]}")
 
 
 def main() -> None:

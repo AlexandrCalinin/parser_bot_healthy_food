@@ -14,7 +14,7 @@ class User:
 
     Attrs:
         name - Username
-        user _id - user id
+        user_id - user id
     """
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS user(
@@ -113,6 +113,9 @@ class Create:
         title - dish name
         calories - calories quantity
         time - time spending on cooking
+        description - short information about how to cook or which ingredients you need to prepare a dish
+        photo - an url of a photo which is pinned to a recipe
+        user - person who created this recipe
         type - part of day meal (breakfast, lunch, dinner, desserts)
     """
     cursor.execute("""
@@ -220,6 +223,13 @@ def send_data_from_recipe_to_database(message: Message, title: str, type_meal: s
     Function to create a recipe
     :params
         message - object of Message type
+        title - dish name
+         type - part of day meal (breakfast, lunch, dinner, desserts)
+        calories - calories quantity
+        time - time spending on cooking
+        description - short information about how to cook or which ingredients you need to prepare a dish
+        photo - an url of a photo which is pinned to a recipe
+        user - person who created this recipe
     :return
         None
     """
@@ -247,3 +257,25 @@ def get_created_history(message: Message) -> list:
     user_id = message.from_user.id
     query = cursor.execute('SELECT * FROM created WHERE user=?', (user_id,)).fetchall()
     return query
+
+
+@logger.catch()
+def add_recipe_to_favorites_table_db(message: Message, table_name: str, pk: int) -> None:
+    """
+    Add required recipe to favorite (table)
+    :params
+        message - object of Message type
+        table_name - required table in database
+        pk - primary key of a recipe in required table of database
+    :return 
+        None
+    """
+    logger.info(f"Пользователь {message.from_user.full_name} перешел в функцию "
+                f"{add_recipe_to_favorites_table_db.__name__}")
+    needed_query = cursor.execute(f'SELECT * FROM {table_name} WHERE id=?', (pk,)).fetchone()
+    user_id = message.from_user.id
+    cursor.execute('INSERT INTO favorites (title, type, calories, time, url, user) VALUES ('
+                   '?, ?, ?, ?, ?, ?)', (needed_query[1], needed_query[2],
+                                         needed_query[3], needed_query[4],
+                                         needed_query[5], user_id))
+    con.commit()
